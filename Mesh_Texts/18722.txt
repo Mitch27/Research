@@ -1,0 +1,4965 @@
+return_code: 
+  code: -1
+mesh: 
+  triangles: 
+    - 
+      vertex_indices: [146, 366, 618]
+    - 
+      vertex_indices: [366, 524, 618]
+    - 
+      vertex_indices: [618, 524, 365]
+    - 
+      vertex_indices: [450, 618, 365]
+    - 
+      vertex_indices: [450, 290, 618]
+    - 
+      vertex_indices: [290, 450, 549]
+    - 
+      vertex_indices: [549, 450, 365]
+    - 
+      vertex_indices: [524, 163, 365]
+    - 
+      vertex_indices: [365, 163, 549]
+    - 
+      vertex_indices: [366, 231, 524]
+    - 
+      vertex_indices: [549, 164, 290]
+    - 
+      vertex_indices: [231, 366, 109]
+    - 
+      vertex_indices: [163, 164, 549]
+    - 
+      vertex_indices: [164, 163, 328]
+    - 
+      vertex_indices: [328, 33, 164]
+    - 
+      vertex_indices: [473, 163, 524]
+    - 
+      vertex_indices: [162, 328, 163]
+    - 
+      vertex_indices: [162, 163, 473]
+    - 
+      vertex_indices: [146, 618, 446]
+    - 
+      vertex_indices: [618, 349, 446]
+    - 
+      vertex_indices: [568, 446, 349]
+    - 
+      vertex_indices: [568, 349, 403]
+    - 
+      vertex_indices: [403, 1, 568]
+    - 
+      vertex_indices: [382, 568, 1]
+    - 
+      vertex_indices: [124, 1, 403]
+    - 
+      vertex_indices: [1, 124, 382]
+    - 
+      vertex_indices: [568, 382, 214]
+    - 
+      vertex_indices: [124, 362, 382]
+    - 
+      vertex_indices: [444, 214, 382]
+    - 
+      vertex_indices: [362, 444, 382]
+    - 
+      vertex_indices: [336, 568, 214]
+    - 
+      vertex_indices: [336, 24, 568]
+    - 
+      vertex_indices: [444, 345, 214]
+    - 
+      vertex_indices: [336, 214, 313]
+    - 
+      vertex_indices: [136, 214, 345]
+    - 
+      vertex_indices: [381, 345, 444]
+    - 
+      vertex_indices: [136, 313, 214]
+    - 
+      vertex_indices: [362, 381, 444]
+    - 
+      vertex_indices: [345, 355, 136]
+    - 
+      vertex_indices: [136, 355, 313]
+    - 
+      vertex_indices: [612, 336, 313]
+    - 
+      vertex_indices: [612, 313, 355]
+    - 
+      vertex_indices: [345, 470, 355]
+    - 
+      vertex_indices: [470, 612, 355]
+    - 
+      vertex_indices: [336, 612, 333]
+    - 
+      vertex_indices: [24, 336, 137]
+    - 
+      vertex_indices: [137, 336, 333]
+    - 
+      vertex_indices: [24, 137, 395]
+    - 
+      vertex_indices: [446, 583, 146]
+    - 
+      vertex_indices: [568, 583, 446]
+    - 
+      vertex_indices: [109, 366, 108]
+    - 
+      vertex_indices: [108, 138, 109]
+    - 
+      vertex_indices: [24, 105, 568]
+    - 
+      vertex_indices: [24, 395, 105]
+    - 
+      vertex_indices: [395, 106, 105]
+    - 
+      vertex_indices: [366, 146, 204]
+    - 
+      vertex_indices: [408, 138, 108]
+    - 
+      vertex_indices: [376, 568, 105]
+    - 
+      vertex_indices: [476, 146, 583]
+    - 
+      vertex_indices: [146, 476, 204]
+    - 
+      vertex_indices: [376, 476, 583]
+    - 
+      vertex_indices: [568, 376, 583]
+    - 
+      vertex_indices: [106, 57, 105]
+    - 
+      vertex_indices: [576, 108, 366]
+    - 
+      vertex_indices: [576, 408, 108]
+    - 
+      vertex_indices: [366, 460, 576]
+    - 
+      vertex_indices: [366, 204, 398]
+    - 
+      vertex_indices: [204, 476, 398]
+    - 
+      vertex_indices: [398, 476, 376]
+    - 
+      vertex_indices: [376, 105, 255]
+    - 
+      vertex_indices: [423, 460, 366]
+    - 
+      vertex_indices: [161, 366, 398]
+    - 
+      vertex_indices: [376, 145, 398]
+    - 
+      vertex_indices: [31, 366, 161]
+    - 
+      vertex_indices: [145, 376, 273]
+    - 
+      vertex_indices: [366, 31, 423]
+    - 
+      vertex_indices: [376, 255, 273]
+    - 
+      vertex_indices: [255, 105, 57]
+    - 
+      vertex_indices: [58, 255, 57]
+    - 
+      vertex_indices: [58, 110, 255]
+    - 
+      vertex_indices: [423, 278, 460]
+    - 
+      vertex_indices: [67, 576, 460]
+    - 
+      vertex_indices: [67, 460, 278]
+    - 
+      vertex_indices: [31, 38, 423]
+    - 
+      vertex_indices: [423, 38, 278]
+    - 
+      vertex_indices: [398, 145, 218]
+    - 
+      vertex_indices: [398, 218, 161]
+    - 
+      vertex_indices: [273, 255, 180]
+    - 
+      vertex_indices: [180, 255, 110]
+    - 
+      vertex_indices: [356, 145, 273]
+    - 
+      vertex_indices: [180, 356, 273]
+    - 
+      vertex_indices: [157, 145, 356]
+    - 
+      vertex_indices: [218, 145, 481]
+    - 
+      vertex_indices: [157, 481, 145]
+    - 
+      vertex_indices: [431, 157, 356]
+    - 
+      vertex_indices: [161, 30, 31]
+    - 
+      vertex_indices: [157, 431, 481]
+    - 
+      vertex_indices: [161, 218, 597]
+    - 
+      vertex_indices: [30, 161, 597]
+    - 
+      vertex_indices: [481, 597, 218]
+    - 
+      vertex_indices: [349, 126, 403]
+    - 
+      vertex_indices: [403, 126, 124]
+    - 
+      vertex_indices: [381, 362, 126]
+    - 
+      vertex_indices: [124, 126, 362]
+    - 
+      vertex_indices: [381, 540, 345]
+    - 
+      vertex_indices: [383, 345, 540]
+    - 
+      vertex_indices: [381, 126, 540]
+    - 
+      vertex_indices: [349, 618, 404]
+    - 
+      vertex_indices: [33, 341, 164]
+    - 
+      vertex_indices: [341, 33, 425]
+    - 
+      vertex_indices: [425, 604, 341]
+    - 
+      vertex_indices: [223, 404, 618]
+    - 
+      vertex_indices: [523, 223, 618]
+    - 
+      vertex_indices: [7, 523, 618]
+    - 
+      vertex_indices: [618, 522, 7]
+    - 
+      vertex_indices: [349, 402, 126]
+    - 
+      vertex_indices: [540, 126, 402]
+    - 
+      vertex_indices: [223, 521, 404]
+    - 
+      vertex_indices: [7, 522, 148]
+    - 
+      vertex_indices: [402, 349, 213]
+    - 
+      vertex_indices: [213, 349, 404]
+    - 
+      vertex_indices: [404, 521, 213]
+    - 
+      vertex_indices: [402, 607, 540]
+    - 
+      vertex_indices: [607, 228, 540]
+    - 
+      vertex_indices: [164, 341, 424]
+    - 
+      vertex_indices: [618, 290, 63]
+    - 
+      vertex_indices: [164, 63, 290]
+    - 
+      vertex_indices: [618, 63, 3]
+    - 
+      vertex_indices: [3, 339, 618]
+    - 
+      vertex_indices: [339, 522, 618]
+    - 
+      vertex_indices: [445, 607, 402]
+    - 
+      vertex_indices: [433, 607, 445]
+    - 
+      vertex_indices: [341, 32, 424]
+    - 
+      vertex_indices: [339, 213, 521]
+    - 
+      vertex_indices: [125, 433, 445]
+    - 
+      vertex_indices: [424, 32, 203]
+    - 
+      vertex_indices: [213, 447, 402]
+    - 
+      vertex_indices: [447, 445, 402]
+    - 
+      vertex_indices: [447, 3, 63]
+    - 
+      vertex_indices: [445, 447, 125]
+    - 
+      vertex_indices: [447, 213, 339]
+    - 
+      vertex_indices: [339, 3, 447]
+    - 
+      vertex_indices: [154, 433, 125]
+    - 
+      vertex_indices: [154, 54, 433]
+    - 
+      vertex_indices: [389, 63, 164]
+    - 
+      vertex_indices: [83, 389, 164]
+    - 
+      vertex_indices: [83, 164, 424]
+    - 
+      vertex_indices: [62, 63, 389]
+    - 
+      vertex_indices: [63, 62, 447]
+    - 
+      vertex_indices: [424, 34, 83]
+    - 
+      vertex_indices: [69, 125, 447]
+    - 
+      vertex_indices: [203, 34, 424]
+    - 
+      vertex_indices: [154, 125, 69]
+    - 
+      vertex_indices: [83, 505, 389]
+    - 
+      vertex_indices: [389, 384, 62]
+    - 
+      vertex_indices: [69, 447, 51]
+    - 
+      vertex_indices: [51, 447, 384]
+    - 
+      vertex_indices: [62, 384, 447]
+    - 
+      vertex_indices: [83, 34, 581]
+    - 
+      vertex_indices: [505, 227, 389]
+    - 
+      vertex_indices: [227, 388, 389]
+    - 
+      vertex_indices: [83, 548, 505]
+    - 
+      vertex_indices: [83, 581, 548]
+    - 
+      vertex_indices: [227, 505, 296]
+    - 
+      vertex_indices: [548, 296, 505]
+    - 
+      vertex_indices: [227, 475, 388]
+    - 
+      vertex_indices: [217, 227, 296]
+    - 
+      vertex_indices: [227, 217, 475]
+    - 
+      vertex_indices: [389, 35, 384]
+    - 
+      vertex_indices: [388, 21, 389]
+    - 
+      vertex_indices: [389, 21, 469]
+    - 
+      vertex_indices: [175, 51, 384]
+    - 
+      vertex_indices: [35, 389, 469]
+    - 
+      vertex_indices: [388, 232, 21]
+    - 
+      vertex_indices: [475, 232, 388]
+    - 
+      vertex_indices: [232, 475, 295]
+    - 
+      vertex_indices: [475, 217, 295]
+    - 
+      vertex_indices: [217, 296, 23]
+    - 
+      vertex_indices: [35, 526, 384]
+    - 
+      vertex_indices: [384, 526, 175]
+    - 
+      vertex_indices: [469, 21, 156]
+    - 
+      vertex_indices: [469, 156, 35]
+    - 
+      vertex_indices: [228, 471, 383]
+    - 
+      vertex_indices: [228, 383, 540]
+    - 
+      vertex_indices: [323, 471, 228]
+    - 
+      vertex_indices: [155, 383, 471]
+    - 
+      vertex_indices: [471, 270, 155]
+    - 
+      vertex_indices: [228, 343, 323]
+    - 
+      vertex_indices: [228, 607, 343]
+    - 
+      vertex_indices: [323, 343, 252]
+    - 
+      vertex_indices: [27, 323, 252]
+    - 
+      vertex_indices: [323, 27, 380]
+    - 
+      vertex_indices: [252, 494, 27]
+    - 
+      vertex_indices: [433, 343, 607]
+    - 
+      vertex_indices: [554, 494, 252]
+    - 
+      vertex_indices: [54, 252, 343]
+    - 
+      vertex_indices: [433, 54, 343]
+    - 
+      vertex_indices: [54, 584, 252]
+    - 
+      vertex_indices: [554, 252, 584]
+    - 
+      vertex_indices: [584, 54, 68]
+    - 
+      vertex_indices: [154, 68, 54]
+    - 
+      vertex_indices: [206, 383, 155]
+    - 
+      vertex_indices: [324, 383, 206]
+    - 
+      vertex_indices: [602, 206, 155]
+    - 
+      vertex_indices: [324, 333, 383]
+    - 
+      vertex_indices: [470, 383, 333]
+    - 
+      vertex_indices: [470, 345, 383]
+    - 
+      vertex_indices: [612, 470, 333]
+    - 
+      vertex_indices: [428, 206, 602]
+    - 
+      vertex_indices: [333, 324, 137]
+    - 
+      vertex_indices: [206, 428, 205]
+    - 
+      vertex_indices: [205, 111, 206]
+    - 
+      vertex_indices: [111, 324, 206]
+    - 
+      vertex_indices: [324, 111, 137]
+    - 
+      vertex_indices: [137, 111, 395]
+    - 
+      vertex_indices: [111, 205, 547]
+    - 
+      vertex_indices: [111, 547, 106]
+    - 
+      vertex_indices: [106, 395, 111]
+    - 
+      vertex_indices: [207, 547, 205]
+    - 
+      vertex_indices: [207, 305, 547]
+    - 
+      vertex_indices: [305, 572, 547]
+    - 
+      vertex_indices: [547, 572, 282]
+    - 
+      vertex_indices: [282, 419, 547]
+    - 
+      vertex_indices: [547, 419, 106]
+    - 
+      vertex_indices: [419, 282, 520]
+    - 
+      vertex_indices: [332, 406, 363]
+    - 
+      vertex_indices: [332, 256, 406]
+    - 
+      vertex_indices: [363, 406, 208]
+    - 
+      vertex_indices: [256, 332, 170]
+    - 
+      vertex_indices: [464, 256, 170]
+    - 
+      vertex_indices: [170, 374, 464]
+    - 
+      vertex_indices: [593, 464, 374]
+    - 
+      vertex_indices: [208, 406, 407]
+    - 
+      vertex_indices: [291, 407, 406]
+    - 
+      vertex_indices: [291, 600, 407]
+    - 
+      vertex_indices: [406, 546, 291]
+    - 
+      vertex_indices: [406, 113, 546]
+    - 
+      vertex_indices: [350, 291, 546]
+    - 
+      vertex_indices: [350, 546, 160]
+    - 
+      vertex_indices: [113, 160, 546]
+    - 
+      vertex_indices: [291, 350, 159]
+    - 
+      vertex_indices: [600, 291, 159]
+    - 
+      vertex_indices: [113, 112, 160]
+    - 
+      vertex_indices: [112, 113, 150]
+    - 
+      vertex_indices: [112, 601, 160]
+    - 
+      vertex_indices: [601, 350, 160]
+    - 
+      vertex_indices: [112, 150, 572]
+    - 
+      vertex_indices: [428, 350, 601]
+    - 
+      vertex_indices: [350, 428, 159]
+    - 
+      vertex_indices: [150, 242, 572]
+    - 
+      vertex_indices: [267, 242, 150]
+    - 
+      vertex_indices: [601, 112, 207]
+    - 
+      vertex_indices: [428, 466, 159]
+    - 
+      vertex_indices: [159, 466, 600]
+    - 
+      vertex_indices: [407, 116, 208]
+    - 
+      vertex_indices: [407, 599, 116]
+    - 
+      vertex_indices: [407, 600, 599]
+    - 
+      vertex_indices: [600, 466, 599]
+    - 
+      vertex_indices: [599, 466, 270]
+    - 
+      vertex_indices: [599, 114, 116]
+    - 
+      vertex_indices: [599, 270, 364]
+    - 
+      vertex_indices: [599, 364, 114]
+    - 
+      vertex_indices: [279, 116, 114]
+    - 
+      vertex_indices: [114, 364, 279]
+    - 
+      vertex_indices: [364, 270, 380]
+    - 
+      vertex_indices: [380, 308, 364]
+    - 
+      vertex_indices: [364, 308, 279]
+    - 
+      vertex_indices: [116, 279, 115]
+    - 
+      vertex_indices: [279, 575, 115]
+    - 
+      vertex_indices: [575, 308, 380]
+    - 
+      vertex_indices: [575, 279, 308]
+    - 
+      vertex_indices: [574, 115, 575]
+    - 
+      vertex_indices: [115, 574, 438]
+    - 
+      vertex_indices: [439, 115, 438]
+    - 
+      vertex_indices: [575, 380, 327]
+    - 
+      vertex_indices: [575, 327, 574]
+    - 
+      vertex_indices: [439, 438, 370]
+    - 
+      vertex_indices: [311, 438, 574]
+    - 
+      vertex_indices: [184, 311, 574]
+    - 
+      vertex_indices: [327, 184, 574]
+    - 
+      vertex_indices: [438, 311, 370]
+    - 
+      vertex_indices: [369, 184, 327]
+    - 
+      vertex_indices: [184, 369, 288]
+    - 
+      vertex_indices: [311, 235, 370]
+    - 
+      vertex_indices: [369, 454, 288]
+    - 
+      vertex_indices: [178, 311, 184]
+    - 
+      vertex_indices: [178, 235, 311]
+    - 
+      vertex_indices: [480, 190, 188]
+    - 
+      vertex_indices: [188, 190, 78]
+    - 
+      vertex_indices: [187, 188, 78]
+    - 
+      vertex_indices: [78, 190, 555]
+    - 
+      vertex_indices: [78, 555, 187]
+    - 
+      vertex_indices: [187, 555, 570]
+    - 
+      vertex_indices: [187, 570, 497]
+    - 
+      vertex_indices: [480, 88, 190]
+    - 
+      vertex_indices: [535, 570, 555]
+    - 
+      vertex_indices: [190, 97, 555]
+    - 
+      vertex_indices: [97, 535, 555]
+    - 
+      vertex_indices: [190, 88, 52]
+    - 
+      vertex_indices: [25, 190, 52]
+    - 
+      vertex_indices: [480, 56, 88]
+    - 
+      vertex_indices: [25, 130, 190]
+    - 
+      vertex_indices: [401, 25, 52]
+    - 
+      vertex_indices: [53, 401, 52]
+    - 
+      vertex_indices: [53, 580, 401]
+    - 
+      vertex_indices: [25, 401, 130]
+    - 
+      vertex_indices: [130, 409, 190]
+    - 
+      vertex_indices: [190, 409, 97]
+    - 
+      vertex_indices: [52, 88, 46]
+    - 
+      vertex_indices: [56, 89, 88]
+    - 
+      vertex_indices: [89, 56, 134]
+    - 
+      vertex_indices: [46, 53, 52]
+    - 
+      vertex_indices: [309, 56, 480]
+    - 
+      vertex_indices: [309, 480, 485]
+    - 
+      vertex_indices: [293, 309, 485]
+    - 
+      vertex_indices: [499, 88, 89]
+    - 
+      vertex_indices: [88, 499, 46]
+    - 
+      vertex_indices: [459, 56, 309]
+    - 
+      vertex_indices: [459, 134, 56]
+    - 
+      vertex_indices: [486, 309, 293]
+    - 
+      vertex_indices: [459, 309, 209]
+    - 
+      vertex_indices: [309, 486, 315]
+    - 
+      vertex_indices: [292, 486, 293]
+    - 
+      vertex_indices: [280, 134, 459]
+    - 
+      vertex_indices: [209, 309, 315]
+    - 
+      vertex_indices: [459, 209, 70]
+    - 
+      vertex_indices: [486, 292, 448]
+    - 
+      vertex_indices: [292, 293, 118]
+    - 
+      vertex_indices: [117, 292, 118]
+    - 
+      vertex_indices: [39, 480, 188]
+    - 
+      vertex_indices: [480, 39, 319]
+    - 
+      vertex_indices: [480, 319, 485]
+    - 
+      vertex_indices: [119, 188, 187]
+    - 
+      vertex_indices: [319, 293, 485]
+    - 
+      vertex_indices: [293, 319, 118]
+    - 
+      vertex_indices: [119, 187, 571]
+    - 
+      vertex_indices: [319, 42, 118]
+    - 
+      vertex_indices: [117, 118, 42]
+    - 
+      vertex_indices: [188, 594, 39]
+    - 
+      vertex_indices: [594, 188, 119]
+    - 
+      vertex_indices: [544, 117, 42]
+    - 
+      vertex_indices: [119, 224, 594]
+    - 
+      vertex_indices: [172, 42, 319]
+    - 
+      vertex_indices: [39, 573, 319]
+    - 
+      vertex_indices: [172, 319, 573]
+    - 
+      vertex_indices: [42, 172, 421]
+    - 
+      vertex_indices: [590, 42, 421]
+    - 
+      vertex_indices: [42, 590, 171]
+    - 
+      vertex_indices: [42, 171, 544]
+    - 
+      vertex_indices: [40, 39, 594]
+    - 
+      vertex_indices: [71, 172, 573]
+    - 
+      vertex_indices: [421, 172, 71]
+    - 
+      vertex_indices: [40, 594, 224]
+    - 
+      vertex_indices: [40, 224, 73]
+    - 
+      vertex_indices: [573, 39, 127]
+    - 
+      vertex_indices: [39, 40, 127]
+    - 
+      vertex_indices: [71, 393, 421]
+    - 
+      vertex_indices: [393, 590, 421]
+    - 
+      vertex_indices: [71, 573, 219]
+    - 
+      vertex_indices: [219, 393, 71]
+    - 
+      vertex_indices: [127, 40, 128]
+    - 
+      vertex_indices: [219, 573, 457]
+    - 
+      vertex_indices: [573, 127, 457]
+    - 
+      vertex_indices: [321, 338, 556]
+    - 
+      vertex_indices: [556, 249, 321]
+    - 
+      vertex_indices: [249, 310, 321]
+    - 
+      vertex_indices: [543, 249, 556]
+    - 
+      vertex_indices: [211, 310, 249]
+    - 
+      vertex_indices: [120, 211, 249]
+    - 
+      vertex_indices: [120, 249, 543]
+    - 
+      vertex_indices: [387, 338, 321]
+    - 
+      vertex_indices: [387, 185, 338]
+    - 
+      vertex_indices: [251, 338, 185]
+    - 
+      vertex_indices: [251, 410, 338]
+    - 
+      vertex_indices: [11, 321, 310]
+    - 
+      vertex_indices: [386, 11, 310]
+    - 
+      vertex_indices: [251, 185, 73]
+    - 
+      vertex_indices: [387, 276, 185]
+    - 
+      vertex_indices: [321, 276, 387]
+    - 
+      vertex_indices: [11, 386, 241]
+    - 
+      vertex_indices: [310, 210, 386]
+    - 
+      vertex_indices: [210, 241, 386]
+    - 
+      vertex_indices: [185, 72, 73]
+    - 
+      vertex_indices: [276, 578, 185]
+    - 
+      vertex_indices: [277, 276, 321]
+    - 
+      vertex_indices: [578, 72, 185]
+    - 
+      vertex_indices: [578, 276, 239]
+    - 
+      vertex_indices: [277, 239, 276]
+    - 
+      vertex_indices: [321, 11, 277]
+    - 
+      vertex_indices: [277, 11, 241]
+    - 
+      vertex_indices: [418, 277, 241]
+    - 
+      vertex_indices: [410, 472, 338]
+    - 
+      vertex_indices: [556, 484, 543]
+    - 
+      vertex_indices: [472, 410, 250]
+    - 
+      vertex_indices: [556, 338, 411]
+    - 
+      vertex_indices: [411, 484, 556]
+    - 
+      vertex_indices: [484, 411, 317]
+    - 
+      vertex_indices: [347, 484, 317]
+    - 
+      vertex_indices: [201, 472, 250]
+    - 
+      vertex_indices: [200, 338, 472]
+    - 
+      vertex_indices: [318, 338, 200]
+    - 
+      vertex_indices: [411, 338, 318]
+    - 
+      vertex_indices: [201, 200, 472]
+    - 
+      vertex_indices: [347, 317, 385]
+    - 
+      vertex_indices: [455, 385, 317]
+    - 
+      vertex_indices: [268, 347, 385]
+    - 
+      vertex_indices: [337, 268, 385]
+    - 
+      vertex_indices: [268, 337, 616]
+    - 
+      vertex_indices: [616, 337, 4]
+    - 
+      vertex_indices: [4, 337, 147]
+    - 
+      vertex_indices: [153, 147, 337]
+    - 
+      vertex_indices: [334, 147, 153]
+    - 
+      vertex_indices: [512, 334, 153]
+    - 
+      vertex_indices: [541, 512, 153]
+    - 
+      vertex_indices: [613, 541, 153]
+    - 
+      vertex_indices: [613, 337, 385]
+    - 
+      vertex_indices: [337, 613, 153]
+    - 
+      vertex_indices: [354, 385, 455]
+    - 
+      vertex_indices: [123, 512, 541]
+    - 
+      vertex_indices: [541, 542, 123]
+    - 
+      vertex_indices: [411, 318, 95]
+    - 
+      vertex_indices: [95, 317, 411]
+    - 
+      vertex_indices: [317, 615, 455]
+    - 
+      vertex_indices: [200, 201, 342]
+    - 
+      vertex_indices: [318, 200, 496]
+    - 
+      vertex_indices: [200, 342, 496]
+    - 
+      vertex_indices: [269, 354, 455]
+    - 
+      vertex_indices: [455, 615, 269]
+    - 
+      vertex_indices: [354, 269, 226]
+    - 
+      vertex_indices: [95, 318, 396]
+    - 
+      vertex_indices: [342, 96, 496]
+    - 
+      vertex_indices: [330, 269, 615]
+    - 
+      vertex_indices: [496, 488, 318]
+    - 
+      vertex_indices: [318, 488, 396]
+    - 
+      vertex_indices: [488, 496, 79]
+    - 
+      vertex_indices: [79, 496, 96]
+    - 
+      vertex_indices: [488, 507, 396]
+    - 
+      vertex_indices: [95, 396, 260]
+    - 
+      vertex_indices: [344, 226, 269]
+    - 
+      vertex_indices: [260, 396, 507]
+    - 
+      vertex_indices: [344, 269, 519]
+    - 
+      vertex_indices: [614, 344, 519]
+    - 
+      vertex_indices: [497, 96, 342]
+    - 
+      vertex_indices: [488, 79, 452]
+    - 
+      vertex_indices: [507, 488, 452]
+    - 
+      vertex_indices: [452, 79, 104]
+    - 
+      vertex_indices: [452, 244, 507]
+    - 
+      vertex_indices: [79, 553, 104]
+    - 
+      vertex_indices: [452, 104, 55]
+    - 
+      vertex_indices: [104, 553, 55]
+    - 
+      vertex_indices: [254, 452, 55]
+    - 
+      vertex_indices: [254, 55, 553]
+    - 
+      vertex_indices: [452, 254, 511]
+    - 
+      vertex_indices: [452, 179, 244]
+    - 
+      vertex_indices: [179, 452, 511]
+    - 
+      vertex_indices: [253, 244, 179]
+    - 
+      vertex_indices: [179, 420, 253]
+    - 
+      vertex_indices: [96, 535, 79]
+    - 
+      vertex_indices: [535, 553, 79]
+    - 
+      vertex_indices: [541, 613, 430]
+    - 
+      vertex_indices: [385, 354, 265]
+    - 
+      vertex_indices: [354, 226, 265]
+    - 
+      vertex_indices: [226, 344, 517]
+    - 
+      vertex_indices: [614, 517, 344]
+    - 
+      vertex_indices: [614, 12, 517]
+    - 
+      vertex_indices: [12, 614, 13]
+    - 
+      vertex_indices: [265, 226, 474]
+    - 
+      vertex_indices: [518, 13, 614]
+    - 
+      vertex_indices: [13, 518, 603]
+    - 
+      vertex_indices: [430, 613, 620]
+    - 
+      vertex_indices: [385, 620, 613]
+    - 
+      vertex_indices: [606, 474, 226]
+    - 
+      vertex_indices: [429, 226, 517]
+    - 
+      vertex_indices: [429, 606, 226]
+    - 
+      vertex_indices: [397, 13, 603]
+    - 
+      vertex_indices: [13, 397, 100]
+    - 
+      vertex_indices: [80, 13, 100]
+    - 
+      vertex_indices: [518, 614, 569]
+    - 
+      vertex_indices: [569, 603, 518]
+    - 
+      vertex_indices: [569, 245, 603]
+    - 
+      vertex_indices: [397, 603, 245]
+    - 
+      vertex_indices: [617, 620, 385]
+    - 
+      vertex_indices: [385, 265, 617]
+    - 
+      vertex_indices: [429, 605, 606]
+    - 
+      vertex_indices: [474, 606, 425]
+    - 
+      vertex_indices: [542, 541, 534]
+    - 
+      vertex_indices: [541, 430, 534]
+    - 
+      vertex_indices: [534, 28, 542]
+    - 
+      vertex_indices: [620, 359, 430]
+    - 
+      vertex_indices: [430, 359, 534]
+    - 
+      vertex_indices: [28, 77, 542]
+    - 
+      vertex_indices: [77, 76, 542]
+    - 
+      vertex_indices: [76, 281, 542]
+    - 
+      vertex_indices: [9, 617, 265]
+    - 
+      vertex_indices: [604, 429, 517]
+    - 
+      vertex_indices: [265, 6, 9]
+    - 
+      vertex_indices: [606, 605, 425]
+    - 
+      vertex_indices: [363, 449, 545]
+    - 
+      vertex_indices: [363, 352, 449]
+    - 
+      vertex_indices: [545, 449, 448]
+    - 
+      vertex_indices: [352, 363, 208]
+    - 
+      vertex_indices: [448, 117, 545]
+    - 
+      vertex_indices: [116, 352, 208]
+    - 
+      vertex_indices: [545, 243, 363]
+    - 
+      vertex_indices: [117, 544, 545]
+    - 
+      vertex_indices: [591, 363, 243]
+    - 
+      vertex_indices: [591, 332, 363]
+    - 
+      vertex_indices: [545, 44, 243]
+    - 
+      vertex_indices: [545, 41, 44]
+    - 
+      vertex_indices: [591, 243, 44]
+    - 
+      vertex_indices: [544, 41, 545]
+    - 
+      vertex_indices: [44, 422, 591]
+    - 
+      vertex_indices: [332, 591, 422]
+    - 
+      vertex_indices: [332, 422, 592]
+    - 
+      vertex_indices: [174, 422, 44]
+    - 
+      vertex_indices: [592, 170, 332]
+    - 
+      vertex_indices: [592, 458, 170]
+    - 
+      vertex_indices: [352, 440, 449]
+    - 
+      vertex_indices: [467, 449, 440]
+    - 
+      vertex_indices: [351, 440, 352]
+    - 
+      vertex_indices: [116, 351, 352]
+    - 
+      vertex_indices: [116, 115, 351]
+    - 
+      vertex_indices: [467, 440, 133]
+    - 
+      vertex_indices: [133, 280, 467]
+    - 
+      vertex_indices: [315, 449, 467]
+    - 
+      vertex_indices: [467, 280, 70]
+    - 
+      vertex_indices: [70, 315, 467]
+    - 
+      vertex_indices: [351, 439, 440]
+    - 
+      vertex_indices: [351, 115, 439]
+    - 
+      vertex_indices: [134, 280, 133]
+    - 
+      vertex_indices: [98, 133, 440]
+    - 
+      vertex_indices: [439, 135, 440]
+    - 
+      vertex_indices: [440, 135, 495]
+    - 
+      vertex_indices: [133, 98, 99]
+    - 
+      vertex_indices: [99, 134, 133]
+    - 
+      vertex_indices: [202, 440, 495]
+    - 
+      vertex_indices: [202, 98, 440]
+    - 
+      vertex_indices: [98, 202, 99]
+    - 
+      vertex_indices: [135, 439, 158]
+    - 
+      vertex_indices: [370, 158, 439]
+    - 
+      vertex_indices: [26, 99, 202]
+    - 
+      vertex_indices: [370, 235, 158]
+    - 
+      vertex_indices: [495, 378, 202]
+    - 
+      vertex_indices: [135, 158, 378]
+    - 
+      vertex_indices: [495, 135, 378]
+    - 
+      vertex_indices: [90, 202, 378]
+    - 
+      vertex_indices: [236, 378, 158]
+    - 
+      vertex_indices: [202, 90, 26]
+    - 
+      vertex_indices: [158, 235, 236]
+    - 
+      vertex_indices: [537, 348, 86]
+    - 
+      vertex_indices: [86, 348, 215]
+    - 
+      vertex_indices: [86, 215, 400]
+    - 
+      vertex_indices: [400, 259, 86]
+    - 
+      vertex_indices: [400, 360, 259]
+    - 
+      vertex_indices: [248, 86, 259]
+    - 
+      vertex_indices: [216, 248, 259]
+    - 
+      vertex_indices: [86, 248, 487]
+    - 
+      vertex_indices: [551, 86, 487]
+    - 
+      vertex_indices: [537, 86, 550]
+    - 
+      vertex_indices: [132, 537, 550]
+    - 
+      vertex_indices: [348, 537, 533]
+    - 
+      vertex_indices: [550, 86, 340]
+    - 
+      vertex_indices: [86, 551, 340]
+    - 
+      vertex_indices: [340, 289, 550]
+    - 
+      vertex_indices: [533, 297, 348]
+    - 
+      vertex_indices: [15, 550, 289]
+    - 
+      vertex_indices: [15, 132, 550]
+    - 
+      vertex_indices: [394, 533, 537]
+    - 
+      vertex_indices: [394, 139, 533]
+    - 
+      vertex_indices: [132, 611, 537]
+    - 
+      vertex_indices: [482, 394, 537]
+    - 
+      vertex_indices: [132, 15, 611]
+    - 
+      vertex_indices: [611, 131, 537]
+    - 
+      vertex_indices: [131, 482, 537]
+    - 
+      vertex_indices: [139, 394, 580]
+    - 
+      vertex_indices: [482, 580, 394]
+    - 
+      vertex_indices: [533, 47, 297]
+    - 
+      vertex_indices: [297, 47, 501]
+    - 
+      vertex_indices: [47, 533, 194]
+    - 
+      vertex_indices: [533, 139, 194]
+    - 
+      vertex_indices: [194, 193, 47]
+    - 
+      vertex_indices: [501, 48, 297]
+    - 
+      vertex_indices: [297, 48, 272]
+    - 
+      vertex_indices: [272, 514, 297]
+    - 
+      vertex_indices: [48, 346, 272]
+    - 
+      vertex_indices: [514, 272, 346]
+    - 
+      vertex_indices: [561, 47, 193]
+    - 
+      vertex_indices: [353, 501, 47]
+    - 
+      vertex_indices: [353, 47, 587]
+    - 
+      vertex_indices: [561, 587, 47]
+    - 
+      vertex_indices: [353, 48, 501]
+    - 
+      vertex_indices: [176, 48, 353]
+    - 
+      vertex_indices: [346, 48, 286]
+    - 
+      vertex_indices: [176, 500, 48]
+    - 
+      vertex_indices: [500, 286, 48]
+    - 
+      vertex_indices: [286, 500, 562]
+    - 
+      vertex_indices: [346, 286, 177]
+    - 
+      vertex_indices: [620, 617, 524]
+    - 
+      vertex_indices: [473, 524, 617]
+    - 
+      vertex_indices: [10, 473, 617]
+    - 
+      vertex_indices: [149, 10, 617]
+    - 
+      vertex_indices: [10, 162, 473]
+    - 
+      vertex_indices: [10, 149, 162]
+    - 
+      vertex_indices: [231, 620, 524]
+    - 
+      vertex_indices: [6, 162, 149]
+    - 
+      vertex_indices: [6, 149, 9]
+    - 
+      vertex_indices: [359, 620, 231]
+    - 
+      vertex_indices: [231, 109, 359]
+    - 
+      vertex_indices: [534, 359, 109]
+    - 
+      vertex_indices: [109, 138, 534]
+    - 
+      vertex_indices: [138, 408, 534]
+    - 
+      vertex_indices: [408, 28, 534]
+    - 
+      vertex_indices: [28, 408, 576]
+    - 
+      vertex_indices: [77, 28, 576]
+    - 
+      vertex_indices: [66, 77, 576]
+    - 
+      vertex_indices: [297, 563, 348]
+    - 
+      vertex_indices: [563, 297, 415]
+    - 
+      vertex_indices: [415, 414, 563]
+    - 
+      vertex_indices: [414, 415, 20]
+    - 
+      vertex_indices: [20, 415, 18]
+    - 
+      vertex_indices: [297, 16, 415]
+    - 
+      vertex_indices: [298, 16, 297]
+    - 
+      vertex_indices: [18, 415, 16]
+    - 
+      vertex_indices: [298, 297, 514]
+    - 
+      vertex_indices: [298, 514, 261]
+    - 
+      vertex_indices: [261, 514, 346]
+    - 
+      vertex_indices: [261, 346, 585]
+    - 
+      vertex_indices: [177, 585, 346]
+    - 
+      vertex_indices: [563, 215, 348]
+    - 
+      vertex_indices: [563, 414, 275]
+    - 
+      vertex_indices: [275, 360, 563]
+    - 
+      vertex_indices: [360, 215, 563]
+    - 
+      vertex_indices: [510, 275, 414]
+    - 
+      vertex_indices: [360, 400, 215]
+    - 
+      vertex_indices: [510, 238, 275]
+    - 
+      vertex_indices: [275, 536, 360]
+    - 
+      vertex_indices: [320, 360, 536]
+    - 
+      vertex_indices: [320, 259, 360]
+    - 
+      vertex_indices: [275, 238, 536]
+    - 
+      vertex_indices: [513, 585, 177]
+    - 
+      vertex_indices: [560, 585, 513]
+    - 
+      vertex_indices: [216, 259, 320]
+    - 
+      vertex_indices: [441, 536, 238]
+    - 
+      vertex_indices: [441, 238, 510]
+    - 
+      vertex_indices: [443, 320, 536]
+    - 
+      vertex_indices: [536, 441, 443]
+    - 
+      vertex_indices: [314, 216, 320]
+    - 
+      vertex_indices: [248, 216, 314]
+    - 
+      vertex_indices: [487, 248, 314]
+    - 
+      vertex_indices: [502, 443, 441]
+    - 
+      vertex_indices: [502, 442, 443]
+    - 
+      vertex_indices: [314, 399, 487]
+    - 
+      vertex_indices: [314, 442, 399]
+    - 
+      vertex_indices: [551, 487, 399]
+    - 
+      vertex_indices: [442, 502, 285]
+    - 
+      vertex_indices: [367, 551, 399]
+    - 
+      vertex_indices: [285, 274, 442]
+    - 
+      vertex_indices: [274, 285, 564]
+    - 
+      vertex_indices: [399, 503, 367]
+    - 
+      vertex_indices: [367, 503, 107]
+    - 
+      vertex_indices: [237, 274, 564]
+    - 
+      vertex_indices: [492, 274, 237]
+    - 
+      vertex_indices: [503, 451, 107]
+    - 
+      vertex_indices: [503, 377, 451]
+    - 
+      vertex_indices: [17, 468, 19]
+    - 
+      vertex_indices: [468, 609, 19]
+    - 
+      vertex_indices: [468, 17, 156]
+    - 
+      vertex_indices: [609, 18, 19]
+    - 
+      vertex_indices: [609, 20, 18]
+    - 
+      vertex_indices: [20, 609, 414]
+    - 
+      vertex_indices: [21, 468, 156]
+    - 
+      vertex_indices: [18, 16, 19]
+    - 
+      vertex_indices: [50, 17, 19]
+    - 
+      vertex_indices: [610, 50, 19]
+    - 
+      vertex_indices: [17, 50, 526]
+    - 
+      vertex_indices: [16, 610, 19]
+    - 
+      vertex_indices: [50, 610, 49]
+    - 
+      vertex_indices: [16, 49, 610]
+    - 
+      vertex_indices: [50, 49, 588]
+    - 
+      vertex_indices: [49, 371, 588]
+    - 
+      vertex_indices: [195, 588, 371]
+    - 
+      vertex_indices: [195, 371, 498]
+    - 
+      vertex_indices: [468, 21, 608]
+    - 
+      vertex_indices: [375, 609, 468]
+    - 
+      vertex_indices: [375, 414, 609]
+    - 
+      vertex_indices: [468, 432, 375]
+    - 
+      vertex_indices: [432, 468, 608]
+    - 
+      vertex_indices: [375, 510, 414]
+    - 
+      vertex_indices: [608, 295, 432]
+    - 
+      vertex_indices: [22, 375, 432]
+    - 
+      vertex_indices: [432, 23, 22]
+    - 
+      vertex_indices: [22, 510, 375]
+    - 
+      vertex_indices: [510, 22, 441]
+    - 
+      vertex_indices: [432, 295, 23]
+    - 
+      vertex_indices: [87, 22, 23]
+    - 
+      vertex_indices: [22, 87, 502]
+    - 
+      vertex_indices: [502, 441, 22]
+    - 
+      vertex_indices: [502, 87, 564]
+    - 
+      vertex_indices: [564, 285, 502]
+    - 
+      vertex_indices: [87, 552, 564]
+    - 
+      vertex_indices: [552, 87, 582]
+    - 
+      vertex_indices: [564, 552, 237]
+    - 
+      vertex_indices: [144, 306, 598]
+    - 
+      vertex_indices: [230, 144, 598]
+    - 
+      vertex_indices: [426, 598, 306]
+    - 
+      vertex_indices: [516, 426, 306]
+    - 
+      vertex_indices: [516, 306, 192]
+    - 
+      vertex_indices: [191, 192, 306]
+    - 
+      vertex_indices: [426, 516, 427]
+    - 
+      vertex_indices: [312, 516, 192]
+    - 
+      vertex_indices: [191, 84, 192]
+    - 
+      vertex_indices: [504, 516, 312]
+    - 
+      vertex_indices: [84, 372, 192]
+    - 
+      vertex_indices: [230, 598, 166]
+    - 
+      vertex_indices: [465, 230, 166]
+    - 
+      vertex_indices: [598, 426, 166]
+    - 
+      vertex_indices: [426, 167, 166]
+    - 
+      vertex_indices: [306, 528, 191]
+    - 
+      vertex_indices: [191, 528, 85]
+    - 
+      vertex_indices: [167, 271, 166]
+    - 
+      vertex_indices: [271, 596, 166]
+    - 
+      vertex_indices: [166, 596, 229]
+    - 
+      vertex_indices: [166, 229, 465]
+    - 
+      vertex_indices: [230, 527, 144]
+    - 
+      vertex_indices: [144, 527, 390]
+    - 
+      vertex_indices: [306, 144, 390]
+    - 
+      vertex_indices: [390, 221, 306]
+    - 
+      vertex_indices: [221, 434, 306]
+    - 
+      vertex_indices: [434, 528, 306]
+    - 
+      vertex_indices: [434, 85, 528]
+    - 
+      vertex_indices: [271, 183, 596]
+    - 
+      vertex_indices: [229, 596, 37]
+    - 
+      vertex_indices: [183, 37, 596]
+    - 
+      vertex_indices: [168, 37, 183]
+    - 
+      vertex_indices: [221, 390, 303]
+    - 
+      vertex_indices: [527, 262, 390]
+    - 
+      vertex_indices: [262, 527, 589]
+    - 
+      vertex_indices: [262, 303, 390]
+    - 
+      vertex_indices: [303, 262, 477]
+    - 
+      vertex_indices: [589, 373, 262]
+    - 
+      vertex_indices: [262, 373, 247]
+    - 
+      vertex_indices: [247, 567, 262]
+    - 
+      vertex_indices: [373, 589, 45]
+    - 
+      vertex_indices: [45, 246, 373]
+    - 
+      vertex_indices: [361, 220, 140]
+    - 
+      vertex_indices: [457, 361, 140]
+    - 
+      vertex_indices: [532, 140, 220]
+    - 
+      vertex_indices: [219, 457, 140]
+    - 
+      vertex_indices: [532, 220, 392]
+    - 
+      vertex_indices: [392, 142, 532]
+    - 
+      vertex_indices: [436, 392, 220]
+    - 
+      vertex_indices: [142, 392, 478]
+    - 
+      vertex_indices: [142, 478, 479]
+    - 
+      vertex_indices: [479, 391, 142]
+    - 
+      vertex_indices: [220, 538, 436]
+    - 
+      vertex_indices: [538, 220, 59]
+    - 
+      vertex_indices: [361, 59, 220]
+    - 
+      vertex_indices: [165, 361, 457]
+    - 
+      vertex_indices: [361, 14, 59]
+    - 
+      vertex_indices: [165, 14, 361]
+    - 
+      vertex_indices: [538, 59, 326]
+    - 
+      vertex_indices: [59, 60, 326]
+    - 
+      vertex_indices: [14, 60, 59]
+    - 
+      vertex_indices: [326, 61, 538]
+    - 
+      vertex_indices: [61, 539, 538]
+    - 
+      vertex_indices: [14, 129, 60]
+    - 
+      vertex_indices: [14, 165, 129]
+    - 
+      vertex_indices: [579, 539, 61]
+    - 
+      vertex_indices: [60, 64, 326]
+    - 
+      vertex_indices: [60, 129, 64]
+    - 
+      vertex_indices: [325, 579, 61]
+    - 
+      vertex_indices: [64, 462, 326]
+    - 
+      vertex_indices: [61, 326, 462]
+    - 
+      vertex_indices: [462, 417, 61]
+    - 
+      vertex_indices: [61, 417, 325]
+    - 
+      vertex_indices: [299, 140, 532]
+    - 
+      vertex_indices: [532, 300, 299]
+    - 
+      vertex_indices: [566, 140, 299]
+    - 
+      vertex_indices: [140, 566, 141]
+    - 
+      vertex_indices: [142, 300, 532]
+    - 
+      vertex_indices: [300, 530, 299]
+    - 
+      vertex_indices: [300, 142, 391]
+    - 
+      vertex_indices: [358, 530, 300]
+    - 
+      vertex_indices: [391, 358, 300]
+    - 
+      vertex_indices: [566, 299, 283]
+    - 
+      vertex_indices: [566, 283, 565]
+    - 
+      vertex_indices: [566, 565, 141]
+    - 
+      vertex_indices: [299, 530, 189]
+    - 
+      vertex_indices: [283, 299, 2]
+    - 
+      vertex_indices: [189, 2, 299]
+    - 
+      vertex_indices: [463, 189, 530]
+    - 
+      vertex_indices: [292, 117, 448]
+    - 
+      vertex_indices: [294, 123, 542]
+    - 
+      vertex_indices: [294, 542, 405]
+    - 
+      vertex_indices: [281, 405, 542]
+    - 
+      vertex_indices: [284, 84, 191]
+    - 
+      vertex_indices: [191, 85, 284]
+    - 
+      vertex_indices: [23, 295, 217]
+    - 
+      vertex_indices: [478, 437, 479]
+    - 
+      vertex_indices: [70, 280, 459]
+    - 
+      vertex_indices: [112, 305, 207]
+    - 
+      vertex_indices: [112, 572, 305]
+    - 
+      vertex_indices: [417, 418, 182]
+    - 
+      vertex_indices: [527, 230, 431]
+    - 
+      vertex_indices: [527, 431, 356]
+    - 
+      vertex_indices: [597, 431, 230]
+    - 
+      vertex_indices: [597, 481, 431]
+    - 
+      vertex_indices: [465, 597, 230]
+    - 
+      vertex_indices: [30, 597, 465]
+    - 
+      vertex_indices: [229, 30, 465]
+    - 
+      vertex_indices: [427, 515, 538]
+    - 
+      vertex_indices: [427, 504, 515]
+    - 
+      vertex_indices: [504, 427, 516]
+    - 
+      vertex_indices: [515, 436, 538]
+    - 
+      vertex_indices: [504, 312, 515]
+    - 
+      vertex_indices: [427, 538, 379]
+    - 
+      vertex_indices: [427, 379, 29]
+    - 
+      vertex_indices: [29, 426, 427]
+    - 
+      vertex_indices: [379, 538, 539]
+    - 
+      vertex_indices: [167, 426, 29]
+    - 
+      vertex_indices: [29, 619, 167]
+    - 
+      vertex_indices: [379, 181, 29]
+    - 
+      vertex_indices: [539, 181, 379]
+    - 
+      vertex_indices: [619, 271, 167]
+    - 
+      vertex_indices: [579, 181, 539]
+    - 
+      vertex_indices: [619, 461, 271]
+    - 
+      vertex_indices: [461, 183, 271]
+    - 
+      vertex_indices: [325, 181, 579]
+    - 
+      vertex_indices: [325, 595, 181]
+    - 
+      vertex_indices: [325, 182, 595]
+    - 
+      vertex_indices: [65, 183, 461]
+    - 
+      vertex_indices: [515, 357, 436]
+    - 
+      vertex_indices: [301, 357, 515]
+    - 
+      vertex_indices: [515, 312, 301]
+    - 
+      vertex_indices: [312, 372, 301]
+    - 
+      vertex_indices: [372, 312, 192]
+    - 
+      vertex_indices: [301, 529, 357]
+    - 
+      vertex_indices: [372, 84, 301]
+    - 
+      vertex_indices: [436, 357, 478]
+    - 
+      vertex_indices: [392, 436, 478]
+    - 
+      vertex_indices: [357, 529, 478]
+    - 
+      vertex_indices: [187, 250, 571]
+    - 
+      vertex_indices: [410, 571, 250]
+    - 
+      vertex_indices: [187, 201, 250]
+    - 
+      vertex_indices: [335, 201, 187]
+    - 
+      vertex_indices: [342, 201, 335]
+    - 
+      vertex_indices: [497, 335, 187]
+    - 
+      vertex_indices: [335, 497, 342]
+    - 
+      vertex_indices: [210, 310, 211]
+    - 
+      vertex_indices: [263, 210, 211]
+    - 
+      vertex_indices: [263, 508, 210]
+    - 
+      vertex_indices: [257, 508, 263]
+    - 
+      vertex_indices: [211, 5, 263]
+    - 
+      vertex_indices: [264, 263, 5]
+    - 
+      vertex_indices: [147, 264, 5]
+    - 
+      vertex_indices: [334, 264, 147]
+    - 
+      vertex_indices: [264, 334, 258]
+    - 
+      vertex_indices: [334, 512, 258]
+    - 
+      vertex_indices: [123, 258, 512]
+    - 
+      vertex_indices: [258, 123, 122]
+    - 
+      vertex_indices: [294, 122, 123]
+    - 
+      vertex_indices: [147, 5, 4]
+    - 
+      vertex_indices: [5, 211, 616]
+    - 
+      vertex_indices: [211, 543, 616]
+    - 
+      vertex_indices: [211, 120, 543]
+    - 
+      vertex_indices: [5, 616, 4]
+    - 
+      vertex_indices: [95, 260, 615]
+    - 
+      vertex_indices: [260, 330, 615]
+    - 
+      vertex_indices: [330, 260, 416]
+    - 
+      vertex_indices: [260, 507, 416]
+    - 
+      vertex_indices: [416, 198, 330]
+    - 
+      vertex_indices: [198, 416, 199]
+    - 
+      vertex_indices: [519, 330, 198]
+    - 
+      vertex_indices: [269, 330, 519]
+    - 
+      vertex_indices: [519, 198, 199]
+    - 
+      vertex_indices: [416, 557, 199]
+    - 
+      vertex_indices: [557, 569, 199]
+    - 
+      vertex_indices: [507, 244, 416]
+    - 
+      vertex_indices: [397, 416, 244]
+    - 
+      vertex_indices: [244, 368, 397]
+    - 
+      vertex_indices: [245, 569, 557]
+    - 
+      vertex_indices: [557, 397, 245]
+    - 
+      vertex_indices: [130, 401, 611]
+    - 
+      vertex_indices: [131, 611, 401]
+    - 
+      vertex_indices: [482, 131, 401]
+    - 
+      vertex_indices: [130, 611, 409]
+    - 
+      vertex_indices: [409, 611, 15]
+    - 
+      vertex_indices: [409, 15, 254]
+    - 
+      vertex_indices: [418, 212, 65]
+    - 
+      vertex_indices: [65, 182, 418]
+    - 
+      vertex_indices: [240, 65, 212]
+    - 
+      vertex_indices: [212, 225, 240]
+    - 
+      vertex_indices: [461, 182, 65]
+    - 
+      vertex_indices: [595, 182, 461]
+    - 
+      vertex_indices: [304, 531, 301]
+    - 
+      vertex_indices: [304, 301, 284]
+    - 
+      vertex_indices: [531, 437, 301]
+    - 
+      vertex_indices: [301, 84, 284]
+    - 
+      vertex_indices: [529, 301, 437]
+    - 
+      vertex_indices: [437, 531, 479]
+    - 
+      vertex_indices: [531, 302, 479]
+    - 
+      vertex_indices: [304, 284, 435]
+    - 
+      vertex_indices: [529, 437, 478]
+    - 
+      vertex_indices: [284, 85, 435]
+    - 
+      vertex_indices: [435, 434, 304]
+    - 
+      vertex_indices: [304, 307, 531]
+    - 
+      vertex_indices: [307, 302, 531]
+    - 
+      vertex_indices: [304, 143, 307]
+    - 
+      vertex_indices: [434, 143, 304]
+    - 
+      vertex_indices: [307, 143, 221]
+    - 
+      vertex_indices: [307, 221, 477]
+    - 
+      vertex_indices: [302, 307, 506]
+    - 
+      vertex_indices: [391, 479, 302]
+    - 
+      vertex_indices: [302, 506, 358]
+    - 
+      vertex_indices: [302, 358, 391]
+    - 
+      vertex_indices: [119, 571, 251]
+    - 
+      vertex_indices: [410, 251, 571]
+    - 
+      vertex_indices: [224, 119, 251]
+    - 
+      vertex_indices: [224, 251, 73]
+    - 
+      vertex_indices: [46, 139, 53]
+    - 
+      vertex_indices: [139, 46, 194]
+    - 
+      vertex_indices: [193, 194, 46]
+    - 
+      vertex_indices: [499, 193, 46]
+    - 
+      vertex_indices: [139, 580, 53]
+    - 
+      vertex_indices: [587, 378, 353]
+    - 
+      vertex_indices: [378, 587, 90]
+    - 
+      vertex_indices: [587, 561, 90]
+    - 
+      vertex_indices: [90, 561, 91]
+    - 
+      vertex_indices: [26, 90, 91]
+    - 
+      vertex_indices: [91, 561, 499]
+    - 
+      vertex_indices: [193, 499, 561]
+    - 
+      vertex_indices: [378, 586, 353]
+    - 
+      vertex_indices: [353, 586, 176]
+    - 
+      vertex_indices: [586, 378, 92]
+    - 
+      vertex_indices: [586, 562, 176]
+    - 
+      vertex_indices: [378, 236, 92]
+    - 
+      vertex_indices: [177, 586, 92]
+    - 
+      vertex_indices: [586, 177, 286]
+    - 
+      vertex_indices: [562, 500, 176]
+    - 
+      vertex_indices: [286, 562, 586]
+    - 
+      vertex_indices: [92, 236, 513]
+    - 
+      vertex_indices: [92, 513, 177]
+    - 
+      vertex_indices: [316, 513, 236]
+    - 
+      vertex_indices: [581, 34, 80]
+    - 
+      vertex_indices: [34, 203, 80]
+    - 
+      vertex_indices: [13, 80, 203]
+    - 
+      vertex_indices: [12, 13, 203]
+    - 
+      vertex_indices: [32, 12, 203]
+    - 
+      vertex_indices: [12, 32, 517]
+    - 
+      vertex_indices: [32, 341, 517]
+    - 
+      vertex_indices: [604, 517, 341]
+    - 
+      vertex_indices: [578, 462, 64]
+    - 
+      vertex_indices: [462, 578, 239]
+    - 
+      vertex_indices: [239, 277, 462]
+    - 
+      vertex_indices: [417, 462, 277]
+    - 
+      vertex_indices: [277, 418, 417]
+    - 
+      vertex_indices: [129, 578, 64]
+    - 
+      vertex_indices: [578, 129, 72]
+    - 
+      vertex_indices: [73, 72, 129]
+    - 
+      vertex_indices: [471, 380, 270]
+    - 
+      vertex_indices: [380, 471, 323]
+    - 
+      vertex_indices: [38, 37, 278]
+    - 
+      vertex_indices: [165, 457, 127]
+    - 
+      vertex_indices: [128, 165, 127]
+    - 
+      vertex_indices: [129, 165, 128]
+    - 
+      vertex_indices: [129, 128, 40]
+    - 
+      vertex_indices: [73, 129, 40]
+    - 
+      vertex_indices: [21, 232, 608]
+    - 
+      vertex_indices: [232, 295, 608]
+    - 
+      vertex_indices: [205, 428, 601]
+    - 
+      vertex_indices: [601, 207, 205]
+    - 
+      vertex_indices: [418, 186, 212]
+    - 
+      vertex_indices: [121, 212, 186]
+    - 
+      vertex_indices: [212, 121, 405]
+    - 
+      vertex_indices: [405, 281, 212]
+    - 
+      vertex_indices: [225, 212, 281]
+    - 
+      vertex_indices: [186, 483, 121]
+    - 
+      vertex_indices: [121, 483, 294]
+    - 
+      vertex_indices: [405, 121, 294]
+    - 
+      vertex_indices: [483, 186, 508]
+    - 
+      vertex_indices: [186, 210, 508]
+    - 
+      vertex_indices: [511, 289, 340]
+    - 
+      vertex_indices: [289, 511, 254]
+    - 
+      vertex_indices: [289, 254, 15]
+    - 
+      vertex_indices: [340, 179, 511]
+    - 
+      vertex_indices: [340, 551, 179]
+    - 
+      vertex_indices: [367, 179, 551]
+    - 
+      vertex_indices: [179, 367, 107]
+    - 
+      vertex_indices: [107, 420, 179]
+    - 
+      vertex_indices: [451, 420, 107]
+    - 
+      vertex_indices: [174, 329, 422]
+    - 
+      vertex_indices: [174, 283, 329]
+    - 
+      vertex_indices: [329, 592, 422]
+    - 
+      vertex_indices: [2, 592, 329]
+    - 
+      vertex_indices: [329, 283, 2]
+    - 
+      vertex_indices: [283, 174, 565]
+    - 
+      vertex_indices: [458, 592, 2]
+    - 
+      vertex_indices: [2, 189, 458]
+    - 
+      vertex_indices: [189, 463, 458]
+    - 
+      vertex_indices: [174, 82, 565]
+    - 
+      vertex_indices: [82, 174, 44]
+    - 
+      vertex_indices: [41, 82, 44]
+    - 
+      vertex_indices: [327, 380, 494]
+    - 
+      vertex_indices: [27, 494, 380]
+    - 
+      vertex_indices: [369, 327, 494]
+    - 
+      vertex_indices: [494, 554, 369]
+    - 
+      vertex_indices: [155, 270, 602]
+    - 
+      vertex_indices: [270, 466, 602]
+    - 
+      vertex_indices: [466, 428, 602]
+    - 
+      vertex_indices: [325, 417, 182]
+    - 
+      vertex_indices: [266, 520, 282]
+    - 
+      vertex_indices: [266, 151, 520]
+    - 
+      vertex_indices: [266, 152, 151]
+    - 
+      vertex_indices: [307, 525, 234]
+    - 
+      vertex_indices: [506, 307, 234]
+    - 
+      vertex_indices: [525, 307, 477]
+    - 
+      vertex_indices: [567, 525, 477]
+    - 
+      vertex_indices: [246, 234, 525]
+    - 
+      vertex_indices: [234, 246, 81]
+    - 
+      vertex_indices: [234, 81, 374]
+    - 
+      vertex_indices: [374, 81, 593]
+    - 
+      vertex_indices: [347, 543, 484]
+    - 
+      vertex_indices: [616, 543, 347]
+    - 
+      vertex_indices: [347, 268, 616]
+    - 
+      vertex_indices: [580, 482, 401]
+    - 
+      vertex_indices: [210, 186, 241]
+    - 
+      vertex_indices: [186, 418, 241]
+    - 
+      vertex_indices: [491, 581, 80]
+    - 
+      vertex_indices: [80, 100, 491]
+    - 
+      vertex_indices: [100, 101, 491]
+    - 
+      vertex_indices: [101, 489, 491]
+    - 
+      vertex_indices: [489, 0, 491]
+    - 
+      vertex_indices: [101, 100, 103]
+    - 
+      vertex_indices: [0, 489, 490]
+    - 
+      vertex_indices: [581, 491, 552]
+    - 
+      vertex_indices: [552, 491, 0]
+    - 
+      vertex_indices: [237, 552, 0]
+    - 
+      vertex_indices: [582, 581, 552]
+    - 
+      vertex_indices: [412, 68, 588]
+    - 
+      vertex_indices: [588, 195, 412]
+    - 
+      vertex_indices: [68, 412, 456]
+    - 
+      vertex_indices: [68, 456, 94]
+    - 
+      vertex_indices: [498, 412, 195]
+    - 
+      vertex_indices: [412, 197, 456]
+    - 
+      vertex_indices: [197, 94, 456]
+    - 
+      vertex_indices: [412, 558, 197]
+    - 
+      vertex_indices: [558, 94, 197]
+    - 
+      vertex_indices: [393, 219, 140]
+    - 
+      vertex_indices: [140, 141, 393]
+    - 
+      vertex_indices: [590, 393, 141]
+    - 
+      vertex_indices: [141, 82, 590]
+    - 
+      vertex_indices: [565, 82, 141]
+    - 
+      vertex_indices: [82, 171, 590]
+    - 
+      vertex_indices: [535, 96, 570]
+    - 
+      vertex_indices: [497, 570, 96]
+    - 
+      vertex_indices: [315, 486, 449]
+    - 
+      vertex_indices: [486, 448, 449]
+    - 
+      vertex_indices: [102, 368, 377]
+    - 
+      vertex_indices: [377, 222, 102]
+    - 
+      vertex_indices: [368, 322, 377]
+    - 
+      vertex_indices: [451, 377, 322]
+    - 
+      vertex_indices: [102, 222, 103]
+    - 
+      vertex_indices: [103, 222, 489]
+    - 
+      vertex_indices: [490, 489, 222]
+    - 
+      vertex_indices: [222, 377, 493]
+    - 
+      vertex_indices: [493, 490, 222]
+    - 
+      vertex_indices: [331, 43, 45]
+    - 
+      vertex_indices: [45, 173, 331]
+    - 
+      vertex_indices: [246, 45, 43]
+    - 
+      vertex_indices: [110, 173, 45]
+    - 
+      vertex_indices: [331, 233, 43]
+    - 
+      vertex_indices: [169, 43, 233]
+    - 
+      vertex_indices: [331, 419, 233]
+    - 
+      vertex_indices: [520, 233, 419]
+    - 
+      vertex_indices: [169, 233, 520]
+    - 
+      vertex_indices: [151, 169, 520]
+    - 
+      vertex_indices: [152, 169, 151]
+    - 
+      vertex_indices: [256, 593, 150]
+    - 
+      vertex_indices: [267, 150, 593]
+    - 
+      vertex_indices: [256, 464, 593]
+    - 
+      vertex_indices: [593, 152, 267]
+    - 
+      vertex_indices: [150, 113, 256]
+    - 
+      vertex_indices: [113, 406, 256]
+    - 
+      vertex_indices: [328, 265, 474]
+    - 
+      vertex_indices: [6, 265, 328]
+    - 
+      vertex_indices: [328, 162, 6]
+    - 
+      vertex_indices: [328, 474, 425]
+    - 
+      vertex_indices: [425, 33, 328]
+    - 
+      vertex_indices: [560, 196, 453]
+    - 
+      vertex_indices: [413, 560, 453]
+    - 
+      vertex_indices: [178, 453, 196]
+    - 
+      vertex_indices: [513, 196, 560]
+    - 
+      vertex_indices: [558, 560, 413]
+    - 
+      vertex_indices: [513, 316, 196]
+    - 
+      vertex_indices: [320, 443, 314]
+    - 
+      vertex_indices: [442, 314, 443]
+    - 
+      vertex_indices: [17, 35, 156]
+    - 
+      vertex_indices: [526, 35, 17]
+    - 
+      vertex_indices: [588, 69, 51]
+    - 
+      vertex_indices: [69, 588, 68]
+    - 
+      vertex_indices: [51, 175, 588]
+    - 
+      vertex_indices: [50, 588, 175]
+    - 
+      vertex_indices: [37, 577, 509]
+    - 
+      vertex_indices: [37, 509, 278]
+    - 
+      vertex_indices: [168, 577, 37]
+    - 
+      vertex_indices: [36, 577, 168]
+    - 
+      vertex_indices: [36, 240, 577]
+    - 
+      vertex_indices: [66, 509, 577]
+    - 
+      vertex_indices: [66, 577, 74]
+    - 
+      vertex_indices: [74, 577, 240]
+    - 
+      vertex_indices: [66, 67, 509]
+    - 
+      vertex_indices: [225, 74, 240]
+    - 
+      vertex_indices: [74, 225, 75]
+    - 
+      vertex_indices: [66, 74, 76]
+    - 
+      vertex_indices: [76, 77, 66]
+    - 
+      vertex_indices: [75, 76, 74]
+    - 
+      vertex_indices: [75, 281, 76]
+    - 
+      vertex_indices: [75, 225, 281]
+    - 
+      vertex_indices: [134, 26, 89]
+    - 
+      vertex_indices: [134, 99, 26]
+    - 
+      vertex_indices: [499, 89, 26]
+    - 
+      vertex_indices: [91, 499, 26]
+    - 
+      vertex_indices: [257, 483, 508]
+    - 
+      vertex_indices: [257, 122, 483]
+    - 
+      vertex_indices: [122, 257, 258]
+    - 
+      vertex_indices: [483, 122, 294]
+    - 
+      vertex_indices: [258, 257, 264]
+    - 
+      vertex_indices: [263, 264, 257]
+    - 
+      vertex_indices: [614, 519, 199]
+    - 
+      vertex_indices: [463, 234, 458]
+    - 
+      vertex_indices: [49, 16, 93]
+    - 
+      vertex_indices: [412, 498, 560]
+    - 
+      vertex_indices: [317, 95, 615]
+    - 
+      vertex_indices: [454, 453, 288]
+    - 
+      vertex_indices: [454, 287, 453]
+    - 
+      vertex_indices: [413, 453, 287]
+    - 
+      vertex_indices: [368, 244, 253]
+    - 
+      vertex_indices: [322, 368, 253]
+    - 
+      vertex_indices: [322, 253, 420]
+    - 
+      vertex_indices: [420, 451, 322]
+    - 
+      vertex_indices: [581, 582, 548]
+    - 
+      vertex_indices: [557, 416, 397]
+    - 
+      vertex_indices: [316, 235, 178]
+    - 
+      vertex_indices: [236, 235, 316]
+    - 
+      vertex_indices: [316, 178, 196]
+    - 
+      vertex_indices: [593, 81, 43]
+    - 
+      vertex_indices: [110, 58, 173]
+    - 
+      vertex_indices: [209, 315, 70]
+    - 
+      vertex_indices: [489, 101, 103]
+    - 
+      vertex_indices: [521, 7, 148]
+    - 
+      vertex_indices: [148, 522, 521]
+    - 
+      vertex_indices: [234, 374, 458]
+    - 
+      vertex_indices: [576, 67, 66]
+    - 
+      vertex_indices: [240, 36, 65]
+    - 
+      vertex_indices: [87, 23, 548]
+    - 
+      vertex_indices: [296, 548, 23]
+    - 
+      vertex_indices: [582, 87, 548]
+    - 
+      vertex_indices: [57, 106, 419]
+    - 
+      vertex_indices: [57, 419, 58]
+    - 
+      vertex_indices: [331, 58, 419]
+    - 
+      vertex_indices: [58, 331, 173]
+    - 
+      vertex_indices: [589, 527, 180]
+    - 
+      vertex_indices: [356, 180, 527]
+    - 
+      vertex_indices: [110, 589, 180]
+    - 
+      vertex_indices: [589, 110, 45]
+    - 
+      vertex_indices: [506, 234, 530]
+    - 
+      vertex_indices: [530, 234, 463]
+    - 
+      vertex_indices: [506, 530, 358]
+    - 
+      vertex_indices: [93, 16, 261]
+    - 
+      vertex_indices: [298, 261, 16]
+    - 
+      vertex_indices: [261, 585, 93]
+    - 
+      vertex_indices: [559, 93, 585]
+    - 
+      vertex_indices: [560, 559, 585]
+    - 
+      vertex_indices: [68, 94, 584]
+    - 
+      vertex_indices: [94, 287, 584]
+    - 
+      vertex_indices: [584, 287, 454]
+    - 
+      vertex_indices: [454, 554, 584]
+    - 
+      vertex_indices: [554, 454, 369]
+    - 
+      vertex_indices: [31, 229, 37]
+    - 
+      vertex_indices: [37, 38, 31]
+    - 
+      vertex_indices: [30, 229, 31]
+    - 
+      vertex_indices: [503, 399, 442]
+    - 
+      vertex_indices: [503, 442, 274]
+    - 
+      vertex_indices: [377, 503, 274]
+    - 
+      vertex_indices: [274, 492, 377]
+    - 
+      vertex_indices: [492, 493, 377]
+    - 
+      vertex_indices: [553, 97, 409]
+    - 
+      vertex_indices: [535, 97, 553]
+    - 
+      vertex_indices: [288, 178, 184]
+    - 
+      vertex_indices: [178, 288, 453]
+    - 
+      vertex_indices: [181, 619, 29]
+    - 
+      vertex_indices: [619, 181, 461]
+    - 
+      vertex_indices: [181, 595, 461]
+    - 
+      vertex_indices: [154, 69, 68]
+    - 
+      vertex_indices: [93, 371, 49]
+    - 
+      vertex_indices: [371, 93, 559]
+    - 
+      vertex_indices: [559, 560, 371]
+    - 
+      vertex_indices: [498, 371, 560]
+    - 
+      vertex_indices: [254, 553, 409]
+    - 
+      vertex_indices: [41, 544, 171]
+    - 
+      vertex_indices: [82, 41, 171]
+    - 
+      vertex_indices: [102, 397, 368]
+    - 
+      vertex_indices: [175, 526, 50]
+    - 
+      vertex_indices: [458, 374, 170]
+    - 
+      vertex_indices: [100, 397, 102]
+    - 
+      vertex_indices: [604, 425, 429]
+    - 
+      vertex_indices: [199, 569, 614]
+    - 
+      vertex_indices: [183, 65, 168]
+    - 
+      vertex_indices: [43, 169, 593]
+    - 
+      vertex_indices: [521, 522, 339]
+    - 
+      vertex_indices: [477, 221, 303]
+    - 
+      vertex_indices: [434, 221, 143]
+    - 
+      vertex_indices: [267, 266, 282]
+    - 
+      vertex_indices: [152, 266, 267]
+    - 
+      vertex_indices: [242, 267, 282]
+    - 
+      vertex_indices: [242, 282, 572]
+    - 
+      vertex_indices: [558, 412, 560]
+    - 
+      vertex_indices: [246, 525, 373]
+    - 
+      vertex_indices: [81, 246, 43]
+    - 
+      vertex_indices: [65, 36, 168]
+    - 
+      vertex_indices: [617, 9, 149]
+    - 
+      vertex_indices: [521, 8, 7]
+    - 
+      vertex_indices: [102, 103, 100]
+    - 
+      vertex_indices: [0, 493, 237]
+    - 
+      vertex_indices: [492, 237, 493]
+    - 
+      vertex_indices: [493, 0, 490]
+    - 
+      vertex_indices: [567, 477, 262]
+    - 
+      vertex_indices: [85, 434, 435]
+    - 
+      vertex_indices: [605, 429, 425]
+    - 
+      vertex_indices: [8, 521, 223]
+    - 
+      vertex_indices: [169, 152, 593]
+    - 
+      vertex_indices: [94, 413, 287]
+    - 
+      vertex_indices: [558, 413, 94]
+    - 
+      vertex_indices: [373, 525, 247]
+    - 
+      vertex_indices: [567, 247, 525]
+    - 
+      vertex_indices: [8, 223, 523]
+    - 
+      vertex_indices: [67, 278, 509]
+    - 
+      vertex_indices: [8, 523, 7]
+  vertices: 
+    - 
+      x: 0.0596100006104
+      y: 0.0824700012207
+      z: 0.0488999938965
+    - 
+      x: -0.0584300003052
+      y: 0.00486100006104
+      z: 0.0633000030518
+    - 
+      x: -0.0545999984741
+      y: -0.0846699981689
+      z: 0.0441000061035
+    - 
+      x: -0.0422000007629
+      y: 0.0584000015259
+      z: 0.0628999938965
+    - 
+      x: 0.06775
+      y: -0.0310900001526
+      z: 0.0498999938965
+    - 
+      x: 0.0667200012207
+      y: -0.0345499992371
+      z: 0.0491000061035
+    - 
+      x: 0.0660400009155
+      y: 0.00859599971771
+      z: 0.0606999969482
+    - 
+      x: -0.0449900016785
+      y: 0.0444900016785
+      z: 0.0638999938965
+    - 
+      x: -0.0454000015259
+      y: 0.0450299987793
+      z: 0.0638000030518
+    - 
+      x: 0.0661399993896
+      y: 0.00501700019836
+      z: 0.0605
+    - 
+      x: 0.0658199996948
+      y: 0.001875
+      z: 0.061
+    - 
+      x: 0.0582400016785
+      y: -0.0711299972534
+      z: 0.0453000030518
+    - 
+      x: 0.0677300033569
+      y: 0.0566899986267
+      z: 0.0586999969482
+    - 
+      x: 0.0675899963379
+      y: 0.0658700027466
+      z: 0.0565
+    - 
+      x: 0.0350900001526
+      y: -0.0879899978638
+      z: 0.0125
+    - 
+      x: 0.0459000015259
+      y: 0.0763000030518
+      z: 0.00980000305176
+    - 
+      x: -0.03975
+      y: 0.0923899993896
+      z: 0.0483000030518
+    - 
+      x: -0.0300100002289
+      y: 0.0911800003052
+      z: 0.057
+    - 
+      x: -0.0305900001526
+      y: 0.0928899993896
+      z: 0.0493999938965
+    - 
+      x: -0.03325
+      y: 0.0928099975586
+      z: 0.0516000061035
+    - 
+      x: -0.02075
+      y: 0.0922200012207
+      z: 0.0498999938965
+    - 
+      x: -0.00519000005722
+      y: 0.0877099990845
+      z: 0.0603000030518
+    - 
+      x: 0.0348699989319
+      y: 0.0908899993896
+      z: 0.0511999969482
+    - 
+      x: 0.0335099983215
+      y: 0.0885299987793
+      z: 0.0585
+    - 
+      x: -0.0656299972534
+      y: -0.0522000007629
+      z: 0.0643999938965
+    - 
+      x: 0.0242999992371
+      y: 0.0705400009155
+      z: 0.00139999389648
+    - 
+      x: -0.0535800018311
+      y: 0.0666999969482
+      z: 0.00689999389648
+    - 
+      x: -0.0694499969482
+      y: 0.0480900001526
+      z: 0.0541000061035
+    - 
+      x: 0.0632700004578
+      y: -0.0726399993896
+      z: 0.0606000061035
+    - 
+      x: 0.0341899986267
+      y: -0.0978600006104
+      z: 0.0511999969482
+    - 
+      x: 0.0370299987793
+      y: -0.0948199996948
+      z: 0.0631000061035
+    - 
+      x: 0.0432099990845
+      y: -0.0900800018311
+      z: 0.0633999938965
+    - 
+      x: 0.0660400009155
+      y: 0.0498300018311
+      z: 0.0608999938965
+    - 
+      x: 0.0651200027466
+      y: 0.0275499992371
+      z: 0.0613999938965
+    - 
+      x: 0.0604900016785
+      y: 0.0718799972534
+      z: 0.0611999969482
+    - 
+      x: -0.0220200004578
+      y: 0.0875800018311
+      z: 0.0606999969482
+    - 
+      x: 0.0512900009155
+      y: -0.0943700027466
+      z: 0.0518000030518
+    - 
+      x: 0.0474399986267
+      y: -0.0940599975586
+      z: 0.0598999938965
+    - 
+      x: 0.0478600006104
+      y: -0.0901800003052
+      z: 0.0633999938965
+    - 
+      x: 0.0245400009155
+      y: -0.0641399993896
+      z: 0.00189999389648
+    - 
+      x: 0.0405299987793
+      y: -0.0780999984741
+      z: 0.00419999694824
+    - 
+      x: -0.0577799987793
+      y: -0.0741800003052
+      z: 0.0108000030518
+    - 
+      x: -0.0512999992371
+      y: -0.0663899993896
+      z: 0.00369999694824
+    - 
+      x: -0.0606199989319
+      y: -0.0895400009155
+      z: 0.0533999938965
+    - 
+      x: -0.0597099990845
+      y: -0.0744400024414
+      z: 0.0181999969482
+    - 
+      x: -0.0555499992371
+      y: -0.0909599990845
+      z: 0.0593999938965
+    - 
+      x: -0.0359500007629
+      y: 0.0755899963379
+      z: 0.00319999694824
+    - 
+      x: -0.0414099998474
+      y: 0.0811200027466
+      z: 0.0168000030518
+    - 
+      x: -0.0430400009155
+      y: 0.0846100006104
+      z: 0.0423999938965
+    - 
+      x: -0.0466500015259
+      y: 0.0916900024414
+      z: 0.0506000061035
+    - 
+      x: -0.0423899993896
+      y: 0.0906200027466
+      z: 0.0568000030518
+    - 
+      x: -0.0476899986267
+      y: 0.082
+      z: 0.0616000061035
+    - 
+      x: -0.0072389998436
+      y: 0.0714499969482
+      z: 0.0015
+    - 
+      x: -0.0144799995422
+      y: 0.0753000030518
+      z: 0.00289999389648
+    - 
+      x: -0.0658000030518
+      y: 0.0663199996948
+      z: 0.0591999969482
+    - 
+      x: 0.0565400009155
+      y: 0.0673899993896
+      z: 0.0148999938965
+    - 
+      x: -0.0475099983215
+      y: 0.0412000007629
+      z: 0.00119999694824
+    - 
+      x: -0.0640500030518
+      y: -0.0774800033569
+      z: 0.0636999969482
+    - 
+      x: -0.0607400016785
+      y: -0.0839400024414
+      z: 0.0628000030518
+    - 
+      x: 0.0338699989319
+      y: -0.0895100021362
+      z: 0.0238999938965
+    - 
+      x: 0.0395699996948
+      y: -0.0879400024414
+      z: 0.0178000030518
+    - 
+      x: 0.0415600013733
+      y: -0.0908399963379
+      z: 0.0456000061035
+    - 
+      x: -0.0312600002289
+      y: 0.0737699966431
+      z: 0.0621000061035
+    - 
+      x: -0.02325
+      y: 0.0605099983215
+      z: 0.0631999969482
+    - 
+      x: 0.0443199996948
+      y: -0.0865299987793
+      z: 0.022
+    - 
+      x: 0.0495499992371
+      y: -0.0939599990845
+      z: 0.0511000061035
+    - 
+      x: 0.0585200004578
+      y: -0.0843300018311
+      z: 0.0603999938965
+    - 
+      x: 0.0559399986267
+      y: -0.0855199966431
+      z: 0.063
+    - 
+      x: -0.0616100006104
+      y: 0.0769800033569
+      z: 0.0588000030518
+    - 
+      x: -0.0576300010681
+      y: 0.0751100006104
+      z: 0.0616000061035
+    - 
+      x: -0.0576699981689
+      y: 0.0159899997711
+      z: 0.0045
+    - 
+      x: -0.0274200000763
+      y: -0.0780500030518
+      z: 0.00360000610352
+    - 
+      x: 0.0503899993896
+      y: -0.0785599975586
+      z: 0.0121999969482
+    - 
+      x: 0.0496300010681
+      y: -0.0748199996948
+      z: 0.00819999694824
+    - 
+      x: 0.0602700004578
+      y: -0.0857900009155
+      z: 0.0533000030518
+    - 
+      x: 0.0622400016785
+      y: -0.083
+      z: 0.0518000030518
+    - 
+      x: 0.0635900001526
+      y: -0.0795100021362
+      z: 0.0546999969482
+    - 
+      x: 0.0628899993896
+      y: -0.0770500030518
+      z: 0.0591999969482
+    - 
+      x: 0.0464099998474
+      y: 0.0216599998474
+      z: 0.00110000610352
+    - 
+      x: 0.0587599983215
+      y: 0.0570200004578
+      z: 0.0131999969482
+    - 
+      x: 0.0639000015259
+      y: 0.0733799972534
+      z: 0.0576000061035
+    - 
+      x: -0.0583800010681
+      y: -0.0894899978638
+      z: 0.0513999938965
+    - 
+      x: -0.0526699981689
+      y: -0.0795899963379
+      z: 0.01
+    - 
+      x: 0.0484000015259
+      y: 0.0741100006104
+      z: 0.0618000030518
+    - 
+      x: -0.0125399999619
+      y: -0.0975599975586
+      z: 0.051
+    - 
+      x: -0.0257199993134
+      y: -0.0975800018311
+      z: 0.0513000030518
+    - 
+      x: 0.0372299995422
+      y: 0.0818099975586
+      z: 0.0361000061035
+    - 
+      x: 0.0458199996948
+      y: 0.0884700012207
+      z: 0.0558000030518
+    - 
+      x: -0.0346399993896
+      y: 0.0627299995422
+      z: 0.000100006103516
+    - 
+      x: -0.0494199981689
+      y: 0.0613699989319
+      z: 0.00210000610352
+    - 
+      x: -0.0528499984741
+      y: 0.0727399978638
+      z: 0.0133000030518
+    - 
+      x: -0.0507099990845
+      y: 0.0730299987793
+      z: 0.00839999389648
+    - 
+      x: -0.0555600013733
+      y: 0.0770199966431
+      z: 0.0441000061035
+    - 
+      x: -0.0473499984741
+      y: 0.0901800003052
+      z: 0.048
+    - 
+      x: -0.0635200004578
+      y: 0.0787799987793
+      z: 0.0506000061035
+    - 
+      x: 0.0650599975586
+      y: 0.0255100002289
+      z: 0.0458000030518
+    - 
+      x: 0.0574799995422
+      y: 0.0436399993896
+      z: 0.00689999389648
+    - 
+      x: 0.0497900009155
+      y: 0.0641900024414
+      z: 0.0025
+    - 
+      x: -0.0578600006104
+      y: 0.0546599998474
+      z: 0.0135
+    - 
+      x: -0.0563300018311
+      y: 0.0587799987793
+      z: 0.00819999694824
+    - 
+      x: 0.0658600006104
+      y: 0.0743300018311
+      z: 0.0505
+    - 
+      x: 0.0630400009155
+      y: 0.0786399993896
+      z: 0.0488999938965
+    - 
+      x: 0.0635499992371
+      y: 0.0760999984741
+      z: 0.0483999938965
+    - 
+      x: 0.0628600006104
+      y: 0.0782799987793
+      z: 0.0485
+    - 
+      x: 0.058
+      y: 0.0640400009155
+      z: 0.0156000061035
+    - 
+      x: -0.0625400009155
+      y: -0.0690500030518
+      z: 0.0646000061035
+    - 
+      x: -0.0674599990845
+      y: -0.0688300018311
+      z: 0.0635
+    - 
+      x: 0.0543600006104
+      y: 0.0777799987793
+      z: 0.0461000061035
+    - 
+      x: 0.0611599998474
+      y: -0.0677099990845
+      z: 0.0631000061035
+    - 
+      x: 0.0618100013733
+      y: -0.0558100013733
+      z: 0.0626000061035
+    - 
+      x: -0.0539500007629
+      y: -0.0895400009155
+      z: 0.0628999938965
+    - 
+      x: -0.0704499969482
+      y: -0.0496699981689
+      z: 0.0608999938965
+    - 
+      x: -0.0728000030518
+      y: -0.0656999969482
+      z: 0.0518999938965
+    - 
+      x: -0.0711399993896
+      y: -0.0582799987793
+      z: 0.0508999938965
+    - 
+      x: -0.0686999969482
+      y: 0.00428599977493
+      z: 0.0503999938965
+    - 
+      x: -0.0665199966431
+      y: 0.0349300003052
+      z: 0.0473000030518
+    - 
+      x: -0.0663799972534
+      y: -0.00848799991608
+      z: 0.0481999969482
+    - 
+      x: -0.0572999992371
+      y: -0.0478300018311
+      z: 0.00580000305176
+    - 
+      x: -0.0537099990845
+      y: -0.0451399993896
+      z: 0.00339999389648
+    - 
+      x: 0.0479799995422
+      y: -0.0554599990845
+      z: 0.00380000305176
+    - 
+      x: 0.0627400016785
+      y: -0.0310900001526
+      z: 0.0463999938965
+    - 
+      x: 0.0640299987793
+      y: -0.0715699996948
+      z: 0.0503000030518
+    - 
+      x: 0.0657699966431
+      y: -0.0608100013733
+      z: 0.0498000030518
+    - 
+      x: 0.0666999969482
+      y: -0.0592700004578
+      z: 0.0501999969482
+    - 
+      x: -0.0601300010681
+      y: 0.0189300003052
+      z: 0.063
+    - 
+      x: -0.0604000015259
+      y: 0.0628499984741
+      z: 0.062
+    - 
+      x: -0.0617000007629
+      y: 0.0344199981689
+      z: 0.0626999969482
+    - 
+      x: 0.0297299995422
+      y: -0.0809700012207
+      z: 0.00410000610352
+    - 
+      x: 0.0364199981689
+      y: -0.0828300018311
+      z: 0.00560000610352
+    - 
+      x: 0.0425
+      y: -0.0839599990845
+      z: 0.00939999389648
+    - 
+      x: 0.0366500015259
+      y: 0.0723399963379
+      z: 0.00260000610352
+    - 
+      x: 0.0194699993134
+      y: 0.0769899978638
+      z: 0.00469999694824
+    - 
+      x: 0.0395499992371
+      y: 0.0781100006104
+      z: 0.0103999938965
+    - 
+      x: -0.0581599998474
+      y: 0.0398199996948
+      z: 0.00919999694824
+    - 
+      x: -0.0545
+      y: 0.0498100013733
+      z: 0.00419999694824
+    - 
+      x: -0.0616699981689
+      y: 0.0577200012207
+      z: 0.0413000030518
+    - 
+      x: -0.0652099990845
+      y: -0.00430100011826
+      z: 0.0633000030518
+    - 
+      x: -0.0691399993896
+      y: -0.04125
+      z: 0.0626999969482
+    - 
+      x: 0.0625099983215
+      y: -0.0670100021362
+      z: 0.0625
+    - 
+      x: -0.0226299991608
+      y: 0.07975
+      z: 0.00669999694824
+    - 
+      x: -0.0298999996185
+      y: -0.0858300018311
+      z: 0.0143999938965
+    - 
+      x: -0.0469700012207
+      y: -0.0828899993896
+      z: 0.0101999969482
+    - 
+      x: -0.0270699996948
+      y: -0.0908600006104
+      z: 0.0483000030518
+    - 
+      x: -0.0368699989319
+      y: -0.0966600036621
+      z: 0.0513000030518
+    - 
+      x: -0.0215900001526
+      y: -0.0969599990845
+      z: 0.0576999969482
+    - 
+      x: -0.0199200000763
+      y: -0.0894800033569
+      z: 0.0643000030518
+    - 
+      x: -0.0204400005341
+      y: -0.0616100006104
+      z: 0.0656999969482
+    - 
+      x: 0.0675400009155
+      y: -0.0375
+      z: 0.05
+    - 
+      x: -0.0454500007629
+      y: 0.0464799995422
+      z: 0.0638999938965
+    - 
+      x: 0.0661500015259
+      y: 0.00364100003242
+      z: 0.0603999938965
+    - 
+      x: -0.0711500015259
+      y: -0.0716100006104
+      z: 0.0513999938965
+    - 
+      x: -0.06925
+      y: -0.0802099990845
+      z: 0.0523000030518
+    - 
+      x: -0.06875
+      y: -0.0805899963379
+      z: 0.0518999938965
+    - 
+      x: 0.0675500030518
+      y: -0.0456500015259
+      z: 0.0503999938965
+    - 
+      x: -0.0632999992371
+      y: 0.0659199981689
+      z: 0.0613999938965
+    - 
+      x: -0.0700400009155
+      y: -0.00742199993134
+      z: 0.0581000061035
+    - 
+      x: -0.0150600004196
+      y: 0.0897399978638
+      z: 0.0586000061035
+    - 
+      x: -0.0115799999237
+      y: -0.0928199996948
+      z: 0.0633000030518
+    - 
+      x: -0.0619199981689
+      y: 0.0621899986267
+      z: 0.0453000030518
+    - 
+      x: -0.0712399978638
+      y: -0.0335699996948
+      z: 0.0523999938965
+    - 
+      x: -0.0720899963379
+      y: -0.05425
+      z: 0.0513000030518
+    - 
+      x: 0.0315499992371
+      y: -0.0893700027466
+      z: 0.0638999938965
+    - 
+      x: 0.0650299987793
+      y: 0.00509100008011
+      z: 0.0616999969482
+    - 
+      x: 0.0591899986267
+      y: 0.00733099985123
+      z: 0.0626000061035
+    - 
+      x: 0.0511800003052
+      y: 0.0284400005341
+      z: 0.0628000030518
+    - 
+      x: 0.0297999992371
+      y: -0.0864100036621
+      z: 0.00819999694824
+    - 
+      x: 0.0344000015259
+      y: -0.0989199981689
+      z: 0.0545
+    - 
+      x: 0.0370999984741
+      y: -0.0991399993896
+      z: 0.0518999938965
+    - 
+      x: 0.0486699981689
+      y: -0.0961299972534
+      z: 0.0531000061035
+    - 
+      x: -0.0659199981689
+      y: -0.0844899978638
+      z: 0.0521999969482
+    - 
+      x: -0.0631399993896
+      y: -0.0756100006104
+      z: 0.0493000030518
+    - 
+      x: -0.0534099998474
+      y: -0.0742799987793
+      z: 0.0065
+    - 
+      x: -0.0396599998474
+      y: -0.0724800033569
+      z: 0.00289999389648
+    - 
+      x: -0.0579199981689
+      y: -0.0878300018311
+      z: 0.0621000061035
+    - 
+      x: -0.0570400009155
+      y: -0.07925
+      z: 0.0218000030518
+    - 
+      x: -0.0432799987793
+      y: 0.0875800018311
+      z: 0.0608000030518
+    - 
+      x: -0.0500200004578
+      y: 0.0814199981689
+      z: 0.0421000061035
+    - 
+      x: -0.0513499984741
+      y: 0.0813399963379
+      z: 0.0455
+    - 
+      x: -0.0614599990845
+      y: 0.0712399978638
+      z: 0.0481000061035
+    - 
+      x: 0.0566100006104
+      y: 0.0747699966431
+      z: 0.0428999938965
+    - 
+      x: -0.0464300003052
+      y: -0.0919000015259
+      z: 0.0631000061035
+    - 
+      x: 0.0408199996948
+      y: -0.0937200012207
+      z: 0.0506999969482
+    - 
+      x: 0.0485800018311
+      y: -0.0886299972534
+      z: 0.0506999969482
+    - 
+      x: 0.0439799995422
+      y: -0.0981299972534
+      z: 0.0523999938965
+    - 
+      x: -0.0679100036621
+      y: 0.0602999992371
+      z: 0.0483999938965
+    - 
+      x: 0.0543400001526
+      y: -0.0696999969482
+      z: 0.0171000061035
+    - 
+      x: 0.0600699996948
+      y: -0.0741399993896
+      z: 0.0506000061035
+    - 
+      x: 0.0519700012207
+      y: 0.000113499999046
+      z: 0.00380000305176
+    - 
+      x: 0.0374700012207
+      y: -0.0329300003052
+      z: 0.00119999694824
+    - 
+      x: -0.0525299987793
+      y: -0.0865500030518
+      z: 0.0465
+    - 
+      x: 0.0338499984741
+      y: 0.0569900016785
+      z: 0.000100006103516
+    - 
+      x: -0.0180300006866
+      y: -0.0978300018311
+      z: 0.0516000061035
+    - 
+      x: -0.003117000103
+      y: -0.0980500030518
+      z: 0.0515
+    - 
+      x: -0.0423100013733
+      y: 0.0783099975586
+      z: 0.00730000305176
+    - 
+      x: -0.0357599983215
+      y: 0.0804300003052
+      z: 0.00860000610352
+    - 
+      x: -0.0559300003052
+      y: 0.0867200012207
+      z: 0.0508999938965
+    - 
+      x: -0.0577299995422
+      y: 0.0776399993896
+      z: 0.0476999969482
+    - 
+      x: -0.0616899986267
+      y: 0.0815899963379
+      z: 0.0498000030518
+    - 
+      x: 0.0685100021362
+      y: 0.0515200004578
+      z: 0.0488000030518
+    - 
+      x: 0.0695800018311
+      y: 0.0572700004578
+      z: 0.0488000030518
+    - 
+      x: 0.0591500015259
+      y: 0.00727799987793
+      z: 0.0126000061035
+    - 
+      x: 0.0575499992371
+      y: 0.00469899988174
+      z: 0.00780000305176
+    - 
+      x: -0.0574099998474
+      y: 0.0641100006104
+      z: 0.0186999969482
+    - 
+      x: 0.065
+      y: 0.0649700012207
+      z: 0.0601999969482
+    - 
+      x: -0.00431500005722
+      y: -0.0741699981689
+      z: 0.0646999969482
+    - 
+      x: -0.072
+      y: -0.0480900001526
+      z: 0.056
+    - 
+      x: -0.0707099990845
+      y: -0.0312800006866
+      z: 0.059
+    - 
+      x: -0.0729499969482
+      y: -0.0614700012207
+      z: 0.0538000030518
+    - 
+      x: -0.0664599990845
+      y: -0.0403100013733
+      z: 0.0491000061035
+    - 
+      x: -0.05725
+      y: 0.0116400003433
+      z: 0.00380000305176
+    - 
+      x: 0.0609900016785
+      y: -0.0628499984741
+      z: 0.0493999938965
+    - 
+      x: 0.0635
+      y: -0.0368600006104
+      z: 0.0478000030518
+    - 
+      x: 0.0592799987793
+      y: -0.0837300033569
+      z: 0.0506000061035
+    - 
+      x: -0.0486699981689
+      y: 0.0485099983215
+      z: 0.0625
+    - 
+      x: -0.0623100013733
+      y: -0.0048220000267
+      z: 0.0635
+    - 
+      x: 0.00485599994659
+      y: 0.0861600036621
+      z: 0.0436000061035
+    - 
+      x: 0.0297299995422
+      y: 0.0855400009155
+      z: 0.046
+    - 
+      x: 0.0272900009155
+      y: 0.0866100006104
+      z: 0.0601000061035
+    - 
+      x: 0.00927900028229
+      y: -0.0916999969482
+      z: 0.0645
+    - 
+      x: -0.0248799991608
+      y: -0.0819100036621
+      z: 0.006
+    - 
+      x: 0.00906499958038
+      y: -0.0909400024414
+      z: 0.0395
+    - 
+      x: -0.0369000015259
+      y: -0.0971800003052
+      z: 0.0518000030518
+    - 
+      x: 0.0605800018311
+      y: 0.08025
+      z: 0.0483000030518
+    - 
+      x: -0.0443100013733
+      y: 0.0412900009155
+      z: 0.0638000030518
+    - 
+      x: 0.0477200012207
+      y: -0.0710699996948
+      z: 0.00560000610352
+    - 
+      x: 0.0604300003052
+      y: -0.0852300033569
+      z: 0.0511999969482
+    - 
+      x: 0.0687600021362
+      y: 0.0330900001526
+      z: 0.0546000061035
+    - 
+      x: 0.0235300006866
+      y: 0.0839000015259
+      z: 0.0611999969482
+    - 
+      x: -0.0676100006104
+      y: 0.0332700004578
+      z: 0.0593999938965
+    - 
+      x: 0.0403699989319
+      y: -0.0963000030518
+      z: 0.0603999938965
+    - 
+      x: 0.0119200000763
+      y: -0.0972200012207
+      z: 0.0595
+    - 
+      x: 0.0616699981689
+      y: -0.0346899986267
+      z: 0.0626999969482
+    - 
+      x: 0.00949499988556
+      y: 0.0872300033569
+      z: 0.0601999969482
+    - 
+      x: -0.0657099990845
+      y: -0.0838700027466
+      z: 0.0558000030518
+    - 
+      x: -0.0535600013733
+      y: -0.0882799987793
+      z: 0.0508999938965
+    - 
+      x: -0.0608300018311
+      y: 0.0675899963379
+      z: 0.0468000030518
+    - 
+      x: -0.0585600013733
+      y: 0.0726999969482
+      z: 0.0455
+    - 
+      x: 0.0558499984741
+      y: 0.0856800003052
+      z: 0.0488000030518
+    - 
+      x: 0.0200400009155
+      y: 0.0908600006104
+      z: 0.0483000030518
+    - 
+      x: 0.0517599983215
+      y: -0.0813499984741
+      z: 0.0366999969482
+    - 
+      x: 0.0560999984741
+      y: -0.0901399993896
+      z: 0.0513000030518
+    - 
+      x: 0.0572000007629
+      y: -0.0757600021362
+      z: 0.0486000061035
+    - 
+      x: -0.0716999969482
+      y: -0.0735699996948
+      z: 0.0518999938965
+    - 
+      x: -0.0621800003052
+      y: -0.0686999969482
+      z: 0.0246999969482
+    - 
+      x: 0.0626199989319
+      y: 0.0658700027466
+      z: 0.0473000030518
+    - 
+      x: 0.0693099975586
+      y: 0.0662900009155
+      z: 0.0491999969482
+    - 
+      x: -0.0556500015259
+      y: -0.0929800033569
+      z: 0.052
+    - 
+      x: -0.0498400001526
+      y: -0.0956399993896
+      z: 0.052
+    - 
+      x: 0.0384900016785
+      y: 0.0840299987793
+      z: 0.045
+    - 
+      x: 0.0620499992371
+      y: -0.0346500015259
+      z: 0.0455
+    - 
+      x: 0.0555499992371
+      y: -0.0106800003052
+      z: 0.00689999389648
+    - 
+      x: 0.0531899986267
+      y: -0.0545900001526
+      z: 0.008
+    - 
+      x: -0.0684000015259
+      y: 0.0587700004578
+      z: 0.0558000030518
+    - 
+      x: 0.0602400016785
+      y: 0.0699100036621
+      z: 0.0463999938965
+    - 
+      x: 0.0533300018311
+      y: 0.0718000030518
+      z: 0.014
+    - 
+      x: -0.0548100013733
+      y: -0.08525
+      z: 0.0641000061035
+    - 
+      x: -0.06725
+      y: -0.0675299987793
+      z: 0.0508999938965
+    - 
+      x: 0.0649199981689
+      y: -0.0525499992371
+      z: 0.0496999969482
+    - 
+      x: 0.0665100021362
+      y: -0.0535900001526
+      z: 0.0496000061035
+    - 
+      x: 0.0235799999237
+      y: 0.0849800033569
+      z: 0.0438000030518
+    - 
+      x: 0.0649599990845
+      y: 0.0450900001526
+      z: 0.047
+    - 
+      x: -0.0441899986267
+      y: 0.0868600006104
+      z: 0.0476999969482
+    - 
+      x: -0.0466599998474
+      y: -0.0963099975586
+      z: 0.0533000030518
+    - 
+      x: 0.0639900016785
+      y: -0.0459000015259
+      z: 0.0491000061035
+    - 
+      x: 0.0664199981689
+      y: -0.0437599983215
+      z: 0.0493000030518
+    - 
+      x: 0.0668099975586
+      y: 0.00892500019073
+      z: 0.0585
+    - 
+      x: -0.0703199996948
+      y: -0.0780699996948
+      z: 0.0521000061035
+    - 
+      x: -0.0702200012207
+      y: -0.0769700012207
+      z: 0.0518000030518
+    - 
+      x: 0.0674000015259
+      y: -0.0203899993896
+      z: 0.0495
+    - 
+      x: 0.0690899963379
+      y: 0.0319099998474
+      z: 0.0513000030518
+    - 
+      x: -0.0704499969482
+      y: -0.00225
+      z: 0.0543000030518
+    - 
+      x: 0.0404199981689
+      y: -0.0989400024414
+      z: 0.0518000030518
+    - 
+      x: -0.0401500015259
+      y: 0.08575
+      z: 0.0451000061035
+    - 
+      x: -0.0434099998474
+      y: -0.0891699981689
+      z: 0.0643999938965
+    - 
+      x: 0.0519099998474
+      y: 0.0870699996948
+      z: 0.048
+    - 
+      x: 0.00867099952698
+      y: 0.0904700012207
+      z: 0.0476999969482
+    - 
+      x: 0.0549700012207
+      y: -0.0764800033569
+      z: 0.0365
+    - 
+      x: 0.0548400001526
+      y: -0.0804899978638
+      z: 0.0451999969482
+    - 
+      x: 0.053
+      y: -0.0874000015259
+      z: 0.063
+    - 
+      x: -0.0681200027466
+      y: 0.0257700004578
+      z: 0.0491000061035
+    - 
+      x: -0.0571800003052
+      y: 0.0260100002289
+      z: 0.005
+    - 
+      x: 0.0633100013733
+      y: -0.0801999969482
+      z: 0.0513000030518
+    - 
+      x: -0.07125
+      y: -0.0750400009155
+      z: 0.0541000061035
+    - 
+      x: -0.05225
+      y: -0.0841299972534
+      z: 0.0343000030518
+    - 
+      x: -0.0206700000763
+      y: -0.0970699996948
+      z: 0.0508000030518
+    - 
+      x: 0.0491100006104
+      y: 0.0894300003052
+      z: 0.0483000030518
+    - 
+      x: -0.0493199996948
+      y: 0.0825100021362
+      z: 0.0445
+    - 
+      x: -0.0654000015259
+      y: 0.0747600021362
+      z: 0.0493999938965
+    - 
+      x: -0.0674800033569
+      y: 0.0661800003052
+      z: 0.0486000061035
+    - 
+      x: 0.0500800018311
+      y: 0.0756800003052
+      z: 0.0178000030518
+    - 
+      x: 0.0260400009155
+      y: 0.0246499996185
+      z: 0.0628999938965
+    - 
+      x: -0.0702300033569
+      y: -0.0364099998474
+      z: 0.0513000030518
+    - 
+      x: -0.05725
+      y: -0.0225799999237
+      z: 0.0045
+    - 
+      x: -0.0538800010681
+      y: -0.033
+      z: 0.00310000610352
+    - 
+      x: 0.0658099975586
+      y: -0.0665400009155
+      z: 0.0501999969482
+    - 
+      x: 0.0211800003052
+      y: 0.0880800018311
+      z: 0.0593000030518
+    - 
+      x: 0.0351399993896
+      y: 0.0858199996948
+      z: 0.0608000030518
+    - 
+      x: -0.0299300003052
+      y: 0.0868399963379
+      z: 0.0441000061035
+    - 
+      x: -0.0393199996948
+      y: 0.0879599990845
+      z: 0.0476999969482
+    - 
+      x: -0.0449199981689
+      y: -0.0874300003052
+      z: 0.0388000030518
+    - 
+      x: -0.0391199989319
+      y: -0.0899499969482
+      z: 0.0481999969482
+    - 
+      x: -0.00840699958801
+      y: -0.0961800003052
+      z: 0.0503999938965
+    - 
+      x: -0.0314500007629
+      y: -0.0925199966431
+      z: 0.0506000061035
+    - 
+      x: -0.0423199996948
+      y: -0.0971100006104
+      z: 0.0521999969482
+    - 
+      x: -0.0315100002289
+      y: -0.0959000015259
+      z: 0.0508999938965
+    - 
+      x: -0.0728499984741
+      y: -0.0675699996948
+      z: 0.0535
+    - 
+      x: -0.0173500003815
+      y: -0.0980400009155
+      z: 0.0531000061035
+    - 
+      x: -0.0403499984741
+      y: -0.0946800003052
+      z: 0.051
+    - 
+      x: -0.0690699996948
+      y: 0.0294599990845
+      z: 0.0503999938965
+    - 
+      x: -0.0536699981689
+      y: 0.00446099996567
+      z: 0.00260000610352
+    - 
+      x: 0.0604799995422
+      y: -0.0540099983215
+      z: 0.0468000030518
+    - 
+      x: -0.0645500030518
+      y: 0.0606399993896
+      z: 0.0478999938965
+    - 
+      x: 0.00425299978256
+      y: -0.0977799987793
+      z: 0.051
+    - 
+      x: -0.0655
+      y: -0.0125100002289
+      z: 0.0633000030518
+    - 
+      x: 0.0388899993896
+      y: 0.0857799987793
+      z: 0.0471000061035
+    - 
+      x: -0.05775
+      y: 0.00865699958801
+      z: 0.00419999694824
+    - 
+      x: -0.0579900016785
+      y: 0.0749100036621
+      z: 0.0468999938965
+    - 
+      x: 0.0666299972534
+      y: 0.00428200006485
+      z: 0.0473999938965
+    - 
+      x: 0.0616199989319
+      y: 0.0169599990845
+      z: 0.0331000061035
+    - 
+      x: -0.0404599990845
+      y: -0.0549399986267
+      z: 0.002
+    - 
+      x: 0.0231700000763
+      y: 0.0877799987793
+      z: 0.0463999938965
+    - 
+      x: 0.0579900016785
+      y: -0.0628899993896
+      z: 0.0411999969482
+    - 
+      x: 0.0592900009155
+      y: 0.0731600036621
+      z: 0.0473000030518
+    - 
+      x: -0.0690500030518
+      y: 0.0357000007629
+      z: 0.0563999938965
+    - 
+      x: -0.0696200027466
+      y: -0.0317700004578
+      z: 0.0611999969482
+    - 
+      x: 0.0452400016785
+      y: -0.0899499969482
+      z: 0.0496000061035
+    - 
+      x: 0.0395999984741
+      y: -0.0894599990845
+      z: 0.0366000061035
+    - 
+      x: -0.0695
+      y: 0.0537599983215
+      z: 0.0495
+    - 
+      x: 0.0649300003052
+      y: 0.0171700000763
+      z: 0.0611999969482
+    - 
+      x: -0.0561500015259
+      y: -0.0816999969482
+      z: 0.0386999969482
+    - 
+      x: 0.0677699966431
+      y: 0.0418899993896
+      z: 0.0488000030518
+    - 
+      x: -0.0616399993896
+      y: -0.0857300033569
+      z: 0.0605
+    - 
+      x: -0.0655699996948
+      y: -0.0676999969482
+      z: 0.0486999969482
+    - 
+      x: -0.0680800018311
+      y: -0.0230200004578
+      z: 0.0621999969482
+    - 
+      x: 0.0672300033569
+      y: -0.0481300010681
+      z: 0.0498000030518
+    - 
+      x: 0.0569399986267
+      y: 0.0201800003052
+      z: 0.00660000610352
+    - 
+      x: -0.0649199981689
+      y: -0.0284899997711
+      z: 0.0636000061035
+    - 
+      x: 0.0676500015259
+      y: -0.0281800003052
+      z: 0.0503000030518
+    - 
+      x: 0.0571500015259
+      y: -0.0290599994659
+      z: 0.0171999969482
+    - 
+      x: -0.0447599983215
+      y: 0.0515900001526
+      z: 0.0635
+    - 
+      x: 0.0497599983215
+      y: 0.0783700027466
+      z: 0.0341000061035
+    - 
+      x: 0.0654499969482
+      y: 0.0389000015259
+      z: 0.0611000061035
+    - 
+      x: 0.0582400016785
+      y: 0.0276200008392
+      z: 0.00789999389648
+    - 
+      x: -0.0668000030518
+      y: 0.0525699996948
+      z: 0.0598999938965
+    - 
+      x: 0.0696800003052
+      y: 0.0451599998474
+      z: 0.0521000061035
+    - 
+      x: -0.0654300003052
+      y: 0.00888700008392
+      z: 0.0625
+    - 
+      x: -0.0467700004578
+      y: 0.0838300018311
+      z: 0.0458000030518
+    - 
+      x: 0.0664899978638
+      y: -0.0138999996185
+      z: 0.0481999969482
+    - 
+      x: -0.0076139998436
+      y: 0.0852099990845
+      z: 0.0383999938965
+    - 
+      x: -0.0527999992371
+      y: 0.0199400005341
+      z: 0.063
+    - 
+      x: -0.0715599975586
+      y: -0.0450900001526
+      z: 0.0518000030518
+    - 
+      x: -0.0648000030518
+      y: 0.0205300006866
+      z: 0.0441999969482
+    - 
+      x: -0.0644400024414
+      y: -0.0205799999237
+      z: 0.0425
+    - 
+      x: -0.0504500007629
+      y: 0.0788899993896
+      z: 0.0346000061035
+    - 
+      x: 0.0683300018311
+      y: 0.0126599998474
+      z: 0.053
+    - 
+      x: -0.0663199996948
+      y: -0.00626599979401
+      z: 0.0628999938965
+    - 
+      x: -0.0346100006104
+      y: -0.0925800018311
+      z: 0.0633000030518
+    - 
+      x: -0.00400600004196
+      y: -0.0938899993896
+      z: 0.0496000061035
+    - 
+      x: -0.0398199996948
+      y: -0.0901800003052
+      z: 0.05
+    - 
+      x: 0.0637799987793
+      y: -0.0454300003052
+      z: 0.0606999969482
+    - 
+      x: 0.0103299999237
+      y: 0.0875800018311
+      z: 0.0453000030518
+    - 
+      x: 0.0217099990845
+      y: -0.0883499984741
+      z: 0.0148000030518
+    - 
+      x: -0.0616800003052
+      y: 0.0215200004578
+      z: 0.063
+    - 
+      x: -0.0644599990845
+      y: -0.0550200004578
+      z: 0.0418999938965
+    - 
+      x: -0.0695599975586
+      y: 0.010720000267
+      z: 0.0518999938965
+    - 
+      x: 0.0403499984741
+      y: 0.0113699998856
+      z: 0.0631000061035
+    - 
+      x: 0.0483699989319
+      y: -0.0527000007629
+      z: 0.0635
+    - 
+      x: 0.0509500007629
+      y: 0.0803199996948
+      z: 0.0461000061035
+    - 
+      x: 0.0619000015259
+      y: 0.0712600021362
+      z: 0.0478999938965
+    - 
+      x: -0.0693300018311
+      y: 0.0624599990845
+      z: 0.0493999938965
+    - 
+      x: -0.0635600013733
+      y: 0.0577999992371
+      z: 0.047
+    - 
+      x: -0.0522200012207
+      y: 0.0892699966431
+      z: 0.0496999969482
+    - 
+      x: -0.00421500015259
+      y: -0.0977900009155
+      z: 0.0511000061035
+    - 
+      x: -0.0518800010681
+      y: -0.0944899978638
+      z: 0.0538999938965
+    - 
+      x: -0.0600299987793
+      y: -0.0825500030518
+      z: 0.0508000030518
+    - 
+      x: 0.0113699998856
+      y: 0.0911800003052
+      z: 0.0516999969482
+    - 
+      x: -0.0415900001526
+      y: -0.0775500030518
+      z: 0.0648000030518
+    - 
+      x: 0.0569099998474
+      y: 0.0789800033569
+      z: 0.0478000030518
+    - 
+      x: -0.0575099983215
+      y: 0.0703600006104
+      z: 0.0366000061035
+    - 
+      x: 0.0332400016785
+      y: -0.0950100021362
+      z: 0.05
+    - 
+      x: -0.0697399978638
+      y: 0.0295900001526
+      z: 0.0531000061035
+    - 
+      x: -0.0633899993896
+      y: 0.0256499996185
+      z: 0.0626000061035
+    - 
+      x: -0.0600999984741
+      y: 0.00698000001907
+      z: 0.0633000030518
+    - 
+      x: -0.0682699966431
+      y: -0.00108200001717
+      z: 0.0608999938965
+    - 
+      x: -0.0313999996185
+      y: 0.0829100036621
+      z: 0.0613000030518
+    - 
+      x: 0.0677200012207
+      y: -0.0116400003433
+      z: 0.0518999938965
+    - 
+      x: 0.0590800018311
+      y: -0.068
+      z: 0.0478999938965
+    - 
+      x: 0.0564799995422
+      y: -0.0651100006104
+      z: 0.032
+    - 
+      x: 0.00902799987793
+      y: 0.0842399978638
+      z: 0.0611999969482
+    - 
+      x: -0.00879899978638
+      y: 0.0757799987793
+      z: 0.0623999938965
+    - 
+      x: -0.0384900016785
+      y: -0.0970699996948
+      z: 0.054
+    - 
+      x: -0.0328899993896
+      y: -0.0907399978638
+      z: 0.0496000061035
+    - 
+      x: -0.00608199977875
+      y: -0.0922399978638
+      z: 0.0478999938965
+    - 
+      x: -0.0394599990845
+      y: -0.0806299972534
+      z: 0.006
+    - 
+      x: -0.00503000020981
+      y: 0.0797099990845
+      z: 0.008
+    - 
+      x: -0.0685
+      y: -0.0565499992371
+      z: 0.0628000030518
+    - 
+      x: 0.0635400009155
+      y: 0.0429599990845
+      z: 0.0438000030518
+    - 
+      x: 0.0678000030518
+      y: 0.0691200027466
+      z: 0.0488000030518
+    - 
+      x: 0.00459899997711
+      y: -0.0846900024414
+      z: 0.0648000030518
+    - 
+      x: 0.0475499992371
+      y: 0.0830800018311
+      z: 0.047
+    - 
+      x: 0.0168799991608
+      y: 0.0848000030518
+      z: 0.0421999969482
+    - 
+      x: 0.0159200000763
+      y: 0.0746900024414
+      z: 0.003
+    - 
+      x: -0.0596599998474
+      y: 0.0461199989319
+      z: 0.0623999938965
+    - 
+      x: -0.0578600006104
+      y: 0.0127700004578
+      z: 0.0631000061035
+    - 
+      x: -0.0456100006104
+      y: 0.0381199989319
+      z: 0.0633000030518
+    - 
+      x: 0.0649899978638
+      y: -0.0736900024414
+      z: 0.0506000061035
+    - 
+      x: -0.0681699981689
+      y: -0.0493400001526
+      z: 0.0505
+    - 
+      x: -0.0688399963379
+      y: -0.0240300006866
+      z: 0.0506999969482
+    - 
+      x: 0.0620999984741
+      y: -0.0716699981689
+      z: 0.0626000061035
+    - 
+      x: 0.0469799995422
+      y: 0.0712900009155
+      z: 0.00430000305176
+    - 
+      x: 0.0549000015259
+      y: -0.0284799995422
+      z: 0.008
+    - 
+      x: 0.0630800018311
+      y: 0.0026210000515
+      z: 0.0401999969482
+    - 
+      x: -0.0594599990845
+      y: 0.0838700027466
+      z: 0.0506999969482
+    - 
+      x: -0.0628699989319
+      y: 0.0787699966431
+      z: 0.0491000061035
+    - 
+      x: -0.00868000030518
+      y: 0.0916699981689
+      z: 0.0496000061035
+    - 
+      x: -0.0246299991608
+      y: 0.0916600036621
+      z: 0.0481999969482
+    - 
+      x: 0.0650899963379
+      y: 0.0592200012207
+      z: 0.048
+    - 
+      x: 0.0499599990845
+      y: -0.0864300003052
+      z: 0.0478999938965
+    - 
+      x: 0.0544700012207
+      y: -0.0824300003052
+      z: 0.0503999938965
+    - 
+      x: -0.0673499984741
+      y: -0.0781900024414
+      z: 0.0608999938965
+    - 
+      x: 0.05775
+      y: 0.0738099975586
+      z: 0.0458999938965
+    - 
+      x: -0.0428800010681
+      y: -0.0753300018311
+      z: 0.00380000305176
+    - 
+      x: -0.0610200004578
+      y: -0.0760899963379
+      z: 0.0373999938965
+    - 
+      x: 0.0507200012207
+      y: -0.0843399963379
+      z: 0.0635
+    - 
+      x: 0.0634199981689
+      y: 0.0518899993896
+      z: 0.0615
+    - 
+      x: 0.0666399993896
+      y: 0.0312700004578
+      z: 0.0601000061035
+    - 
+      x: 0.0248999996185
+      y: -0.0990500030518
+      z: 0.0528000030518
+    - 
+      x: 0.0251700000763
+      y: -0.0977200012207
+      z: 0.0508999938965
+    - 
+      x: -0.0716500015259
+      y: -0.0351199989319
+      z: 0.0541000061035
+    - 
+      x: 0.0674800033569
+      y: 0.0363400001526
+      z: 0.0591000061035
+    - 
+      x: 0.0652699966431
+      y: -0.0507900009155
+      z: 0.0578000030518
+    - 
+      x: -0.00628200006485
+      y: -0.0947099990845
+      z: 0.0621999969482
+    - 
+      x: 0.0176200008392
+      y: 0.0899400024414
+      z: 0.0558999938965
+    - 
+      x: -0.0639300003052
+      y: 0.0600400009155
+      z: 0.0616000061035
+    - 
+      x: -0.0306499996185
+      y: -0.0973099975586
+      z: 0.0516999969482
+    - 
+      x: -0.0287000007629
+      y: -0.0969000015259
+      z: 0.0511000061035
+    - 
+      x: 0.00524800014496
+      y: -0.0942200012207
+      z: 0.0488999938965
+    - 
+      x: -0.0178999996185
+      y: -0.0930400009155
+      z: 0.0501999969482
+    - 
+      x: -0.0655500030518
+      y: 0.0500600013733
+      z: 0.0473999938965
+    - 
+      x: -0.0638499984741
+      y: 0.0461399993896
+      z: 0.0446999969482
+    - 
+      x: -0.0615800018311
+      y: 0.0355400009155
+      z: 0.0311999969482
+    - 
+      x: 0.0347700004578
+      y: 0.0909800033569
+      z: 0.0481999969482
+    - 
+      x: 0.0473899993896
+      y: 0.0885199966431
+      z: 0.0478000030518
+    - 
+      x: 0.0384500007629
+      y: 0.0895199966431
+      z: 0.0475
+    - 
+      x: -0.0627000007629
+      y: 0.0170599994659
+      z: 0.063
+    - 
+      x: -0.0610800018311
+      y: 0.0580200004578
+      z: 0.0621000061035
+    - 
+      x: -0.0440600013733
+      y: -0.0400800018311
+      z: 0.0655
+    - 
+      x: -0.0465400009155
+      y: 0.0660299987793
+      z: 0.0618999938965
+    - 
+      x: -0.0583400001526
+      y: -0.0194699993134
+      z: 0.00530000305176
+    - 
+      x: -0.0606800003052
+      y: -0.00360299992561
+      z: 0.0123999938965
+    - 
+      x: 0.0311700000763
+      y: 0.0172800006866
+      z: 0.0633000030518
+    - 
+      x: 0.0565099983215
+      y: 0.0764899978638
+      z: 0.047
+    - 
+      x: 0.0593300018311
+      y: 0.0658899993896
+      z: 0.0341999969482
+    - 
+      x: -0.0643199996948
+      y: 0.0734199981689
+      z: 0.0486000061035
+    - 
+      x: -0.06825
+      y: 0.0680100021362
+      z: 0.0496000061035
+    - 
+      x: 0.0680299987793
+      y: 0.00666900014877
+      z: 0.0503000030518
+    - 
+      x: -0.0615200004578
+      y: 0.0813000030518
+      z: 0.0513999938965
+    - 
+      x: 0.00957100009918
+      y: -0.0838099975586
+      z: 0.00660000610352
+    - 
+      x: -0.0586300010681
+      y: -0.0818899993896
+      z: 0.0483999938965
+    - 
+      x: -0.0555800018311
+      y: 0.0261200008392
+      z: 0.00389999389648
+    - 
+      x: 0.055
+      y: -0.0809400024414
+      z: 0.0633999938965
+    - 
+      x: 0.0434000015259
+      y: -0.0963099975586
+      z: 0.051
+    - 
+      x: 0.0475200004578
+      y: -0.0857300033569
+      z: 0.0386000061035
+    - 
+      x: -0.0539599990845
+      y: -0.0857399978638
+      z: 0.0491999969482
+    - 
+      x: -0.0641500015259
+      y: -0.0780699996948
+      z: 0.0511000061035
+    - 
+      x: 0.0340999984741
+      y: -0.0974400024414
+      z: 0.0598000030518
+    - 
+      x: -0.0708899993896
+      y: -0.0204200000763
+      z: 0.0531999969482
+    - 
+      x: -0.0590800018311
+      y: 0.0224799995422
+      z: 0.00860000610352
+    - 
+      x: -0.00726800012589
+      y: 0.0911800003052
+      z: 0.0548999938965
+    - 
+      x: -0.0150600004196
+      y: 0.0864899978638
+      z: 0.0606000061035
+    - 
+      x: -0.0676500015259
+      y: -0.00901200008392
+      z: 0.0621999969482
+    - 
+      x: -0.0699899978638
+      y: 0.0162399997711
+      z: 0.0561999969482
+    - 
+      x: 0.0574799995422
+      y: -0.00941499996185
+      z: 0.00980000305176
+    - 
+      x: 0.0647399978638
+      y: 0.000246500000358
+      z: 0.0613999938965
+    - 
+      x: 0.0670299987793
+      y: 0.0214899997711
+      z: 0.0586999969482
+    - 
+      x: 0.0180599994659
+      y: 0.0859199981689
+      z: 0.0608999938965
+    - 
+      x: -0.0243799991608
+      y: -0.0766600036621
+      z: 0.0655
+    - 
+      x: -0.0431899986267
+      y: -0.0964599990845
+      z: 0.0516000061035
+    - 
+      x: -0.0138500003815
+      y: -0.0921500015259
+      z: 0.0493999938965
+    - 
+      x: -0.0246200008392
+      y: -0.0918199996948
+      z: 0.0498999938965
+    - 
+      x: -0.0219200000763
+      y: 0.0162299995422
+      z: 0.0
+    - 
+      x: 0.00408599996567
+      y: -0.0935299987793
+      z: 0.0635
+    - 
+      x: 0.0103199996948
+      y: 0.07775
+      z: 0.00560000610352
+    - 
+      x: 0.0643000030518
+      y: -0.0659100036621
+      z: 0.0501000061035
+    - 
+      x: 0.0647099990845
+      y: -0.00717500019073
+      z: 0.0451999969482
+    - 
+      x: -0.0486100006104
+      y: -0.0267099990845
+      z: 0.00180000305176
+    - 
+      x: -0.0577000007629
+      y: -0.00617199993134
+      z: 0.00410000610352
+    - 
+      x: 0.0447700004578
+      y: 0.0828499984741
+      z: 0.0451999969482
+    - 
+      x: 0.0611100006104
+      y: 0.0530299987793
+      z: 0.0343999938965
+    - 
+      x: 0.0616199989319
+      y: 0.0801900024414
+      z: 0.0488000030518
+    - 
+      x: 0.0604500007629
+      y: 0.0815100021362
+      z: 0.0485
+    - 
+      x: 0.0614500007629
+      y: 0.0802300033569
+      z: 0.051
+    - 
+      x: 0.0564199981689
+      y: 0.0842200012207
+      z: 0.0481999969482
+    - 
+      x: 0.0586399993896
+      y: 0.0826399993896
+      z: 0.0483000030518
+    - 
+      x: -0.0696600036621
+      y: 0.0551199989319
+      z: 0.0516000061035
+    - 
+      x: -0.0600900001526
+      y: 0.0589000015259
+      z: 0.0358999938965
+    - 
+      x: 0.0596399993896
+      y: 0.0355999984741
+      z: 0.0141999969482
+    - 
+      x: 0.0571100006104
+      y: 0.0304400005341
+      z: 0.00619999694824
+    - 
+      x: -0.0555900001526
+      y: 0.0869899978638
+      z: 0.049
+    - 
+      x: -0.0469199981689
+      y: 0.0722900009155
+      z: 0.00419999694824
+    - 
+      x: -0.0490499992371
+      y: 0.0826299972534
+      z: 0.0433999938965
+    - 
+      x: -0.0419199981689
+      y: 0.0832699966431
+      z: 0.0361000061035
+    - 
+      x: 0.0459099998474
+      y: 0.0903300018311
+      z: 0.049
+    - 
+      x: 0.0522900009155
+      y: 0.0816999969482
+      z: 0.0473999938965
+    - 
+      x: 0.0113299999237
+      y: -0.0979000015259
+      z: 0.0508000030518
+    - 
+      x: 0.0363800010681
+      y: 0.0828399963379
+      z: 0.0611999969482
+    - 
+      x: -0.0441500015259
+      y: -0.0910599975586
+      z: 0.0506999969482
+    - 
+      x: 0.0632599983215
+      y: 0.0567599983215
+      z: 0.0451999969482
+    - 
+      x: 0.0621800003052
+      y: -0.0633499984741
+      z: 0.0501000061035
+    - 
+      x: 0.0552299995422
+      y: -0.0879599990845
+      z: 0.0608000030518
+    - 
+      x: 0.0154600000381
+      y: 0.0910500030518
+      z: 0.0493000030518
+    - 
+      x: 0.0544500007629
+      y: 0.0738099975586
+      z: 0.0325
+    - 
+      x: 0.0670699996948
+      y: -0.0539500007629
+      z: 0.05
+    - 
+      x: -0.0547200012207
+      y: 0.07925
+      z: 0.0468999938965
+    - 
+      x: -0.0398300018311
+      y: 0.0862699966431
+      z: 0.0463000030518
+    - 
+      x: 0.00953400039673
+      y: -0.0964499969482
+      z: 0.05
+    - 
+      x: 0.0100600004196
+      y: -0.0985299987793
+      z: 0.0518000030518
+    - 
+      x: 0.0677699966431
+      y: 0.0443199996948
+      z: 0.0585
+    - 
+      x: 0.0698199996948
+      y: 0.0627900009155
+      z: 0.0511000061035
+    - 
+      x: 0.0697600021362
+      y: 0.0487700004578
+      z: 0.0498999938965
+    - 
+      x: -0.0690599975586
+      y: -0.0800100021362
+      z: 0.0536999969482
+    - 
+      x: -0.0456800003052
+      y: 0.0463400001526
+      z: 0.0636000061035
+    - 
+      x: -0.0447200012207
+      y: 0.0452099990845
+      z: 0.0638999938965
+    - 
+      x: -0.0444300003052
+      y: 0.0421699981689
+      z: 0.0638999938965
+    - 
+      x: 0.0570800018311
+      y: -0.009
+      z: 0.0628000030518
+    - 
+      x: -0.0503600006104
+      y: -0.0947399978638
+      z: 0.0515
+    - 
+      x: -0.0357900009155
+      y: 0.0892600021362
+      z: 0.0596999969482
+    - 
+      x: -0.0352900009155
+      y: -0.0951100006104
+      z: 0.0606000061035
+    - 
+      x: -0.0245
+      y: -0.0978499984741
+      z: 0.0518999938965
+    - 
+      x: -0.0131700000763
+      y: -0.0933499984741
+      z: 0.0501000061035
+    - 
+      x: -0.0477900009155
+      y: -0.0886200027466
+      z: 0.0491000061035
+    - 
+      x: -0.0247099990845
+      y: -0.0930899963379
+      z: 0.0505
+    - 
+      x: -0.0243799991608
+      y: -0.0898199996948
+      z: 0.0413000030518
+    - 
+      x: -0.0198299999237
+      y: 0.0825699996948
+      z: 0.0158000030518
+    - 
+      x: 0.0639599990845
+      y: -0.06475
+      z: 0.0605
+    - 
+      x: 0.0541300010681
+      y: 0.0590099983215
+      z: 0.00439999389648
+    - 
+      x: 0.0229799995422
+      y: 0.0897699966431
+      z: 0.0471999969482
+    - 
+      x: 0.0177700004578
+      y: 0.0798199996948
+      z: 0.012
+    - 
+      x: 0.0277800006866
+      y: -0.0928499984741
+      z: 0.0463000030518
+    - 
+      x: 0.037
+      y: -0.0925400009155
+      z: 0.0483999938965
+    - 
+      x: -0.0643199996948
+      y: 0.0345
+      z: 0.062
+    - 
+      x: 0.0669000015259
+      y: -0.0578100013733
+      z: 0.0526000061035
+    - 
+      x: 0.0659400024414
+      y: -0.0708799972534
+      z: 0.053
+    - 
+      x: 0.0639700012207
+      y: -0.0244599990845
+      z: 0.0466000061035
+    - 
+      x: -0.0575099983215
+      y: -0.0678399963379
+      z: 0.00760000610352
+    - 
+      x: -0.0611300010681
+      y: -0.0596100006104
+      z: 0.0133999938965
+    - 
+      x: -0.0706399993896
+      y: -0.0478300018311
+      z: 0.051
+    - 
+      x: -0.0709400024414
+      y: -0.0669300003052
+      z: 0.0595
+    - 
+      x: 0.0461100006104
+      y: 0.0855199966431
+      z: 0.0601999969482
+    - 
+      x: 0.0503699989319
+      y: 0.0141099996567
+      z: 0.0625
+    - 
+      x: 0.0434199981689
+      y: 0.0789000015259
+      z: 0.0193000030518
+    - 
+      x: 0.0490400009155
+      y: 0.0812399978638
+      z: 0.0445
+    - 
+      x: 0.0549900016785
+      y: 0.0858199996948
+      z: 0.0516999969482
+    - 
+      x: 0.0548899993896
+      y: 0.0658000030518
+      z: 0.0075
+    - 
+      x: -0.0690500030518
+      y: 0.0645299987793
+      z: 0.0511999969482
+    - 
+      x: 0.0494000015259
+      y: 0.0506300010681
+      z: 0.00160000610352
+    - 
+      x: 0.0617099990845
+      y: -0.0192099990845
+      z: 0.0398000030518
+    - 
+      x: 0.0689700012207
+      y: 0.0640800018311
+      z: 0.0486999969482
+    - 
+      x: -0.0613699989319
+      y: 0.0814199981689
+      z: 0.0491999969482
+    - 
+      x: -0.0514099998474
+      y: 0.0882799987793
+      z: 0.0481000061035
+    - 
+      x: -0.0558600006104
+      y: 0.0849300003052
+      z: 0.0483999938965
+    - 
+      x: -0.0478199996948
+      y: 0.0762699966431
+      z: 0.00969999694824
+    - 
+      x: -0.0507700004578
+      y: 0.08175
+      z: 0.0436999969482
+    - 
+      x: -0.0125100002289
+      y: 0.0896100006104
+      z: 0.0468000030518
+    - 
+      x: 0.05125
+      y: 0.0887099990845
+      z: 0.0498999938965
+    - 
+      x: -0.052
+      y: -0.0826600036621
+      z: 0.0168000030518
+    - 
+      x: -0.0472000007629
+      y: -0.0853300018311
+      z: 0.0198999938965
+    - 
+      x: -0.0479799995422
+      y: -0.096
+      z: 0.0518000030518
+    - 
+      x: -0.0545699996948
+      y: -0.04475
+      z: 0.0641999969482
+    - 
+      x: 0.0700899963379
+      y: 0.0631300010681
+      z: 0.0493999938965
+    - 
+      x: 0.0539500007629
+      y: 0.0429399986267
+      z: 0.00389999389648
+    - 
+      x: 0.0520600013733
+      y: -0.0360600013733
+      z: 0.00530000305176
+    - 
+      x: -0.0725
+      y: -0.0708000030518
+      z: 0.053
+    - 
+      x: -0.00688000011444
+      y: -0.0774100036621
+      z: 0.00319999694824
+    - 
+      x: -0.068
+      y: 0.0519700012207
+      z: 0.0483000030518
+    - 
+      x: -0.0692699966431
+      y: 0.0434900016785
+      z: 0.0495
+    - 
+      x: 0.0589799995422
+      y: -0.0786299972534
+      z: 0.0631999969482
+    - 
+      x: 0.0542000007629
+      y: -0.0917600021362
+      z: 0.0543999938965
+    - 
+      x: 0.0500900001526
+      y: -0.08125
+      z: 0.0201000061035
+    - 
+      x: 0.0422099990845
+      y: -0.0911200027466
+      z: 0.0488999938965
+    - 
+      x: -0.00379800009727
+      y: 0.0776100006104
+      z: 0.00489999389648
+    - 
+      x: 0.0561500015259
+      y: 0.0813899993896
+      z: 0.0588000030518
+    - 
+      x: 0.0510400009155
+      y: 0.0858899993896
+      z: 0.058
+    - 
+      x: -0.0427599983215
+      y: -0.0654400024414
+      z: 0.0658999938965
+    - 
+      x: -0.0669400024414
+      y: 0.0711299972534
+      z: 0.0526000061035
+    - 
+      x: -0.0503199996948
+      y: 0.0843899993896
+      z: 0.0473999938965
+    - 
+      x: -0.0528899993896
+      y: 0.0793499984741
+      z: 0.0426999969482
+    - 
+      x: -0.05025
+      y: 0.0767099990845
+      z: 0.0178000030518
+    - 
+      x: -0.0522900009155
+      y: 0.0864700012207
+      z: 0.0578000030518
+    - 
+      x: -0.0499500007629
+      y: -0.0933399963379
+      z: 0.0601000061035
+    - 
+      x: -0.0481500015259
+      y: -0.0769700012207
+      z: 0.00539999389648
+    - 
+      x: -0.0630299987793
+      y: -0.0703399963379
+      z: 0.0368000030518
+    - 
+      x: -0.0614700012207
+      y: -0.0782900009155
+      z: 0.0451999969482
+    - 
+      x: -0.0646900024414
+      y: -0.0835400009155
+      z: 0.0515
+    - 
+      x: 0.0424000015259
+      y: -0.0694899978638
+      z: 0.00280000305176
+    - 
+      x: 0.0449599990845
+      y: -0.0920999984741
+      z: 0.0508000030518
+    - 
+      x: 0.0406300010681
+      y: -0.0985400009155
+      z: 0.0546000061035
+    - 
+      x: 0.0234599990845
+      y: -0.0952600021362
+      z: 0.0628999938965
+    - 
+      x: 0.00950500011444
+      y: -0.0985
+      z: 0.0558000030518
+    - 
+      x: -0.0699899978638
+      y: -0.0115699996948
+      z: 0.0518999938965
+    - 
+      x: -0.0704800033569
+      y: -0.0247800006866
+      z: 0.0521000061035
+    - 
+      x: -0.0723300018311
+      y: -0.0525099983215
+      z: 0.0521999969482
+    - 
+      x: -0.071
+      y: -0.0206299991608
+      z: 0.0558000030518
+    - 
+      x: 0.0691800003052
+      y: 0.0664800033569
+      z: 0.0503999938965
+    - 
+      x: 0.0669499969482
+      y: 0.0384900016785
+      z: 0.0601999969482
+    - 
+      x: 0.0673300018311
+      y: 0.0341399993896
+      z: 0.0596000061035
+    - 
+      x: 0.0674700012207
+      y: 0.0322799987793
+      z: 0.0588999938965
+    - 
+      x: -0.0648199996948
+      y: 0.0500499992371
+      z: 0.0616999969482
+    - 
+      x: 0.0056779999733
+      y: 0.0897600021362
+      z: 0.0576999969482
+    - 
+      x: -0.0143800001144
+      y: 0.0919700012207
+      z: 0.0511999969482
+    - 
+      x: -0.0412000007629
+      y: 0.09275
+      z: 0.0515
+    - 
+      x: 0.0355999984741
+      y: 0.0764400024414
+      z: 0.006
+    - 
+      x: -0.0670500030518
+      y: -0.0185599994659
+      z: 0.0628999938965
+    - 
+      x: 0.0674899978638
+      y: -0.0334300003052
+      z: 0.0528000030518
+    - 
+      x: 0.0701100006104
+      y: 0.0565200004578
+      z: 0.0515
+    - 
+      x: 0.0679800033569
+      y: 0.0229899997711
+      z: 0.049
+    - 
+      x: 0.0667900009155
+      y: -0.0270100002289
+      z: 0.0491000061035
+    - 
+      x: 0.0660699996948
+      y: -0.000146300002933
+      z: 0.06
+    - 
+      x: -0.0284599990845
+      y: 0.0228199996948
+      z: 0.0641999969482
+    - 
+      x: 0.0394700012207
+      y: -0.0982399978638
+      z: 0.0511999969482
+    - 
+      x: 0.0656600036621
+      y: -0.0218500003815
+      z: 0.0593000030518
