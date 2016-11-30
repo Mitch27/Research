@@ -1,0 +1,98 @@
+#!/usr/bin/python
+import numpy as np
+from stl import mesh
+
+g = open("18644.txt", "r")
+triangles = []
+part2 = 0
+vertices = []
+readCount = 0
+d = 0
+e = 0
+f = 0
+for line in g:
+    if (part2 == 0):
+        if (line == '\n'):
+            continue
+        elif len(line.strip().split()) == 0:
+            continue
+        elif len(line.strip().split()) == 1:
+            print "new part reached"
+            part2 = 1
+            d = line.rstrip()
+            d = float(d)
+            readCount += 1
+        else:
+            print(line)
+            print(len(line.strip().split()))
+            line = line.strip()
+            a, b, c = line.split(",")
+            c.strip('\n')
+            a = int(a)
+            b = int(b)
+            c = int(c)
+            # print("(" + str(a) + "," + str(b) + "," + str(c) + ")")
+            triangles.append((a, b, c))
+    else:
+        print(readCount)
+        # print(line)
+        if (line == '\n'):
+            readCount = 0
+            continue
+        if (len(line.rstrip()) == 0):
+            readCount = 0
+            continue
+        elif readCount == 0:
+            d = line.rstrip()
+            d = float(d)
+            readCount += 1
+        elif readCount == 1:
+            e = line.rstrip()
+            e = float(e)
+            readCount += 1
+        elif readCount == 2:
+            # print("printing f")
+            f = line.rstrip()
+            # print(f)
+            f = float(f)
+            readCount += 1
+            vertices.append((d, e, f))
+npTriangle = np.array(triangles)
+print(npTriangle)
+npVertex = np.array(vertices)
+print(npVertex)
+# f = open("vertices.txt", "r")
+# vertices = []
+# readCount = 0
+# d = 0
+# e = 0
+# f = 0
+# for line in f:
+#     if (line == '\n'):
+#         readCount = 0
+#         continue
+#     elif readCount == 0:
+#         d = line.rstrip()
+#         d = float(d)
+#         readCount += 1
+#     elif readCount == 1:
+#         e = line.rstrip()
+#         e = float(e)
+#         readCount += 1
+#     elif readCount == 2:
+#         f = line.rstrip()
+#         f = float(f)
+#         readCount += 1
+#         vertices.append((d, e, f))
+
+# npVertex = np.array(vertices)
+# print(npVertex)
+#
+cube = mesh.Mesh(np.zeros(npTriangle.shape[0], dtype=mesh.Mesh.dtype))
+for i, f in enumerate(npTriangle):
+    for j in range(3):
+        cube.vectors[i][j] = npVertex[f[j],:]
+#
+g.close()
+# # Write the mesh to file "cube.stl"
+cube.save('STL/18644.stl')

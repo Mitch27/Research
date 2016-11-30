@@ -1,3901 +1,3901 @@
-return_code: 
-  code: -1
-mesh: 
-  triangles: 
-    - 
-      vertex_indices: [0, 1, 2]
-    - 
-      vertex_indices: [1, 0, 3]
-    - 
-      vertex_indices: [1, 4, 2]
-    - 
-      vertex_indices: [2, 5, 0]
-    - 
-      vertex_indices: [3, 0, 6]
-    - 
-      vertex_indices: [3, 7, 1]
-    - 
-      vertex_indices: [4, 1, 7]
-    - 
-      vertex_indices: [5, 2, 4]
-    - 
-      vertex_indices: [8, 0, 5]
-    - 
-      vertex_indices: [0, 8, 6]
-    - 
-      vertex_indices: [3, 6, 9]
-    - 
-      vertex_indices: [7, 3, 10]
-    - 
-      vertex_indices: [7, 5, 4]
-    - 
-      vertex_indices: [5, 10, 8]
-    - 
-      vertex_indices: [11, 6, 8]
-    - 
-      vertex_indices: [9, 6, 12]
-    - 
-      vertex_indices: [9, 10, 3]
-    - 
-      vertex_indices: [5, 7, 10]
-    - 
-      vertex_indices: [8, 10, 13]
-    - 
-      vertex_indices: [6, 11, 12]
-    - 
-      vertex_indices: [8, 13, 11]
-    - 
-      vertex_indices: [9, 12, 14]
-    - 
-      vertex_indices: [10, 9, 13]
-    - 
-      vertex_indices: [15, 12, 11]
-    - 
-      vertex_indices: [11, 13, 16]
-    - 
-      vertex_indices: [14, 12, 17]
-    - 
-      vertex_indices: [14, 13, 9]
-    - 
-      vertex_indices: [12, 15, 17]
-    - 
-      vertex_indices: [11, 16, 15]
-    - 
-      vertex_indices: [13, 14, 16]
-    - 
-      vertex_indices: [14, 17, 18]
-    - 
-      vertex_indices: [15, 19, 17]
-    - 
-      vertex_indices: [15, 16, 20]
-    - 
-      vertex_indices: [14, 20, 16]
-    - 
-      vertex_indices: [18, 17, 19]
-    - 
-      vertex_indices: [20, 14, 18]
-    - 
-      vertex_indices: [19, 15, 21]
-    - 
-      vertex_indices: [15, 20, 21]
-    - 
-      vertex_indices: [18, 19, 22]
-    - 
-      vertex_indices: [18, 23, 20]
-    - 
-      vertex_indices: [21, 24, 19]
-    - 
-      vertex_indices: [21, 20, 25]
-    - 
-      vertex_indices: [22, 19, 26]
-    - 
-      vertex_indices: [18, 22, 27]
-    - 
-      vertex_indices: [23, 18, 27]
-    - 
-      vertex_indices: [25, 20, 23]
-    - 
-      vertex_indices: [24, 21, 28]
-    - 
-      vertex_indices: [26, 19, 24]
-    - 
-      vertex_indices: [21, 25, 29]
-    - 
-      vertex_indices: [26, 25, 22]
-    - 
-      vertex_indices: [30, 27, 22]
-    - 
-      vertex_indices: [27, 31, 23]
-    - 
-      vertex_indices: [23, 32, 25]
-    - 
-      vertex_indices: [21, 29, 28]
-    - 
-      vertex_indices: [28, 33, 24]
-    - 
-      vertex_indices: [26, 24, 34]
-    - 
-      vertex_indices: [25, 26, 29]
-    - 
-      vertex_indices: [32, 22, 25]
-    - 
-      vertex_indices: [27, 30, 35]
-    - 
-      vertex_indices: [22, 32, 30]
-    - 
-      vertex_indices: [31, 27, 35]
-    - 
-      vertex_indices: [32, 23, 31]
-    - 
-      vertex_indices: [28, 29, 36]
-    - 
-      vertex_indices: [33, 28, 37]
-    - 
-      vertex_indices: [38, 24, 33]
-    - 
-      vertex_indices: [34, 24, 38]
-    - 
-      vertex_indices: [34, 29, 26]
-    - 
-      vertex_indices: [35, 30, 39]
-    - 
-      vertex_indices: [40, 30, 32]
-    - 
-      vertex_indices: [35, 41, 31]
-    - 
-      vertex_indices: [32, 31, 40]
-    - 
-      vertex_indices: [29, 34, 36]
-    - 
-      vertex_indices: [28, 36, 42]
-    - 
-      vertex_indices: [28, 42, 37]
-    - 
-      vertex_indices: [37, 43, 33]
-    - 
-      vertex_indices: [38, 33, 44]
-    - 
-      vertex_indices: [42, 34, 38]
-    - 
-      vertex_indices: [30, 40, 39]
-    - 
-      vertex_indices: [35, 39, 45]
-    - 
-      vertex_indices: [41, 35, 46]
-    - 
-      vertex_indices: [47, 31, 41]
-    - 
-      vertex_indices: [40, 31, 48]
-    - 
-      vertex_indices: [34, 42, 36]
-    - 
-      vertex_indices: [37, 42, 49]
-    - 
-      vertex_indices: [43, 37, 50]
-    - 
-      vertex_indices: [44, 33, 43]
-    - 
-      vertex_indices: [49, 38, 44]
-    - 
-      vertex_indices: [38, 49, 42]
-    - 
-      vertex_indices: [40, 45, 39]
-    - 
-      vertex_indices: [35, 45, 51]
-    - 
-      vertex_indices: [35, 51, 46]
-    - 
-      vertex_indices: [46, 52, 41]
-    - 
-      vertex_indices: [48, 31, 47]
-    - 
-      vertex_indices: [47, 41, 53]
-    - 
-      vertex_indices: [45, 40, 48]
-    - 
-      vertex_indices: [37, 49, 50]
-    - 
-      vertex_indices: [50, 54, 43]
-    - 
-      vertex_indices: [44, 43, 54]
-    - 
-      vertex_indices: [44, 55, 49]
-    - 
-      vertex_indices: [48, 51, 45]
-    - 
-      vertex_indices: [46, 51, 56]
-    - 
-      vertex_indices: [52, 46, 57]
-    - 
-      vertex_indices: [53, 41, 52]
-    - 
-      vertex_indices: [51, 48, 47]
-    - 
-      vertex_indices: [56, 47, 53]
-    - 
-      vertex_indices: [50, 49, 58]
-    - 
-      vertex_indices: [54, 50, 58]
-    - 
-      vertex_indices: [44, 54, 59]
-    - 
-      vertex_indices: [55, 44, 59]
-    - 
-      vertex_indices: [58, 49, 55]
-    - 
-      vertex_indices: [47, 56, 51]
-    - 
-      vertex_indices: [46, 56, 57]
-    - 
-      vertex_indices: [57, 60, 52]
-    - 
-      vertex_indices: [53, 52, 61]
-    - 
-      vertex_indices: [53, 62, 56]
-    - 
-      vertex_indices: [58, 63, 54]
-    - 
-      vertex_indices: [59, 54, 63]
-    - 
-      vertex_indices: [59, 64, 55]
-    - 
-      vertex_indices: [58, 55, 65]
-    - 
-      vertex_indices: [57, 56, 62]
-    - 
-      vertex_indices: [60, 57, 66]
-    - 
-      vertex_indices: [61, 52, 60]
-    - 
-      vertex_indices: [62, 53, 61]
-    - 
-      vertex_indices: [63, 58, 65]
-    - 
-      vertex_indices: [59, 63, 67]
-    - 
-      vertex_indices: [64, 59, 67]
-    - 
-      vertex_indices: [65, 55, 64]
-    - 
-      vertex_indices: [57, 62, 66]
-    - 
-      vertex_indices: [66, 68, 60]
-    - 
-      vertex_indices: [61, 60, 68]
-    - 
-      vertex_indices: [61, 69, 62]
-    - 
-      vertex_indices: [65, 70, 63]
-    - 
-      vertex_indices: [67, 63, 70]
-    - 
-      vertex_indices: [67, 71, 64]
-    - 
-      vertex_indices: [65, 64, 72]
-    - 
-      vertex_indices: [66, 62, 73]
-    - 
-      vertex_indices: [68, 66, 73]
-    - 
-      vertex_indices: [61, 68, 74]
-    - 
-      vertex_indices: [69, 61, 74]
-    - 
-      vertex_indices: [73, 62, 69]
-    - 
-      vertex_indices: [70, 65, 72]
-    - 
-      vertex_indices: [67, 70, 75]
-    - 
-      vertex_indices: [71, 67, 75]
-    - 
-      vertex_indices: [72, 64, 71]
-    - 
-      vertex_indices: [76, 68, 73]
-    - 
-      vertex_indices: [74, 68, 77]
-    - 
-      vertex_indices: [74, 78, 69]
-    - 
-      vertex_indices: [73, 69, 76]
-    - 
-      vertex_indices: [72, 79, 70]
-    - 
-      vertex_indices: [75, 70, 79]
-    - 
-      vertex_indices: [75, 80, 71]
-    - 
-      vertex_indices: [72, 71, 81]
-    - 
-      vertex_indices: [68, 76, 77]
-    - 
-      vertex_indices: [74, 77, 82]
-    - 
-      vertex_indices: [78, 74, 83]
-    - 
-      vertex_indices: [84, 69, 78]
-    - 
-      vertex_indices: [76, 69, 85]
-    - 
-      vertex_indices: [79, 72, 81]
-    - 
-      vertex_indices: [75, 79, 86]
-    - 
-      vertex_indices: [80, 75, 86]
-    - 
-      vertex_indices: [81, 71, 80]
-    - 
-      vertex_indices: [85, 77, 76]
-    - 
-      vertex_indices: [77, 85, 82]
-    - 
-      vertex_indices: [82, 87, 74]
-    - 
-      vertex_indices: [74, 87, 83]
-    - 
-      vertex_indices: [88, 78, 83]
-    - 
-      vertex_indices: [84, 85, 69]
-    - 
-      vertex_indices: [84, 78, 89]
-    - 
-      vertex_indices: [90, 79, 81]
-    - 
-      vertex_indices: [86, 79, 91]
-    - 
-      vertex_indices: [86, 90, 80]
-    - 
-      vertex_indices: [81, 80, 90]
-    - 
-      vertex_indices: [92, 82, 85]
-    - 
-      vertex_indices: [82, 93, 87]
-    - 
-      vertex_indices: [83, 87, 94]
-    - 
-      vertex_indices: [78, 88, 95]
-    - 
-      vertex_indices: [83, 96, 88]
-    - 
-      vertex_indices: [97, 85, 84]
-    - 
-      vertex_indices: [89, 78, 98]
-    - 
-      vertex_indices: [89, 87, 84]
-    - 
-      vertex_indices: [79, 90, 91]
-    - 
-      vertex_indices: [90, 86, 91]
-    - 
-      vertex_indices: [82, 92, 99]
-    - 
-      vertex_indices: [97, 92, 85]
-    - 
-      vertex_indices: [99, 93, 82]
-    - 
-      vertex_indices: [97, 87, 93]
-    - 
-      vertex_indices: [87, 89, 94]
-    - 
-      vertex_indices: [83, 94, 96]
-    - 
-      vertex_indices: [100, 95, 88]
-    - 
-      vertex_indices: [98, 78, 95]
-    - 
-      vertex_indices: [88, 96, 101]
-    - 
-      vertex_indices: [87, 97, 84]
-    - 
-      vertex_indices: [98, 94, 89]
-    - 
-      vertex_indices: [102, 99, 92]
-    - 
-      vertex_indices: [97, 102, 92]
-    - 
-      vertex_indices: [103, 93, 99]
-    - 
-      vertex_indices: [93, 104, 97]
-    - 
-      vertex_indices: [94, 98, 96]
-    - 
-      vertex_indices: [95, 100, 105]
-    - 
-      vertex_indices: [88, 101, 100]
-    - 
-      vertex_indices: [98, 95, 106]
-    - 
-      vertex_indices: [96, 106, 101]
-    - 
-      vertex_indices: [99, 102, 103]
-    - 
-      vertex_indices: [104, 102, 97]
-    - 
-      vertex_indices: [103, 107, 93]
-    - 
-      vertex_indices: [104, 93, 107]
-    - 
-      vertex_indices: [106, 96, 98]
-    - 
-      vertex_indices: [101, 105, 100]
-    - 
-      vertex_indices: [106, 95, 105]
-    - 
-      vertex_indices: [105, 101, 106]
-    - 
-      vertex_indices: [102, 108, 103]
-    - 
-      vertex_indices: [104, 109, 102]
-    - 
-      vertex_indices: [108, 107, 103]
-    - 
-      vertex_indices: [107, 110, 104]
-    - 
-      vertex_indices: [108, 102, 109]
-    - 
-      vertex_indices: [104, 111, 109]
-    - 
-      vertex_indices: [112, 107, 108]
-    - 
-      vertex_indices: [110, 107, 113]
-    - 
-      vertex_indices: [110, 111, 104]
-    - 
-      vertex_indices: [109, 112, 108]
-    - 
-      vertex_indices: [112, 109, 111]
-    - 
-      vertex_indices: [112, 113, 107]
-    - 
-      vertex_indices: [113, 114, 110]
-    - 
-      vertex_indices: [114, 111, 110]
-    - 
-      vertex_indices: [111, 115, 112]
-    - 
-      vertex_indices: [112, 116, 113]
-    - 
-      vertex_indices: [114, 113, 116]
-    - 
-      vertex_indices: [114, 117, 111]
-    - 
-      vertex_indices: [115, 111, 117]
-    - 
-      vertex_indices: [115, 116, 112]
-    - 
-      vertex_indices: [116, 118, 114]
-    - 
-      vertex_indices: [114, 119, 117]
-    - 
-      vertex_indices: [117, 120, 115]
-    - 
-      vertex_indices: [120, 116, 115]
-    - 
-      vertex_indices: [118, 116, 121]
-    - 
-      vertex_indices: [118, 119, 114]
-    - 
-      vertex_indices: [120, 117, 119]
-    - 
-      vertex_indices: [120, 121, 116]
-    - 
-      vertex_indices: [121, 122, 118]
-    - 
-      vertex_indices: [118, 123, 119]
-    - 
-      vertex_indices: [119, 124, 120]
-    - 
-      vertex_indices: [124, 121, 120]
-    - 
-      vertex_indices: [122, 121, 125]
-    - 
-      vertex_indices: [122, 123, 118]
-    - 
-      vertex_indices: [124, 119, 123]
-    - 
-      vertex_indices: [124, 125, 121]
-    - 
-      vertex_indices: [125, 126, 122]
-    - 
-      vertex_indices: [122, 127, 123]
-    - 
-      vertex_indices: [123, 128, 124]
-    - 
-      vertex_indices: [128, 125, 124]
-    - 
-      vertex_indices: [126, 125, 129]
-    - 
-      vertex_indices: [126, 130, 122]
-    - 
-      vertex_indices: [122, 130, 127]
-    - 
-      vertex_indices: [128, 123, 127]
-    - 
-      vertex_indices: [131, 125, 128]
-    - 
-      vertex_indices: [125, 132, 129]
-    - 
-      vertex_indices: [132, 126, 129]
-    - 
-      vertex_indices: [130, 126, 133]
-    - 
-      vertex_indices: [131, 127, 130]
-    - 
-      vertex_indices: [127, 131, 128]
-    - 
-      vertex_indices: [132, 125, 131]
-    - 
-      vertex_indices: [126, 132, 133]
-    - 
-      vertex_indices: [132, 130, 133]
-    - 
-      vertex_indices: [130, 132, 131]
-    - 
-      vertex_indices: [134, 135, 136]
-    - 
-      vertex_indices: [135, 134, 137]
-    - 
-      vertex_indices: [135, 138, 136]
-    - 
-      vertex_indices: [139, 134, 136]
-    - 
-      vertex_indices: [140, 137, 134]
-    - 
-      vertex_indices: [135, 137, 141]
-    - 
-      vertex_indices: [138, 135, 142]
-    - 
-      vertex_indices: [143, 136, 138]
-    - 
-      vertex_indices: [139, 144, 134]
-    - 
-      vertex_indices: [139, 136, 145]
-    - 
-      vertex_indices: [137, 140, 146]
-    - 
-      vertex_indices: [144, 140, 134]
-    - 
-      vertex_indices: [141, 137, 147]
-    - 
-      vertex_indices: [141, 142, 135]
-    - 
-      vertex_indices: [142, 140, 138]
-    - 
-      vertex_indices: [136, 143, 145]
-    - 
-      vertex_indices: [138, 148, 143]
-    - 
-      vertex_indices: [149, 144, 139]
-    - 
-      vertex_indices: [139, 145, 150]
-    - 
-      vertex_indices: [140, 142, 146]
-    - 
-      vertex_indices: [146, 151, 137]
-    - 
-      vertex_indices: [140, 144, 152]
-    - 
-      vertex_indices: [147, 137, 151]
-    - 
-      vertex_indices: [147, 153, 141]
-    - 
-      vertex_indices: [142, 141, 153]
-    - 
-      vertex_indices: [140, 148, 138]
-    - 
-      vertex_indices: [154, 145, 143]
-    - 
-      vertex_indices: [143, 148, 155]
-    - 
-      vertex_indices: [149, 156, 144]
-    - 
-      vertex_indices: [139, 157, 149]
-    - 
-      vertex_indices: [150, 145, 158]
-    - 
-      vertex_indices: [155, 139, 150]
-    - 
-      vertex_indices: [146, 142, 153]
-    - 
-      vertex_indices: [151, 146, 159]
-    - 
-      vertex_indices: [156, 152, 144]
-    - 
-      vertex_indices: [152, 148, 140]
-    - 
-      vertex_indices: [147, 151, 160]
-    - 
-      vertex_indices: [153, 147, 161]
-    - 
-      vertex_indices: [145, 154, 158]
-    - 
-      vertex_indices: [143, 155, 154]
-    - 
-      vertex_indices: [139, 155, 148]
-    - 
-      vertex_indices: [162, 156, 149]
-    - 
-      vertex_indices: [157, 139, 148]
-    - 
-      vertex_indices: [163, 149, 157]
-    - 
-      vertex_indices: [150, 158, 164]
-    - 
-      vertex_indices: [150, 165, 155]
-    - 
-      vertex_indices: [146, 153, 161]
-    - 
-      vertex_indices: [146, 161, 159]
-    - 
-      vertex_indices: [159, 166, 151]
-    - 
-      vertex_indices: [152, 156, 167]
-    - 
-      vertex_indices: [152, 157, 148]
-    - 
-      vertex_indices: [160, 151, 168]
-    - 
-      vertex_indices: [160, 161, 147]
-    - 
-      vertex_indices: [169, 158, 154]
-    - 
-      vertex_indices: [154, 155, 169]
-    - 
-      vertex_indices: [162, 170, 156]
-    - 
-      vertex_indices: [149, 163, 162]
-    - 
-      vertex_indices: [167, 163, 157]
-    - 
-      vertex_indices: [158, 169, 164]
-    - 
-      vertex_indices: [150, 164, 171]
-    - 
-      vertex_indices: [165, 150, 171]
-    - 
-      vertex_indices: [169, 155, 165]
-    - 
-      vertex_indices: [159, 161, 172]
-    - 
-      vertex_indices: [166, 159, 173]
-    - 
-      vertex_indices: [168, 151, 166]
-    - 
-      vertex_indices: [170, 167, 156]
-    - 
-      vertex_indices: [167, 157, 152]
-    - 
-      vertex_indices: [168, 172, 160]
-    - 
-      vertex_indices: [161, 160, 172]
-    - 
-      vertex_indices: [174, 170, 162]
-    - 
-      vertex_indices: [175, 162, 163]
-    - 
-      vertex_indices: [176, 163, 167]
-    - 
-      vertex_indices: [177, 164, 169]
-    - 
-      vertex_indices: [171, 164, 178]
-    - 
-      vertex_indices: [171, 179, 165]
-    - 
-      vertex_indices: [169, 165, 177]
-    - 
-      vertex_indices: [159, 172, 180]
-    - 
-      vertex_indices: [159, 180, 173]
-    - 
-      vertex_indices: [173, 181, 166]
-    - 
-      vertex_indices: [168, 166, 182]
-    - 
-      vertex_indices: [167, 170, 176]
-    - 
-      vertex_indices: [172, 168, 180]
-    - 
-      vertex_indices: [170, 174, 183]
-    - 
-      vertex_indices: [162, 175, 174]
-    - 
-      vertex_indices: [176, 175, 163]
-    - 
-      vertex_indices: [164, 177, 178]
-    - 
-      vertex_indices: [171, 178, 184]
-    - 
-      vertex_indices: [179, 171, 185]
-    - 
-      vertex_indices: [186, 165, 179]
-    - 
-      vertex_indices: [177, 165, 186]
-    - 
-      vertex_indices: [173, 180, 187]
-    - 
-      vertex_indices: [181, 173, 188]
-    - 
-      vertex_indices: [189, 166, 181]
-    - 
-      vertex_indices: [182, 166, 189]
-    - 
-      vertex_indices: [187, 168, 182]
-    - 
-      vertex_indices: [183, 176, 170]
-    - 
-      vertex_indices: [168, 187, 180]
-    - 
-      vertex_indices: [174, 190, 183]
-    - 
-      vertex_indices: [190, 174, 175]
-    - 
-      vertex_indices: [175, 176, 190]
-    - 
-      vertex_indices: [186, 178, 177]
-    - 
-      vertex_indices: [178, 186, 184]
-    - 
-      vertex_indices: [171, 184, 185]
-    - 
-      vertex_indices: [185, 191, 179]
-    - 
-      vertex_indices: [186, 179, 192]
-    - 
-      vertex_indices: [173, 187, 193]
-    - 
-      vertex_indices: [173, 193, 188]
-    - 
-      vertex_indices: [188, 194, 181]
-    - 
-      vertex_indices: [189, 181, 195]
-    - 
-      vertex_indices: [193, 182, 189]
-    - 
-      vertex_indices: [182, 193, 187]
-    - 
-      vertex_indices: [176, 183, 190]
-    - 
-      vertex_indices: [186, 196, 184]
-    - 
-      vertex_indices: [185, 184, 196]
-    - 
-      vertex_indices: [191, 185, 197]
-    - 
-      vertex_indices: [198, 179, 191]
-    - 
-      vertex_indices: [192, 179, 198]
-    - 
-      vertex_indices: [196, 186, 192]
-    - 
-      vertex_indices: [188, 193, 199]
-    - 
-      vertex_indices: [194, 188, 200]
-    - 
-      vertex_indices: [195, 181, 194]
-    - 
-      vertex_indices: [199, 189, 195]
-    - 
-      vertex_indices: [189, 199, 193]
-    - 
-      vertex_indices: [185, 196, 201]
-    - 
-      vertex_indices: [185, 201, 197]
-    - 
-      vertex_indices: [197, 202, 191]
-    - 
-      vertex_indices: [198, 191, 203]
-    - 
-      vertex_indices: [201, 192, 198]
-    - 
-      vertex_indices: [192, 201, 196]
-    - 
-      vertex_indices: [188, 199, 200]
-    - 
-      vertex_indices: [200, 204, 194]
-    - 
-      vertex_indices: [195, 194, 205]
-    - 
-      vertex_indices: [195, 206, 199]
-    - 
-      vertex_indices: [197, 201, 207]
-    - 
-      vertex_indices: [202, 197, 208]
-    - 
-      vertex_indices: [203, 191, 202]
-    - 
-      vertex_indices: [207, 198, 203]
-    - 
-      vertex_indices: [198, 207, 201]
-    - 
-      vertex_indices: [200, 199, 206]
-    - 
-      vertex_indices: [204, 200, 209]
-    - 
-      vertex_indices: [210, 194, 204]
-    - 
-      vertex_indices: [205, 194, 210]
-    - 
-      vertex_indices: [206, 195, 205]
-    - 
-      vertex_indices: [197, 207, 208]
-    - 
-      vertex_indices: [208, 211, 202]
-    - 
-      vertex_indices: [203, 202, 212]
-    - 
-      vertex_indices: [203, 213, 207]
-    - 
-      vertex_indices: [200, 206, 214]
-    - 
-      vertex_indices: [200, 214, 209]
-    - 
-      vertex_indices: [209, 215, 204]
-    - 
-      vertex_indices: [210, 204, 216]
-    - 
-      vertex_indices: [214, 205, 210]
-    - 
-      vertex_indices: [205, 214, 206]
-    - 
-      vertex_indices: [208, 207, 213]
-    - 
-      vertex_indices: [211, 208, 217]
-    - 
-      vertex_indices: [218, 202, 211]
-    - 
-      vertex_indices: [212, 202, 218]
-    - 
-      vertex_indices: [213, 203, 212]
-    - 
-      vertex_indices: [209, 214, 219]
-    - 
-      vertex_indices: [215, 209, 220]
-    - 
-      vertex_indices: [221, 204, 215]
-    - 
-      vertex_indices: [216, 204, 221]
-    - 
-      vertex_indices: [219, 210, 216]
-    - 
-      vertex_indices: [210, 219, 214]
-    - 
-      vertex_indices: [208, 213, 222]
-    - 
-      vertex_indices: [208, 222, 217]
-    - 
-      vertex_indices: [217, 223, 211]
-    - 
-      vertex_indices: [218, 211, 224]
-    - 
-      vertex_indices: [222, 212, 218]
-    - 
-      vertex_indices: [212, 222, 213]
-    - 
-      vertex_indices: [209, 219, 225]
-    - 
-      vertex_indices: [209, 225, 220]
-    - 
-      vertex_indices: [220, 226, 215]
-    - 
-      vertex_indices: [221, 215, 227]
-    - 
-      vertex_indices: [221, 219, 216]
-    - 
-      vertex_indices: [217, 222, 228]
-    - 
-      vertex_indices: [223, 217, 229]
-    - 
-      vertex_indices: [230, 211, 223]
-    - 
-      vertex_indices: [224, 211, 230]
-    - 
-      vertex_indices: [228, 218, 224]
-    - 
-      vertex_indices: [218, 228, 222]
-    - 
-      vertex_indices: [219, 221, 225]
-    - 
-      vertex_indices: [220, 225, 231]
-    - 
-      vertex_indices: [226, 220, 232]
-    - 
-      vertex_indices: [233, 215, 226]
-    - 
-      vertex_indices: [227, 215, 233]
-    - 
-      vertex_indices: [227, 225, 221]
-    - 
-      vertex_indices: [217, 228, 234]
-    - 
-      vertex_indices: [217, 234, 229]
-    - 
-      vertex_indices: [229, 235, 223]
-    - 
-      vertex_indices: [230, 223, 236]
-    - 
-      vertex_indices: [230, 228, 224]
-    - 
-      vertex_indices: [225, 227, 231]
-    - 
-      vertex_indices: [220, 231, 237]
-    - 
-      vertex_indices: [220, 237, 232]
-    - 
-      vertex_indices: [238, 226, 232]
-    - 
-      vertex_indices: [233, 226, 239]
-    - 
-      vertex_indices: [233, 231, 227]
-    - 
-      vertex_indices: [228, 230, 234]
-    - 
-      vertex_indices: [229, 234, 240]
-    - 
-      vertex_indices: [235, 229, 241]
-    - 
-      vertex_indices: [236, 223, 235]
-    - 
-      vertex_indices: [236, 234, 230]
-    - 
-      vertex_indices: [231, 233, 237]
-    - 
-      vertex_indices: [232, 237, 242]
-    - 
-      vertex_indices: [226, 238, 243]
-    - 
-      vertex_indices: [232, 244, 238]
-    - 
-      vertex_indices: [239, 226, 245]
-    - 
-      vertex_indices: [239, 237, 233]
-    - 
-      vertex_indices: [234, 236, 240]
-    - 
-      vertex_indices: [229, 240, 241]
-    - 
-      vertex_indices: [246, 235, 241]
-    - 
-      vertex_indices: [236, 235, 247]
-    - 
-      vertex_indices: [237, 239, 242]
-    - 
-      vertex_indices: [232, 242, 248]
-    - 
-      vertex_indices: [249, 243, 238]
-    - 
-      vertex_indices: [241, 226, 243]
-    - 
-      vertex_indices: [232, 235, 244]
-    - 
-      vertex_indices: [238, 244, 249]
-    - 
-      vertex_indices: [241, 245, 226]
-    - 
-      vertex_indices: [245, 242, 239]
-    - 
-      vertex_indices: [247, 240, 236]
-    - 
-      vertex_indices: [241, 240, 250]
-    - 
-      vertex_indices: [235, 246, 244]
-    - 
-      vertex_indices: [241, 243, 246]
-    - 
-      vertex_indices: [247, 235, 251]
-    - 
-      vertex_indices: [242, 245, 248]
-    - 
-      vertex_indices: [232, 248, 235]
-    - 
-      vertex_indices: [243, 249, 252]
-    - 
-      vertex_indices: [249, 244, 253]
-    - 
-      vertex_indices: [241, 254, 245]
-    - 
-      vertex_indices: [240, 247, 250]
-    - 
-      vertex_indices: [241, 250, 254]
-    - 
-      vertex_indices: [255, 244, 246]
-    - 
-      vertex_indices: [246, 243, 252]
-    - 
-      vertex_indices: [251, 235, 248]
-    - 
-      vertex_indices: [251, 250, 247]
-    - 
-      vertex_indices: [254, 248, 245]
-    - 
-      vertex_indices: [256, 252, 249]
-    - 
-      vertex_indices: [244, 255, 253]
-    - 
-      vertex_indices: [249, 253, 256]
-    - 
-      vertex_indices: [250, 251, 254]
-    - 
-      vertex_indices: [246, 252, 255]
-    - 
-      vertex_indices: [248, 254, 251]
-    - 
-      vertex_indices: [252, 256, 257]
-    - 
-      vertex_indices: [258, 253, 255]
-    - 
-      vertex_indices: [256, 253, 259]
-    - 
-      vertex_indices: [255, 252, 257]
-    - 
-      vertex_indices: [260, 257, 256]
-    - 
-      vertex_indices: [253, 258, 259]
-    - 
-      vertex_indices: [255, 257, 258]
-    - 
-      vertex_indices: [256, 259, 260]
-    - 
-      vertex_indices: [257, 260, 261]
-    - 
-      vertex_indices: [261, 259, 258]
-    - 
-      vertex_indices: [258, 257, 261]
-    - 
-      vertex_indices: [259, 261, 260]
-    - 
-      vertex_indices: [262, 263, 264]
-    - 
-      vertex_indices: [263, 262, 265]
-    - 
-      vertex_indices: [266, 264, 263]
-    - 
-      vertex_indices: [264, 267, 262]
-    - 
-      vertex_indices: [265, 262, 268]
-    - 
-      vertex_indices: [265, 266, 263]
-    - 
-      vertex_indices: [264, 266, 269]
-    - 
-      vertex_indices: [267, 264, 269]
-    - 
-      vertex_indices: [267, 270, 262]
-    - 
-      vertex_indices: [268, 262, 271]
-    - 
-      vertex_indices: [268, 272, 265]
-    - 
-      vertex_indices: [266, 265, 273]
-    - 
-      vertex_indices: [266, 267, 269]
-    - 
-      vertex_indices: [270, 267, 274]
-    - 
-      vertex_indices: [271, 262, 270]
-    - 
-      vertex_indices: [271, 275, 268]
-    - 
-      vertex_indices: [272, 268, 276]
-    - 
-      vertex_indices: [277, 265, 272]
-    - 
-      vertex_indices: [265, 277, 273]
-    - 
-      vertex_indices: [267, 266, 273]
-    - 
-      vertex_indices: [267, 278, 274]
-    - 
-      vertex_indices: [279, 270, 274]
-    - 
-      vertex_indices: [271, 270, 276]
-    - 
-      vertex_indices: [275, 271, 278]
-    - 
-      vertex_indices: [275, 276, 268]
-    - 
-      vertex_indices: [276, 280, 272]
-    - 
-      vertex_indices: [281, 277, 272]
-    - 
-      vertex_indices: [277, 275, 273]
-    - 
-      vertex_indices: [267, 273, 275]
-    - 
-      vertex_indices: [267, 275, 278]
-    - 
-      vertex_indices: [274, 278, 282]
-    - 
-      vertex_indices: [270, 279, 280]
-    - 
-      vertex_indices: [274, 282, 279]
-    - 
-      vertex_indices: [276, 270, 280]
-    - 
-      vertex_indices: [276, 278, 271]
-    - 
-      vertex_indices: [276, 275, 282]
-    - 
-      vertex_indices: [272, 280, 281]
-    - 
-      vertex_indices: [277, 281, 283]
-    - 
-      vertex_indices: [275, 277, 282]
-    - 
-      vertex_indices: [278, 276, 282]
-    - 
-      vertex_indices: [279, 281, 280]
-    - 
-      vertex_indices: [279, 282, 277]
-    - 
-      vertex_indices: [281, 279, 283]
-    - 
-      vertex_indices: [279, 277, 283]
-    - 
-      vertex_indices: [284, 285, 286]
-    - 
-      vertex_indices: [285, 284, 287]
-    - 
-      vertex_indices: [285, 288, 286]
-    - 
-      vertex_indices: [286, 289, 284]
-    - 
-      vertex_indices: [289, 287, 284]
-    - 
-      vertex_indices: [285, 287, 290]
-    - 
-      vertex_indices: [288, 285, 291]
-    - 
-      vertex_indices: [292, 286, 288]
-    - 
-      vertex_indices: [289, 286, 293]
-    - 
-      vertex_indices: [287, 289, 294]
-    - 
-      vertex_indices: [290, 287, 295]
-    - 
-      vertex_indices: [296, 285, 290]
-    - 
-      vertex_indices: [285, 297, 291]
-    - 
-      vertex_indices: [288, 291, 298]
-    - 
-      vertex_indices: [286, 292, 293]
-    - 
-      vertex_indices: [298, 292, 288]
-    - 
-      vertex_indices: [292, 289, 293]
-    - 
-      vertex_indices: [289, 299, 294]
-    - 
-      vertex_indices: [294, 300, 287]
-    - 
-      vertex_indices: [295, 287, 300]
-    - 
-      vertex_indices: [301, 290, 295]
-    - 
-      vertex_indices: [285, 296, 299]
-    - 
-      vertex_indices: [290, 301, 296]
-    - 
-      vertex_indices: [297, 285, 299]
-    - 
-      vertex_indices: [297, 302, 291]
-    - 
-      vertex_indices: [302, 298, 291]
-    - 
-      vertex_indices: [292, 298, 303]
-    - 
-      vertex_indices: [289, 292, 299]
-    - 
-      vertex_indices: [294, 299, 296]
-    - 
-      vertex_indices: [300, 294, 304]
-    - 
-      vertex_indices: [295, 300, 305]
-    - 
-      vertex_indices: [295, 306, 301]
-    - 
-      vertex_indices: [294, 296, 301]
-    - 
-      vertex_indices: [299, 303, 297]
-    - 
-      vertex_indices: [302, 297, 307]
-    - 
-      vertex_indices: [298, 302, 308]
-    - 
-      vertex_indices: [298, 309, 303]
-    - 
-      vertex_indices: [299, 292, 303]
-    - 
-      vertex_indices: [294, 301, 304]
-    - 
-      vertex_indices: [304, 305, 300]
-    - 
-      vertex_indices: [295, 305, 310]
-    - 
-      vertex_indices: [306, 295, 310]
-    - 
-      vertex_indices: [311, 301, 306]
-    - 
-      vertex_indices: [309, 297, 303]
-    - 
-      vertex_indices: [297, 309, 307]
-    - 
-      vertex_indices: [307, 312, 302]
-    - 
-      vertex_indices: [308, 302, 312]
-    - 
-      vertex_indices: [309, 298, 308]
-    - 
-      vertex_indices: [304, 301, 311]
-    - 
-      vertex_indices: [305, 304, 311]
-    - 
-      vertex_indices: [310, 305, 313]
-    - 
-      vertex_indices: [310, 314, 306]
-    - 
-      vertex_indices: [311, 306, 315]
-    - 
-      vertex_indices: [307, 309, 316]
-    - 
-      vertex_indices: [312, 307, 316]
-    - 
-      vertex_indices: [308, 312, 317]
-    - 
-      vertex_indices: [308, 318, 309]
-    - 
-      vertex_indices: [311, 313, 305]
-    - 
-      vertex_indices: [310, 313, 319]
-    - 
-      vertex_indices: [314, 310, 319]
-    - 
-      vertex_indices: [315, 306, 314]
-    - 
-      vertex_indices: [313, 311, 315]
-    - 
-      vertex_indices: [316, 309, 318]
-    - 
-      vertex_indices: [316, 320, 312]
-    - 
-      vertex_indices: [317, 312, 320]
-    - 
-      vertex_indices: [318, 308, 317]
-    - 
-      vertex_indices: [319, 313, 321]
-    - 
-      vertex_indices: [321, 314, 319]
-    - 
-      vertex_indices: [315, 314, 322]
-    - 
-      vertex_indices: [315, 323, 313]
-    - 
-      vertex_indices: [316, 318, 324]
-    - 
-      vertex_indices: [320, 316, 324]
-    - 
-      vertex_indices: [317, 320, 325]
-    - 
-      vertex_indices: [317, 326, 318]
-    - 
-      vertex_indices: [321, 313, 323]
-    - 
-      vertex_indices: [314, 321, 322]
-    - 
-      vertex_indices: [315, 322, 327]
-    - 
-      vertex_indices: [323, 315, 327]
-    - 
-      vertex_indices: [324, 318, 326]
-    - 
-      vertex_indices: [324, 328, 320]
-    - 
-      vertex_indices: [325, 320, 328]
-    - 
-      vertex_indices: [326, 317, 325]
-    - 
-      vertex_indices: [321, 323, 329]
-    - 
-      vertex_indices: [329, 322, 321]
-    - 
-      vertex_indices: [327, 322, 330]
-    - 
-      vertex_indices: [327, 331, 323]
-    - 
-      vertex_indices: [324, 326, 332]
-    - 
-      vertex_indices: [328, 324, 332]
-    - 
-      vertex_indices: [325, 328, 333]
-    - 
-      vertex_indices: [325, 334, 326]
-    - 
-      vertex_indices: [329, 323, 335]
-    - 
-      vertex_indices: [322, 329, 330]
-    - 
-      vertex_indices: [327, 330, 336]
-    - 
-      vertex_indices: [331, 327, 337]
-    - 
-      vertex_indices: [338, 323, 331]
-    - 
-      vertex_indices: [332, 326, 339]
-    - 
-      vertex_indices: [332, 333, 328]
-    - 
-      vertex_indices: [325, 333, 340]
-    - 
-      vertex_indices: [334, 325, 340]
-    - 
-      vertex_indices: [339, 326, 334]
-    - 
-      vertex_indices: [338, 335, 323]
-    - 
-      vertex_indices: [335, 330, 329]
-    - 
-      vertex_indices: [330, 335, 336]
-    - 
-      vertex_indices: [336, 341, 327]
-    - 
-      vertex_indices: [327, 341, 337]
-    - 
-      vertex_indices: [342, 331, 337]
-    - 
-      vertex_indices: [338, 331, 343]
-    - 
-      vertex_indices: [333, 332, 339]
-    - 
-      vertex_indices: [340, 333, 344]
-    - 
-      vertex_indices: [340, 341, 334]
-    - 
-      vertex_indices: [339, 334, 345]
-    - 
-      vertex_indices: [340, 335, 338]
-    - 
-      vertex_indices: [346, 336, 335]
-    - 
-      vertex_indices: [336, 334, 341]
-    - 
-      vertex_indices: [337, 341, 347]
-    - 
-      vertex_indices: [331, 342, 348]
-    - 
-      vertex_indices: [337, 347, 342]
-    - 
-      vertex_indices: [343, 331, 348]
-    - 
-      vertex_indices: [343, 341, 338]
-    - 
-      vertex_indices: [345, 333, 339]
-    - 
-      vertex_indices: [333, 345, 344]
-    - 
-      vertex_indices: [340, 344, 346]
-    - 
-      vertex_indices: [341, 340, 338]
-    - 
-      vertex_indices: [345, 334, 349]
-    - 
-      vertex_indices: [340, 346, 335]
-    - 
-      vertex_indices: [336, 346, 349]
-    - 
-      vertex_indices: [349, 334, 336]
-    - 
-      vertex_indices: [341, 343, 347]
-    - 
-      vertex_indices: [350, 348, 342]
-    - 
-      vertex_indices: [342, 347, 351]
-    - 
-      vertex_indices: [343, 348, 352]
-    - 
-      vertex_indices: [349, 344, 345]
-    - 
-      vertex_indices: [344, 349, 346]
-    - 
-      vertex_indices: [352, 347, 343]
-    - 
-      vertex_indices: [348, 350, 353]
-    - 
-      vertex_indices: [342, 351, 350]
-    - 
-      vertex_indices: [347, 352, 351]
-    - 
-      vertex_indices: [352, 348, 353]
-    - 
-      vertex_indices: [354, 353, 350]
-    - 
-      vertex_indices: [350, 351, 355]
-    - 
-      vertex_indices: [356, 351, 352]
-    - 
-      vertex_indices: [352, 353, 356]
-    - 
-      vertex_indices: [353, 354, 357]
-    - 
-      vertex_indices: [350, 355, 354]
-    - 
-      vertex_indices: [351, 356, 355]
-    - 
-      vertex_indices: [356, 353, 357]
-    - 
-      vertex_indices: [355, 357, 354]
-    - 
-      vertex_indices: [357, 355, 356]
-    - 
-      vertex_indices: [358, 359, 360]
-    - 
-      vertex_indices: [359, 358, 361]
-    - 
-      vertex_indices: [359, 362, 360]
-    - 
-      vertex_indices: [360, 363, 358]
-    - 
-      vertex_indices: [358, 364, 361]
-    - 
-      vertex_indices: [361, 365, 359]
-    - 
-      vertex_indices: [362, 359, 366]
-    - 
-      vertex_indices: [367, 360, 362]
-    - 
-      vertex_indices: [363, 360, 368]
-    - 
-      vertex_indices: [363, 369, 358]
-    - 
-      vertex_indices: [364, 358, 370]
-    - 
-      vertex_indices: [370, 361, 364]
-    - 
-      vertex_indices: [365, 361, 371]
-    - 
-      vertex_indices: [365, 366, 359]
-    - 
-      vertex_indices: [366, 372, 362]
-    - 
-      vertex_indices: [360, 367, 368]
-    - 
-      vertex_indices: [362, 373, 367]
-    - 
-      vertex_indices: [374, 363, 368]
-    - 
-      vertex_indices: [369, 363, 372]
-    - 
-      vertex_indices: [372, 358, 369]
-    - 
-      vertex_indices: [370, 358, 372]
-    - 
-      vertex_indices: [375, 361, 370]
-    - 
-      vertex_indices: [361, 376, 371]
-    - 
-      vertex_indices: [371, 377, 365]
-    - 
-      vertex_indices: [366, 365, 378]
-    - 
-      vertex_indices: [372, 366, 370]
-    - 
-      vertex_indices: [373, 362, 372]
-    - 
-      vertex_indices: [379, 368, 367]
-    - 
-      vertex_indices: [380, 367, 373]
-    - 
-      vertex_indices: [363, 374, 381]
-    - 
-      vertex_indices: [368, 379, 374]
-    - 
-      vertex_indices: [372, 363, 373]
-    - 
-      vertex_indices: [376, 361, 375]
-    - 
-      vertex_indices: [370, 378, 375]
-    - 
-      vertex_indices: [375, 371, 376]
-    - 
-      vertex_indices: [377, 371, 382]
-    - 
-      vertex_indices: [377, 378, 365]
-    - 
-      vertex_indices: [378, 370, 366]
-    - 
-      vertex_indices: [367, 380, 379]
-    - 
-      vertex_indices: [383, 380, 373]
-    - 
-      vertex_indices: [384, 381, 374]
-    - 
-      vertex_indices: [385, 363, 381]
-    - 
-      vertex_indices: [386, 374, 379]
-    - 
-      vertex_indices: [373, 363, 383]
-    - 
-      vertex_indices: [387, 375, 378]
-    - 
-      vertex_indices: [388, 371, 375]
-    - 
-      vertex_indices: [371, 389, 382]
-    - 
-      vertex_indices: [382, 390, 377]
-    - 
-      vertex_indices: [378, 377, 387]
-    - 
-      vertex_indices: [391, 379, 380]
-    - 
-      vertex_indices: [383, 385, 380]
-    - 
-      vertex_indices: [381, 384, 392]
-    - 
-      vertex_indices: [374, 386, 384]
-    - 
-      vertex_indices: [363, 385, 383]
-    - 
-      vertex_indices: [381, 393, 385]
-    - 
-      vertex_indices: [379, 391, 386]
-    - 
-      vertex_indices: [375, 387, 388]
-    - 
-      vertex_indices: [389, 371, 388]
-    - 
-      vertex_indices: [388, 382, 389]
-    - 
-      vertex_indices: [390, 382, 394]
-    - 
-      vertex_indices: [390, 387, 377]
-    - 
-      vertex_indices: [385, 391, 380]
-    - 
-      vertex_indices: [395, 392, 384]
-    - 
-      vertex_indices: [393, 381, 392]
-    - 
-      vertex_indices: [396, 384, 386]
-    - 
-      vertex_indices: [385, 393, 391]
-    - 
-      vertex_indices: [397, 386, 391]
-    - 
-      vertex_indices: [398, 388, 387]
-    - 
-      vertex_indices: [399, 382, 388]
-    - 
-      vertex_indices: [382, 400, 394]
-    - 
-      vertex_indices: [394, 401, 390]
-    - 
-      vertex_indices: [387, 390, 398]
-    - 
-      vertex_indices: [392, 395, 402]
-    - 
-      vertex_indices: [384, 396, 395]
-    - 
-      vertex_indices: [392, 403, 393]
-    - 
-      vertex_indices: [386, 397, 396]
-    - 
-      vertex_indices: [393, 397, 391]
-    - 
-      vertex_indices: [388, 398, 399]
-    - 
-      vertex_indices: [400, 382, 399]
-    - 
-      vertex_indices: [399, 394, 400]
-    - 
-      vertex_indices: [401, 394, 404]
-    - 
-      vertex_indices: [401, 398, 390]
-    - 
-      vertex_indices: [405, 402, 395]
-    - 
-      vertex_indices: [403, 392, 402]
-    - 
-      vertex_indices: [406, 395, 396]
-    - 
-      vertex_indices: [393, 403, 397]
-    - 
-      vertex_indices: [407, 396, 397]
-    - 
-      vertex_indices: [408, 399, 398]
-    - 
-      vertex_indices: [409, 394, 399]
-    - 
-      vertex_indices: [394, 409, 404]
-    - 
-      vertex_indices: [410, 401, 404]
-    - 
-      vertex_indices: [398, 401, 408]
-    - 
-      vertex_indices: [402, 405, 411]
-    - 
-      vertex_indices: [395, 406, 405]
-    - 
-      vertex_indices: [402, 412, 403]
-    - 
-      vertex_indices: [396, 407, 406]
-    - 
-      vertex_indices: [403, 407, 397]
-    - 
-      vertex_indices: [399, 408, 409]
-    - 
-      vertex_indices: [409, 413, 404]
-    - 
-      vertex_indices: [401, 410, 408]
-    - 
-      vertex_indices: [410, 404, 414]
-    - 
-      vertex_indices: [415, 411, 405]
-    - 
-      vertex_indices: [412, 402, 411]
-    - 
-      vertex_indices: [416, 405, 406]
-    - 
-      vertex_indices: [403, 412, 407]
-    - 
-      vertex_indices: [417, 406, 407]
-    - 
-      vertex_indices: [408, 418, 409]
-    - 
-      vertex_indices: [409, 418, 413]
-    - 
-      vertex_indices: [414, 404, 413]
-    - 
-      vertex_indices: [418, 408, 410]
-    - 
-      vertex_indices: [414, 419, 410]
-    - 
-      vertex_indices: [411, 415, 420]
-    - 
-      vertex_indices: [405, 416, 415]
-    - 
-      vertex_indices: [411, 421, 412]
-    - 
-      vertex_indices: [406, 417, 416]
-    - 
-      vertex_indices: [412, 417, 407]
-    - 
-      vertex_indices: [422, 413, 418]
-    - 
-      vertex_indices: [423, 414, 413]
-    - 
-      vertex_indices: [419, 418, 410]
-    - 
-      vertex_indices: [419, 414, 424]
-    - 
-      vertex_indices: [425, 420, 415]
-    - 
-      vertex_indices: [421, 411, 420]
-    - 
-      vertex_indices: [426, 415, 416]
-    - 
-      vertex_indices: [412, 421, 417]
-    - 
-      vertex_indices: [427, 416, 417]
-    - 
-      vertex_indices: [413, 422, 423]
-    - 
-      vertex_indices: [418, 419, 422]
-    - 
-      vertex_indices: [414, 423, 424]
-    - 
-      vertex_indices: [424, 422, 419]
-    - 
-      vertex_indices: [420, 425, 428]
-    - 
-      vertex_indices: [415, 426, 425]
-    - 
-      vertex_indices: [420, 429, 421]
-    - 
-      vertex_indices: [416, 427, 426]
-    - 
-      vertex_indices: [421, 427, 417]
-    - 
-      vertex_indices: [422, 424, 423]
-    - 
-      vertex_indices: [430, 428, 425]
-    - 
-      vertex_indices: [429, 420, 428]
-    - 
-      vertex_indices: [426, 430, 425]
-    - 
-      vertex_indices: [421, 429, 427]
-    - 
-      vertex_indices: [431, 426, 427]
-    - 
-      vertex_indices: [428, 430, 432]
-    - 
-      vertex_indices: [432, 429, 428]
-    - 
-      vertex_indices: [430, 426, 433]
-    - 
-      vertex_indices: [429, 431, 427]
-    - 
-      vertex_indices: [426, 431, 433]
-    - 
-      vertex_indices: [434, 432, 430]
-    - 
-      vertex_indices: [429, 432, 435]
-    - 
-      vertex_indices: [433, 434, 430]
-    - 
-      vertex_indices: [429, 435, 431]
-    - 
-      vertex_indices: [436, 433, 431]
-    - 
-      vertex_indices: [432, 434, 437]
-    - 
-      vertex_indices: [437, 435, 432]
-    - 
-      vertex_indices: [434, 433, 438]
-    - 
-      vertex_indices: [435, 436, 431]
-    - 
-      vertex_indices: [433, 436, 438]
-    - 
-      vertex_indices: [439, 437, 434]
-    - 
-      vertex_indices: [435, 437, 440]
-    - 
-      vertex_indices: [438, 439, 434]
-    - 
-      vertex_indices: [435, 440, 436]
-    - 
-      vertex_indices: [441, 438, 436]
-    - 
-      vertex_indices: [437, 439, 442]
-    - 
-      vertex_indices: [442, 440, 437]
-    - 
-      vertex_indices: [439, 438, 443]
-    - 
-      vertex_indices: [440, 441, 436]
-    - 
-      vertex_indices: [438, 441, 443]
-    - 
-      vertex_indices: [444, 442, 439]
-    - 
-      vertex_indices: [440, 442, 445]
-    - 
-      vertex_indices: [443, 444, 439]
-    - 
-      vertex_indices: [440, 445, 441]
-    - 
-      vertex_indices: [446, 443, 441]
-    - 
-      vertex_indices: [442, 444, 447]
-    - 
-      vertex_indices: [447, 445, 442]
-    - 
-      vertex_indices: [444, 443, 448]
-    - 
-      vertex_indices: [445, 446, 441]
-    - 
-      vertex_indices: [443, 446, 448]
-    - 
-      vertex_indices: [449, 447, 444]
-    - 
-      vertex_indices: [445, 447, 450]
-    - 
-      vertex_indices: [448, 449, 444]
-    - 
-      vertex_indices: [445, 450, 446]
-    - 
-      vertex_indices: [451, 448, 446]
-    - 
-      vertex_indices: [447, 449, 452]
-    - 
-      vertex_indices: [452, 450, 447]
-    - 
-      vertex_indices: [449, 448, 453]
-    - 
-      vertex_indices: [450, 451, 446]
-    - 
-      vertex_indices: [448, 451, 453]
-    - 
-      vertex_indices: [454, 452, 449]
-    - 
-      vertex_indices: [450, 452, 455]
-    - 
-      vertex_indices: [453, 454, 449]
-    - 
-      vertex_indices: [450, 455, 451]
-    - 
-      vertex_indices: [456, 453, 451]
-    - 
-      vertex_indices: [452, 454, 457]
-    - 
-      vertex_indices: [457, 455, 452]
-    - 
-      vertex_indices: [454, 453, 458]
-    - 
-      vertex_indices: [455, 456, 451]
-    - 
-      vertex_indices: [453, 456, 458]
-    - 
-      vertex_indices: [459, 457, 454]
-    - 
-      vertex_indices: [455, 457, 460]
-    - 
-      vertex_indices: [461, 454, 458]
-    - 
-      vertex_indices: [455, 460, 456]
-    - 
-      vertex_indices: [456, 461, 458]
-    - 
-      vertex_indices: [457, 459, 462]
-    - 
-      vertex_indices: [454, 461, 459]
-    - 
-      vertex_indices: [457, 456, 460]
-    - 
-      vertex_indices: [461, 456, 463]
-    - 
-      vertex_indices: [464, 462, 459]
-    - 
-      vertex_indices: [465, 457, 462]
-    - 
-      vertex_indices: [466, 459, 461]
-    - 
-      vertex_indices: [457, 465, 456]
-    - 
-      vertex_indices: [456, 465, 463]
-    - 
-      vertex_indices: [463, 466, 461]
-    - 
-      vertex_indices: [462, 464, 467]
-    - 
-      vertex_indices: [459, 466, 464]
-    - 
-      vertex_indices: [462, 463, 465]
-    - 
-      vertex_indices: [466, 463, 468]
-    - 
-      vertex_indices: [469, 467, 464]
-    - 
-      vertex_indices: [462, 467, 470]
-    - 
-      vertex_indices: [471, 464, 466]
-    - 
-      vertex_indices: [470, 463, 462]
-    - 
-      vertex_indices: [463, 470, 468]
-    - 
-      vertex_indices: [468, 471, 466]
-    - 
-      vertex_indices: [467, 469, 472]
-    - 
-      vertex_indices: [464, 471, 469]
-    - 
-      vertex_indices: [467, 468, 470]
-    - 
-      vertex_indices: [471, 468, 473]
-    - 
-      vertex_indices: [474, 472, 469]
-    - 
-      vertex_indices: [467, 472, 475]
-    - 
-      vertex_indices: [476, 469, 471]
-    - 
-      vertex_indices: [475, 468, 467]
-    - 
-      vertex_indices: [468, 475, 473]
-    - 
-      vertex_indices: [473, 476, 471]
-    - 
-      vertex_indices: [472, 474, 477]
-    - 
-      vertex_indices: [469, 476, 474]
-    - 
-      vertex_indices: [472, 473, 475]
-    - 
-      vertex_indices: [476, 473, 478]
-    - 
-      vertex_indices: [479, 477, 474]
-    - 
-      vertex_indices: [472, 477, 480]
-    - 
-      vertex_indices: [481, 474, 476]
-    - 
-      vertex_indices: [480, 473, 472]
-    - 
-      vertex_indices: [473, 480, 478]
-    - 
-      vertex_indices: [478, 481, 476]
-    - 
-      vertex_indices: [477, 479, 482]
-    - 
-      vertex_indices: [474, 481, 479]
-    - 
-      vertex_indices: [477, 478, 480]
-    - 
-      vertex_indices: [481, 478, 483]
-    - 
-      vertex_indices: [484, 482, 479]
-    - 
-      vertex_indices: [477, 482, 485]
-    - 
-      vertex_indices: [486, 479, 481]
-    - 
-      vertex_indices: [485, 478, 477]
-    - 
-      vertex_indices: [478, 485, 483]
-    - 
-      vertex_indices: [483, 486, 481]
-    - 
-      vertex_indices: [482, 484, 487]
-    - 
-      vertex_indices: [479, 486, 484]
-    - 
-      vertex_indices: [482, 483, 485]
-    - 
-      vertex_indices: [486, 483, 488]
-    - 
-      vertex_indices: [484, 488, 487]
-    - 
-      vertex_indices: [488, 482, 487]
-    - 
-      vertex_indices: [488, 484, 486]
-    - 
-      vertex_indices: [482, 488, 483]
-  vertices: 
-    - 
-      x: -0.0259323194623
-      y: 0.00453250715509
-      z: 0.0184000004083
-    - 
-      x: -0.0259590111673
-      y: 0.00268491753377
-      z: 0.0184000004083
-    - 
-      x: -0.0260288212448
-      y: 0.00358150689863
-      z: 0.0184000004083
-    - 
-      x: -0.0257495772094
-      y: 0.00190057384316
-      z: 0.0184000004083
-    - 
-      x: -0.0260288212448
-      y: 0.00358150689863
-      z: 0.0197970662266
-    - 
-      x: -0.0259323194623
-      y: 0.00453250715509
-      z: 0.0197970662266
-    - 
-      x: -0.0256428103894
-      y: 0.00540343113244
-      z: 0.0184000004083
-    - 
-      x: -0.0259590111673
-      y: 0.00268491753377
-      z: 0.0197970662266
-    - 
-      x: -0.0256428103894
-      y: 0.00540343113244
-      z: 0.0197970662266
-    - 
-      x: -0.0254142116755
-      y: 0.00122026063036
-      z: 0.0184000004083
-    - 
-      x: -0.0257495772094
-      y: 0.00190057384316
-      z: 0.0197970662266
-    - 
-      x: -0.0251602940261
-      y: 0.00619427720085
-      z: 0.0197970662266
-    - 
-      x: -0.0251602940261
-      y: 0.00619427720085
-      z: 0.0184000004083
-    - 
-      x: -0.0254142116755
-      y: 0.00122026063036
-      z: 0.0197970662266
-    - 
-      x: -0.024966603145
-      y: 0.000635767006315
-      z: 0.0184000004083
-    - 
-      x: -0.0244847722352
-      y: 0.00690504675731
-      z: 0.0197970662266
-    - 
-      x: -0.024966603145
-      y: 0.000635767006315
-      z: 0.0197970662266
-    - 
-      x: -0.0244847722352
-      y: 0.00690504675731
-      z: 0.0184000004083
-    - 
-      x: -0.0244135931134
-      y: 0.000140247357194
-      z: 0.0184000004083
-    - 
-      x: -0.0236593615264
-      y: 0.00749193597585
-      z: 0.0184000004083
-    - 
-      x: -0.0244135931134
-      y: 0.000140247357194
-      z: 0.0197970662266
-    - 
-      x: -0.0236593615264
-      y: 0.00749193597585
-      z: 0.0197970662266
-    - 
-      x: -0.0237729772925
-      y: 0.00381147209555
-      z: 0.0184000004083
-    - 
-      x: -0.0237839277834
-      y: -0.000251239776844
-      z: 0.0197970662266
-    - 
-      x: -0.0227271839976
-      y: 0.00791114289314
-      z: 0.0184000004083
-    - 
-      x: -0.0237729772925
-      y: 0.00381147209555
-      z: 0.0197970662266
-    - 
-      x: -0.0235402751714
-      y: 0.00485042016953
-      z: 0.0184000004083
-    - 
-      x: -0.0237839277834
-      y: -0.000251239776844
-      z: 0.0184000004083
-    - 
-      x: -0.0227271839976
-      y: 0.00791114289314
-      z: 0.0197970662266
-    - 
-      x: -0.0235402751714
-      y: 0.00485042016953
-      z: 0.0197970662266
-    - 
-      x: -0.0236360915005
-      y: 0.00287792412564
-      z: 0.0184000004083
-    - 
-      x: -0.0222727283835
-      y: -0.000809726770967
-      z: 0.0197970662266
-    - 
-      x: -0.0236360915005
-      y: 0.00287792412564
-      z: 0.0197970662266
-    - 
-      x: -0.0216882359236
-      y: 0.00816266704351
-      z: 0.0184000004083
-    - 
-      x: -0.0228421669453
-      y: 0.00566761614755
-      z: 0.0184000004083
-    - 
-      x: -0.0222727283835
-      y: -0.000809726770967
-      z: 0.0184000004083
-    - 
-      x: -0.0228421669453
-      y: 0.00566761614755
-      z: 0.0197970662266
-    - 
-      x: -0.0216882359236
-      y: 0.00816266704351
-      z: 0.0197970662266
-    - 
-      x: -0.0217662584037
-      y: 0.00619735755026
-      z: 0.0184000004083
-    - 
-      x: -0.0232254397124
-      y: 0.00215791515075
-      z: 0.0184000004083
-    - 
-      x: -0.0232254397124
-      y: 0.00215791515075
-      z: 0.0197970662266
-    - 
-      x: -0.0207067783922
-      y: -0.0011930008186
-      z: 0.0197970662266
-    - 
-      x: -0.0217662584037
-      y: 0.00619735755026
-      z: 0.0197970662266
-    - 
-      x: -0.0205425173044
-      y: 0.00824650842696
-      z: 0.0184000004083
-    - 
-      x: -0.020400159061
-      y: 0.00637393770739
-      z: 0.0184000004083
-    - 
-      x: -0.0225547086447
-      y: 0.00162680633366
-      z: 0.0184000004083
-    - 
-      x: -0.0207067783922
-      y: -0.0011930008186
-      z: 0.0184000004083
-    - 
-      x: -0.0216375868767
-      y: 0.00125995639246
-      z: 0.0197970662266
-    - 
-      x: -0.0225547086447
-      y: 0.00162680633366
-      z: 0.0197970662266
-    - 
-      x: -0.020400159061
-      y: 0.00637393770739
-      z: 0.0197970662266
-    - 
-      x: -0.0205425173044
-      y: 0.00824650842696
-      z: 0.0197970662266
-    - 
-      x: -0.0216375868767
-      y: 0.00125995639246
-      z: 0.0184000004083
-    - 
-      x: -0.0193269886076
-      y: -0.0015543748159
-      z: 0.0197970662266
-    - 
-      x: -0.0199511796236
-      y: 0.000838354171719
-      z: 0.0197970662266
-    - 
-      x: -0.0192106366158
-      y: 0.00817806646228
-      z: 0.0184000004083
-    - 
-      x: -0.0190942864865
-      y: 0.00624115951359
-      z: 0.0197970662266
-    - 
-      x: -0.0199511796236
-      y: 0.000838354171719
-      z: 0.0184000004083
-    - 
-      x: -0.0193269886076
-      y: -0.0015543748159
-      z: 0.0184000004083
-    - 
-      x: -0.0192106366158
-      y: 0.00817806646228
-      z: 0.0197970662266
-    - 
-      x: -0.0190942864865
-      y: 0.00624115951359
-      z: 0.0184000004083
-    - 
-      x: -0.0184180811048
-      y: -0.00192943587899
-      z: 0.0197970662266
-    - 
-      x: -0.018297623843
-      y: 0.000405801780289
-      z: 0.0197970662266
-    - 
-      x: -0.018297623843
-      y: 0.000405801780289
-      z: 0.0184000004083
-    - 
-      x: -0.0179526749998
-      y: 0.00797274056822
-      z: 0.0184000004083
-    - 
-      x: -0.017848642543
-      y: 0.00584282912314
-      z: 0.0197970662266
-    - 
-      x: -0.0179526749998
-      y: 0.00797274056822
-      z: 0.0197970662266
-    - 
-      x: -0.0184180811048
-      y: -0.00192943587899
-      z: 0.0184000004083
-    - 
-      x: -0.017848642543
-      y: 0.00584282912314
-      z: 0.0184000004083
-    - 
-      x: -0.0177938900888
-      y: -0.00246328185312
-      z: 0.0197970662266
-    - 
-      x: -0.0168384425342
-      y: -0.000240289693465
-      z: 0.0184000004083
-    - 
-      x: -0.0167768429965
-      y: 0.00764148170128
-      z: 0.0184000004083
-    - 
-      x: -0.0167426224798
-      y: 0.00526654627174
-      z: 0.0197970662266
-    - 
-      x: -0.0167768429965
-      y: 0.00764148170128
-      z: 0.0197970662266
-    - 
-      x: -0.0177938900888
-      y: -0.00246328185312
-      z: 0.0184000004083
-    - 
-      x: -0.0168384425342
-      y: -0.000240289693465
-      z: 0.0197970662266
-    - 
-      x: -0.0167426224798
-      y: 0.00526654627174
-      z: 0.0184000004083
-    - 
-      x: -0.0174325164407
-      y: -0.00316686462611
-      z: 0.0184000004083
-    - 
-      x: -0.0174325164407
-      y: -0.00316686462611
-      z: 0.0197970662266
-    - 
-      x: -0.0158337149769
-      y: -0.00114919862244
-      z: 0.0184000004083
-    - 
-      x: -0.0156913548708
-      y: 0.0071952403523
-      z: 0.0184000004083
-    - 
-      x: -0.0158556159586
-      y: 0.00459992233664
-      z: 0.0197970662266
-    - 
-      x: -0.0156913548708
-      y: 0.0071952403523
-      z: 0.0197970662266
-    - 
-      x: -0.0173120610416
-      y: -0.00405113445595
-      z: 0.0197970662266
-    - 
-      x: -0.0158337149769
-      y: -0.00114919862244
-      z: 0.0197970662266
-    - 
-      x: -0.0165345594287
-      y: -0.00717208534479
-      z: 0.0184000004083
-    - 
-      x: -0.0173120610416
-      y: -0.00405113445595
-      z: 0.0184000004083
-    - 
-      x: -0.0158556159586
-      y: 0.00459992233664
-      z: 0.0184000004083
-    - 
-      x: -0.0165345594287
-      y: -0.00717208534479
-      z: 0.0197970662266
-    - 
-      x: -0.0152505878359
-      y: -0.002309972886
-      z: 0.0197970662266
-    - 
-      x: -0.0159117374569
-      y: -0.00645481515676
-      z: 0.0184000004083
-    - 
-      x: -0.0156913548708
-      y: 0.00459992233664
-      z: 0.0197970662266
-    - 
-      x: -0.0156913548708
-      y: 0.00459992233664
-      z: 0.0184000004083
-    - 
-      x: -0.0175420250744
-      y: -0.0051585258916
-      z: 0.0184000004083
-    - 
-      x: -0.017373656854
-      y: -0.00780175067484
-      z: 0.0197970662266
-    - 
-      x: -0.0159117374569
-      y: -0.00645481515676
-      z: 0.0197970662266
-    - 
-      x: -0.0152505878359
-      y: -0.002309972886
-      z: 0.0184000004083
-    - 
-      x: -0.0154449641705
-      y: -0.00559518439695
-      z: 0.0197970662266
-    - 
-      x: -0.017373656854
-      y: -0.00780175067484
-      z: 0.0184000004083
-    - 
-      x: -0.0154449641705
-      y: -0.00559518439695
-      z: 0.0184000004083
-    - 
-      x: -0.0175420250744
-      y: -0.0051585258916
-      z: 0.0197970662266
-    - 
-      x: -0.0150562142953
-      y: -0.00371166248806
-      z: 0.0197970662266
-    - 
-      x: -0.0151534015313
-      y: -0.00465889973566
-      z: 0.0197970662266
-    - 
-      x: -0.0182319190353
-      y: -0.00602773716673
-      z: 0.0184000004083
-    - 
-      x: -0.0182319190353
-      y: -0.00602773716673
-      z: 0.0197970662266
-    - 
-      x: -0.0183140505105
-      y: -0.00826715491712
-      z: 0.0184000004083
-    - 
-      x: -0.0150562142953
-      y: -0.00371166248806
-      z: 0.0184000004083
-    - 
-      x: -0.0151534015313
-      y: -0.00465889973566
-      z: 0.0184000004083
-    - 
-      x: -0.0183140505105
-      y: -0.00826715491712
-      z: 0.0197970662266
-    - 
-      x: -0.0187466014177
-      y: -0.00635591521859
-      z: 0.0197970662266
-    - 
-      x: -0.0187466014177
-      y: -0.00635591521859
-      z: 0.0184000004083
-    - 
-      x: -0.0194296520203
-      y: -0.00855461135507
-      z: 0.0184000004083
-    - 
-      x: -0.019370790571
-      y: -0.00659033050761
-      z: 0.0184000004083
-    - 
-      x: -0.019370790571
-      y: -0.00659033050761
-      z: 0.0197970662266
-    - 
-      x: -0.0194296520203
-      y: -0.00855461135507
-      z: 0.0197970662266
-    - 
-      x: -0.0207943823189
-      y: -0.00865043327212
-      z: 0.0184000004083
-    - 
-      x: -0.0209476947784
-      y: -0.00677786115557
-      z: 0.0197970662266
-    - 
-      x: -0.0207943823189
-      y: -0.00865043327212
-      z: 0.0197970662266
-    - 
-      x: -0.0209476947784
-      y: -0.00677786115557
-      z: 0.0184000004083
-    - 
-      x: -0.0224356204271
-      y: -0.00855872035027
-      z: 0.0184000004083
-    - 
-      x: -0.0222316645086
-      y: -0.00663960864767
-      z: 0.0184000004083
-    - 
-      x: -0.0222316645086
-      y: -0.00663960864767
-      z: 0.0197970662266
-    - 
-      x: -0.0224356204271
-      y: -0.00855872035027
-      z: 0.0197970662266
-    - 
-      x: -0.0238113030791
-      y: -0.00828358158469
-      z: 0.0184000004083
-    - 
-      x: -0.0235649142414
-      y: -0.00622485019267
-      z: 0.0184000004083
-    - 
-      x: -0.0235649142414
-      y: -0.00622485019267
-      z: 0.0197970662266
-    - 
-      x: -0.0238113030791
-      y: -0.00828358158469
-      z: 0.0197970662266
-    - 
-      x: -0.0261492803693
-      y: -0.00738015025854
-      z: 0.0184000004083
-    - 
-      x: -0.0248516201973
-      y: -0.0055582257919
-      z: 0.0184000004083
-    - 
-      x: -0.0248516201973
-      y: -0.0055582257919
-      z: 0.0197970662266
-    - 
-      x: -0.0261492803693
-      y: -0.00738015025854
-      z: 0.0197970662266
-    - 
-      x: -0.0259959697723
-      y: -0.00466437358409
-      z: 0.0184000004083
-    - 
-      x: -0.0259959697723
-      y: -0.00466437358409
-      z: 0.0197970662266
-    - 
-      x: -0.0261492803693
-      y: -0.00466437358409
-      z: 0.0197970662266
-    - 
-      x: -0.0261492803693
-      y: -0.00466437358409
-      z: 0.0184000004083
-    - 
-      x: -0.0118148047477
-      y: 0.00607826840132
-      z: 0.0184000004083
-    - 
-      x: -0.0114329000935
-      y: 0.00129828462377
-      z: 0.0184000004083
-    - 
-      x: -0.011519134976
-      y: -0.000207437522477
-      z: 0.0184000004083
-    - 
-      x: -0.0107758566737
-      y: 0.00703234877437
-      z: 0.0184000004083
-    - 
-      x: -0.011519134976
-      y: -0.000207437522477
-      z: 0.0197970662266
-    - 
-      x: -0.0118257561699
-      y: -0.00647124135867
-      z: 0.0184000004083
-    - 
-      x: -0.0118148047477
-      y: 0.00607826840132
-      z: 0.0197970662266
-    - 
-      x: -0.0111741870642
-      y: 0.00263974582776
-      z: 0.0184000004083
-    - 
-      x: -0.0114329000935
-      y: 0.00129828462377
-      z: 0.0197970662266
-    - 
-      x: -0.0114349527285
-      y: -0.00171760760713
-      z: 0.0197970662266
-    - 
-      x: -0.0126484269276
-      y: 0.00485178967938
-      z: 0.0184000004083
-    - 
-      x: -0.0114349527285
-      y: -0.00171760760713
-      z: 0.0184000004083
-    - 
-      x: -0.0107758566737
-      y: 0.00703234877437
-      z: 0.0197970662266
-    - 
-      x: -0.0107539566234
-      y: 0.00379230896942
-      z: 0.0184000004083
-    - 
-      x: -0.0118257561699
-      y: -0.00647124135867
-      z: 0.0197970662266
-    - 
-      x: -0.0126580093056
-      y: -0.00526118883863
-      z: 0.0184000004083
-    - 
-      x: -0.0107799647376
-      y: -0.00744037656114
-      z: 0.0184000004083
-    - 
-      x: -0.00954253412783
-      y: 0.00772634940222
-      z: 0.0184000004083
-    - 
-      x: -0.0126484269276
-      y: 0.00485178967938
-      z: 0.0197970662266
-    - 
-      x: -0.0111741870642
-      y: 0.00263974582776
-      z: 0.0197970662266
-    - 
-      x: -0.011182400398
-      y: -0.00303956237622
-      z: 0.0197970662266
-    - 
-      x: -0.0107799647376
-      y: -0.00744037656114
-      z: 0.0197970662266
-    - 
-      x: -0.0132657745853
-      y: 0.00340629601851
-      z: 0.0184000004083
-    - 
-      x: -0.0126580093056
-      y: -0.00526118883863
-      z: 0.0197970662266
-    - 
-      x: -0.011182400398
-      y: -0.00303956237622
-      z: 0.0184000004083
-    - 
-      x: -0.00954253412783
-      y: 0.00772634940222
-      z: 0.0197970662266
-    - 
-      x: -0.0101831480861
-      y: 0.00473133102059
-      z: 0.0184000004083
-    - 
-      x: -0.0107539566234
-      y: 0.00379230896942
-      z: 0.0197970662266
-    - 
-      x: -0.0132712488994
-      y: -0.00379926897585
-      z: 0.0184000004083
-    - 
-      x: -0.0132712488994
-      y: -0.00379926897585
-      z: 0.0197970662266
-    - 
-      x: -0.0107614826411
-      y: -0.0041733039543
-      z: 0.0184000004083
-    - 
-      x: -0.00954800844193
-      y: -0.00813574995846
-      z: 0.0197970662266
-    - 
-      x: -0.00813399907202
-      y: 0.00814932119101
-      z: 0.0184000004083
-    - 
-      x: -0.0132657745853
-      y: 0.00340629601851
-      z: 0.0197970662266
-    - 
-      x: -0.00945356022567
-      y: 0.00548282265663
-      z: 0.0184000004083
-    - 
-      x: -0.0107614826411
-      y: -0.0041733039543
-      z: 0.0197970662266
-    - 
-      x: -0.0136476792395
-      y: 0.00172536284663
-      z: 0.0184000004083
-    - 
-      x: -0.00954800844193
-      y: -0.00813574995846
-      z: 0.0184000004083
-    - 
-      x: -0.0101831480861
-      y: 0.00473133102059
-      z: 0.0197970662266
-    - 
-      x: -0.00813399907202
-      y: 0.00814932119101
-      z: 0.0197970662266
-    - 
-      x: -0.0136490482837
-      y: -0.0021073857788
-      z: 0.0184000004083
-    - 
-      x: -0.0136490482837
-      y: -0.0021073857788
-      z: 0.0197970662266
-    - 
-      x: -0.0136476792395
-      y: 0.00172536284663
-      z: 0.0197970662266
-    - 
-      x: -0.0101721994579
-      y: -0.0051188301295
-      z: 0.0197970662266
-    - 
-      x: -0.0101721994579
-      y: -0.0051188301295
-      z: 0.0184000004083
-    - 
-      x: -0.00814084243029
-      y: -0.00855461135507
-      z: 0.0197970662266
-    - 
-      x: -0.00945356022567
-      y: 0.00548282265663
-      z: 0.0197970662266
-    - 
-      x: -0.00656941626221
-      y: 0.00829031039029
-      z: 0.0184000004083
-    - 
-      x: -0.00862267334014
-      y: 0.00600708788261
-      z: 0.0184000004083
-    - 
-      x: -0.0137749807909
-      y: -0.000207437522477
-      z: 0.0184000004083
-    - 
-      x: -0.009441238828
-      y: -0.00586381927133
-      z: 0.0184000004083
-    - 
-      x: -0.00814084243029
-      y: -0.00855461135507
-      z: 0.0184000004083
-    - 
-      x: -0.009441238828
-      y: -0.00586381927133
-      z: 0.0197970662266
-    - 
-      x: -0.00862267334014
-      y: 0.00600708788261
-      z: 0.0197970662266
-    - 
-      x: -0.00656941626221
-      y: 0.00829031039029
-      z: 0.0197970662266
-    - 
-      x: -0.00766585581005
-      y: 0.00631507718936
-      z: 0.0184000004083
-    - 
-      x: -0.0137749807909
-      y: -0.000207437522477
-      z: 0.0197970662266
-    - 
-      x: -0.00656941626221
-      y: -0.00869423337281
-      z: 0.0197970662266
-    - 
-      x: -0.00859529897571
-      y: -0.00639595463872
-      z: 0.0197970662266
-    - 
-      x: -0.00766585581005
-      y: 0.00631507718936
-      z: 0.0197970662266
-    - 
-      x: -0.0049870419316
-      y: 0.00814521405846
-      z: 0.0184000004083
-    - 
-      x: -0.00655846809968
-      y: 0.00641774013638
-      z: 0.0184000004083
-    - 
-      x: -0.00859529897571
-      y: -0.00639595463872
-      z: 0.0184000004083
-    - 
-      x: -0.00656941626221
-      y: -0.00869423337281
-      z: 0.0184000004083
-    - 
-      x: -0.00763437291607
-      y: -0.00671523716301
-      z: 0.0197970662266
-    - 
-      x: -0.00655846809968
-      y: 0.00641774013638
-      z: 0.0197970662266
-    - 
-      x: -0.0049870419316
-      y: 0.00814521405846
-      z: 0.0197970662266
-    - 
-      x: -0.00763437291607
-      y: -0.00671523716301
-      z: 0.0184000004083
-    - 
-      x: -0.00503768585622
-      y: -0.00855872035027
-      z: 0.0197970662266
-    - 
-      x: -0.00655846809968
-      y: -0.0068216631189
-      z: 0.0197970662266
-    - 
-      x: -0.00356892403215
-      y: 0.00770992320031
-      z: 0.0184000004083
-    - 
-      x: -0.00547571573406
-      y: 0.00631234003231
-      z: 0.0184000004083
-    - 
-      x: -0.00547571573406
-      y: 0.00631234003231
-      z: 0.0197970662266
-    - 
-      x: -0.00655846809968
-      y: -0.0068216631189
-      z: 0.0184000004083
-    - 
-      x: -0.00503768585622
-      y: -0.00855872035027
-      z: 0.0184000004083
-    - 
-      x: -0.00356892403215
-      y: 0.00770992320031
-      z: 0.0197970662266
-    - 
-      x: -0.00450521102175
-      y: 0.00599613785744
-      z: 0.0184000004083
-    - 
-      x: -0.00364010245539
-      y: -0.00815217662603
-      z: 0.0197970662266
-    - 
-      x: -0.00548290275037
-      y: -0.00671523716301
-      z: 0.0197970662266
-    - 
-      x: -0.00548290275037
-      y: -0.00671523716301
-      z: 0.0184000004083
-    - 
-      x: -0.00450521102175
-      y: 0.00599613785744
-      z: 0.0197970662266
-    - 
-      x: -0.00233696750365
-      y: 0.00701181637123
-      z: 0.0184000004083
-    - 
-      x: -0.00365789816715
-      y: 0.00546913547441
-      z: 0.0184000004083
-    - 
-      x: -0.00364010245539
-      y: -0.00815217662603
-      z: 0.0184000004083
-    - 
-      x: -0.00452300300822
-      y: -0.00639595463872
-      z: 0.0197970662266
-    - 
-      x: -0.00365789816715
-      y: 0.00546913547441
-      z: 0.0197970662266
-    - 
-      x: -0.00233696750365
-      y: 0.00701181637123
-      z: 0.0197970662266
-    - 
-      x: -0.00294473278336
-      y: 0.00473133102059
-      z: 0.0184000004083
-    - 
-      x: -0.00452300300822
-      y: -0.00639595463872
-      z: 0.0184000004083
-    - 
-      x: -0.00239308946766
-      y: -0.00746091129258
-      z: 0.0197970662266
-    - 
-      x: -0.00367877213284
-      y: -0.00586381927133
-      z: 0.0197970662266
-    - 
-      x: -0.00294473278336
-      y: 0.00473133102059
-      z: 0.0197970662266
-    - 
-      x: -0.00131307984702
-      y: 0.00607826840132
-      z: 0.0184000004083
-    - 
-      x: -0.00238077179529
-      y: 0.00380325899459
-      z: 0.0184000004083
-    - 
-      x: -0.00367877213284
-      y: -0.00586381927133
-      z: 0.0184000004083
-    - 
-      x: -0.00239308946766
-      y: -0.00746091129258
-      z: 0.0184000004083
-    - 
-      x: -0.00295020686463
-      y: -0.0051188301295
-      z: 0.0197970662266
-    - 
-      x: -0.00238077179529
-      y: 0.00380325899459
-      z: 0.0197970662266
-    - 
-      x: -0.00131307984702
-      y: 0.00607826840132
-      z: 0.0197970662266
-    - 
-      x: -0.00195917137899
-      y: 0.00266164797358
-      z: 0.0184000004083
-    - 
-      x: -0.00295020686463
-      y: -0.0051188301295
-      z: 0.0184000004083
-    - 
-      x: -0.00131307984702
-      y: -0.00647124135867
-      z: 0.0197970662266
-    - 
-      x: -0.00236331950873
-      y: -0.0041733039543
-      z: 0.0197970662266
-    - 
-      x: -0.00195917137899
-      y: 0.00266164797358
-      z: 0.0197970662266
-    - 
-      x: -0.000486301432829
-      y: 0.00487642874941
-      z: 0.0197970662266
-    - 
-      x: -0.00169635401107
-      y: 0.00132018665317
-      z: 0.0184000004083
-    - 
-      x: -0.00236331950873
-      y: -0.0041733039543
-      z: 0.0184000004083
-    - 
-      x: -0.00131307984702
-      y: -0.00647124135867
-      z: 0.0184000004083
-    - 
-      x: -0.00169635401107
-      y: 0.00132018665317
-      z: 0.0197970662266
-    - 
-      x: -0.000486301432829
-      y: 0.00487642874941
-      z: 0.0184000004083
-    - 
-      x: -0.000472610496217
-      y: -0.00525844981894
-      z: 0.0197970662266
-    - 
-      x: -0.00160874566063
-      y: -0.000207437522477
-      z: 0.0184000004083
-    - 
-      x: -0.000472610496217
-      y: -0.00525844981894
-      z: 0.0184000004083
-    - 
-      x: -0.00194411096163
-      y: -0.00303956237622
-      z: 0.0197970662266
-    - 
-      x: -0.00160874566063
-      y: -0.000207437522477
-      z: 0.0197970662266
-    - 
-      x: 0.000132415778353
-      y: 0.00341724604368
-      z: 0.0197970662266
-    - 
-      x: -0.00194411096163
-      y: -0.00303956237622
-      z: 0.0184000004083
-    - 
-      x: -0.00169258890674
-      y: -0.00171760760713
-      z: 0.0197970662266
-    - 
-      x: 0.000132415778353
-      y: 0.00341724604368
-      z: 0.0184000004083
-    - 
-      x: 0.000143367768032
-      y: -0.00378831871785
-      z: 0.0197970662266
-    - 
-      x: -0.00169258890674
-      y: -0.00171760760713
-      z: 0.0184000004083
-    - 
-      x: 0.000143367768032
-      y: -0.00378831871785
-      z: 0.0184000004083
-    - 
-      x: 0.000518428802025
-      y: 0.00171714986209
-      z: 0.0197970662266
-    - 
-      x: 0.000518428802025
-      y: 0.00171714986209
-      z: 0.0184000004083
-    - 
-      x: 0.000521163980011
-      y: -0.00209369673394
-      z: 0.0184000004083
-    - 
-      x: 0.000521163980011
-      y: -0.00209369673394
-      z: 0.0197970662266
-    - 
-      x: 0.000647098582704
-      y: -0.000207437522477
-      z: 0.0197970662266
-    - 
-      x: 0.000647098582704
-      y: -0.000207437522477
-      z: 0.0184000004083
-    - 
-      x: 0.00675759138539
-      y: 0.00795083865523
-      z: 0.0184000004083
-    - 
-      x: 0.00345047772862
-      y: -0.00835476350039
-      z: 0.0184000004083
-    - 
-      x: 0.00126033788547
-      y: -0.00835476350039
-      z: 0.0184000004083
-    - 
-      x: 0.00492882542312
-      y: -0.00379926897585
-      z: 0.0184000004083
-    - 
-      x: 0.00345047772862
-      y: -0.00835476350039
-      z: 0.0197970662266
-    - 
-      x: 0.00675759138539
-      y: 0.00795083865523
-      z: 0.0197970662266
-    - 
-      x: 0.00553111312911
-      y: -0.00194859900512
-      z: 0.0184000004083
-    - 
-      x: 0.00126033788547
-      y: -0.00835476350039
-      z: 0.0197970662266
-    - 
-      x: 0.00942956563085
-      y: 0.00795083865523
-      z: 0.0184000004083
-    - 
-      x: 0.00803882628679
-      y: 0.00573879666626
-      z: 0.0184000004083
-    - 
-      x: 0.0111597748473
-      y: -0.00379926897585
-      z: 0.0184000004083
-    - 
-      x: 0.00492882542312
-      y: -0.00379926897585
-      z: 0.0197970662266
-    - 
-      x: 0.00942956563085
-      y: 0.00795083865523
-      z: 0.0197970662266
-    - 
-      x: 0.00553111312911
-      y: -0.00194859900512
-      z: 0.0197970662266
-    - 
-      x: 0.010557487607
-      y: -0.00194859900512
-      z: 0.0184000004083
-    - 
-      x: 0.0111597748473
-      y: -0.00379926897585
-      z: 0.0197970662266
-    - 
-      x: 0.00803882628679
-      y: 0.00573879666626
-      z: 0.0197970662266
-    - 
-      x: 0.0149268191308
-      y: -0.00835476350039
-      z: 0.0197970662266
-    - 
-      x: 0.0149268191308
-      y: -0.00835476350039
-      z: 0.0184000004083
-    - 
-      x: 0.0126381227747
-      y: -0.00835476350039
-      z: 0.0184000004083
-    - 
-      x: 0.010557487607
-      y: -0.00194859900512
-      z: 0.0197970662266
-    - 
-      x: 0.0126381227747
-      y: -0.00835476350039
-      z: 0.0197970662266
-    - 
-      x: 0.0164708681405
-      y: 0.00795083865523
-      z: 0.0184000004083
-    - 
-      x: 0.0186391081661
-      y: 0.0060892184265
-      z: 0.0184000004083
-    - 
-      x: 0.0164708681405
-      y: -0.00835476350039
-      z: 0.0184000004083
-    - 
-      x: 0.0205664299428
-      y: 0.00795083865523
-      z: 0.0184000004083
-    - 
-      x: 0.0186391081661
-      y: -0.00835476350039
-      z: 0.0184000004083
-    - 
-      x: 0.0164708681405
-      y: 0.00795083865523
-      z: 0.0197970662266
-    - 
-      x: 0.0204350221902
-      y: 0.0060892184265
-      z: 0.0184000004083
-    - 
-      x: 0.0186391081661
-      y: -0.000426450744271
-      z: 0.0184000004083
-    - 
-      x: 0.0186391081661
-      y: -0.00835476350039
-      z: 0.0197970662266
-    - 
-      x: 0.0164708681405
-      y: -0.00835476350039
-      z: 0.0197970662266
-    - 
-      x: 0.0205664299428
-      y: 0.00795083865523
-      z: 0.0197970662266
-    - 
-      x: 0.0221378561109
-      y: 0.00594685971737
-      z: 0.0184000004083
-    - 
-      x: 0.0204350221902
-      y: 0.0060892184265
-      z: 0.0197970662266
-    - 
-      x: 0.0186391081661
-      y: -0.000426450744271
-      z: 0.0197970662266
-    - 
-      x: 0.0186391081661
-      y: -0.00227712071501
-      z: 0.0184000004083
-    - 
-      x: 0.0186391081661
-      y: 0.0060892184265
-      z: 0.0197970662266
-    - 
-      x: 0.0219051595777
-      y: 0.00789061002433
-      z: 0.0184000004083
-    - 
-      x: 0.0221378561109
-      y: 0.00594685971737
-      z: 0.0197970662266
-    - 
-      x: 0.0201174560934
-      y: -0.000426450744271
-      z: 0.0184000004083
-    - 
-      x: 0.0186391081661
-      y: -0.00227712071501
-      z: 0.0197970662266
-    - 
-      x: 0.0219051595777
-      y: 0.00789061002433
-      z: 0.0197970662266
-    - 
-      x: 0.0230303425342
-      y: 0.00770992320031
-      z: 0.0184000004083
-    - 
-      x: 0.0233369618654
-      y: 0.00546502880752
-      z: 0.0197970662266
-    - 
-      x: 0.0201174560934
-      y: -0.000426450744271
-      z: 0.0197970662266
-    - 
-      x: 0.0204788297415
-      y: -0.00227712071501
-      z: 0.0184000004083
-    - 
-      x: 0.0204788297415
-      y: -0.00227712071501
-      z: 0.0197970662266
-    - 
-      x: 0.0233369618654
-      y: 0.00546502880752
-      z: 0.0184000004083
-    - 
-      x: 0.0230303425342
-      y: 0.00770992320031
-      z: 0.0197970662266
-    - 
-      x: 0.0213056039065
-      y: -0.000373067887267
-      z: 0.0184000004083
-    - 
-      x: 0.0239885263145
-      y: 0.00739509053528
-      z: 0.0184000004083
-    - 
-      x: 0.023853013292
-      y: 0.00501331174746
-      z: 0.0197970662266
-    - 
-      x: 0.0239885263145
-      y: 0.00739509053528
-      z: 0.0197970662266
-    - 
-      x: 0.0213056039065
-      y: -0.000373067887267
-      z: 0.0197970662266
-    - 
-      x: 0.0220694132149
-      y: -0.00217035110109
-      z: 0.0184000004083
-    - 
-      x: 0.0220694132149
-      y: -0.00217035110109
-      z: 0.0197970662266
-    - 
-      x: 0.023853013292
-      y: 0.00501331174746
-      z: 0.0184000004083
-    - 
-      x: 0.0222418904305
-      y: -0.000212911618291
-      z: 0.0184000004083
-    - 
-      x: 0.0242184922099
-      y: 0.00444661360234
-      z: 0.0184000004083
-    - 
-      x: 0.0242184922099
-      y: 0.00444661360234
-      z: 0.0197970662266
-    - 
-      x: 0.0248262565583
-      y: 0.00693242298439
-      z: 0.0184000004083
-    - 
-      x: 0.0222418904305
-      y: -0.000212911618291
-      z: 0.0197970662266
-    - 
-      x: 0.0233588647097
-      y: -0.00185004237574
-      z: 0.0184000004083
-    - 
-      x: 0.0233588647097
-      y: -0.00185004237574
-      z: 0.0197970662266
-    - 
-      x: 0.0248262565583
-      y: 0.00693242298439
-      z: 0.0197970662266
-    - 
-      x: 0.0229838043451
-      y: 8.41255241539e-05
-      z: 0.0184000004083
-    - 
-      x: 0.024436134845
-      y: 0.00376766989939
-      z: 0.0184000004083
-    - 
-      x: 0.024436134845
-      y: 0.00376766989939
-      z: 0.0197970662266
-    - 
-      x: 0.025636613369
-      y: 0.00622473377734
-      z: 0.0184000004083
-    - 
-      x: 0.0229838043451
-      y: 8.41255241539e-05
-      z: 0.0197970662266
-    - 
-      x: 0.0235888306051
-      y: 0.00054816249758
-      z: 0.0184000004083
-    - 
-      x: 0.0244238208979
-      y: -0.00132167059928
-      z: 0.0197970662266
-    - 
-      x: 0.0245086830109
-      y: 0.00297921756282
-      z: 0.0184000004083
-    - 
-      x: 0.0245086830109
-      y: 0.00297921756282
-      z: 0.0197970662266
-    - 
-      x: 0.025636613369
-      y: 0.00622473377734
-      z: 0.0197970662266
-    - 
-      x: 0.0253409426659
-      y: -0.000590711599216
-      z: 0.0184000004083
-    - 
-      x: 0.0235888306051
-      y: 0.00054816249758
-      z: 0.0197970662266
-    - 
-      x: 0.0244238208979
-      y: -0.00132167059928
-      z: 0.0184000004083
-    - 
-      x: 0.0253409426659
-      y: -0.000590711599216
-      z: 0.0197970662266
-    - 
-      x: 0.0262498483062
-      y: 0.00535004632547
-      z: 0.0197970662266
-    - 
-      x: 0.0259363874793
-      y: 0.0001470928255
-      z: 0.0184000004083
-    - 
-      x: 0.0240049529821
-      y: 0.00106284522917
-      z: 0.0184000004083
-    - 
-      x: 0.0240049529821
-      y: 0.00106284522917
-      z: 0.0197970662266
-    - 
-      x: 0.0242896731943
-      y: 0.00162133038975
-      z: 0.0184000004083
-    - 
-      x: 0.0259363874793
-      y: 0.0001470928255
-      z: 0.0197970662266
-    - 
-      x: 0.0262498483062
-      y: 0.00535004632547
-      z: 0.0184000004083
-    - 
-      x: 0.0242896731943
-      y: 0.00162133038975
-      z: 0.0197970662266
-    - 
-      x: 0.026635857299
-      y: 0.00429193349555
-      z: 0.0197970662266
-    - 
-      x: 0.0263867359608
-      y: 0.00102451711427
-      z: 0.0197970662266
-    - 
-      x: 0.0263867359608
-      y: 0.00102451711427
-      z: 0.0184000004083
-    - 
-      x: 0.026635857299
-      y: 0.00429193349555
-      z: 0.0184000004083
-    - 
-      x: 0.0267645344138
-      y: 0.00303397187963
-      z: 0.0197970662266
-    - 
-      x: 0.0266700834036
-      y: 0.00200049974956
-      z: 0.0197970662266
-    - 
-      x: 0.0266700834036
-      y: 0.00200049974956
-      z: 0.0184000004083
-    - 
-      x: 0.0267645344138
-      y: 0.00303397187963
-      z: 0.0184000004083
-    - 
-      x: 0.041087616235
-      y: -0.0210876129568
-      z: 0.0179335344583
-    - 
-      x: -0.0400000028312
-      y: -0.0200000014156
-      z: 0.0186602547765
-    - 
-      x: -0.041087616235
-      y: -0.0210876129568
-      z: 0.0179335344583
-    - 
-      x: 0.0400000028312
-      y: -0.0200000014156
-      z: 0.0186602547765
-    - 
-      x: -0.041087616235
-      y: 0.0210876148194
-      z: 0.0179335344583
-    - 
-      x: 0.0420710705221
-      y: -0.0220710691065
-      z: 0.0170710682869
-    - 
-      x: 0.0400000028312
-      y: -0.015000000596
-      z: 0.0186602547765
-    - 
-      x: -0.0388268381357
-      y: -0.0188268367201
-      z: 0.0192387960851
-    - 
-      x: -0.0400000028312
-      y: 0.0200000014156
-      z: 0.0186602547765
-    - 
-      x: -0.0420710705221
-      y: 0.0220710691065
-      z: 0.0170710682869
-    - 
-      x: -0.0420710705221
-      y: -0.0220710691065
-      z: 0.0170710682869
-    - 
-      x: 0.041087616235
-      y: -0.015000000596
-      z: 0.0179335344583
-    - 
-      x: 0.0400000028312
-      y: 0.0200000014156
-      z: 0.0186602547765
-    - 
-      x: 0.0388268381357
-      y: -0.0188268367201
-      z: 0.0192387960851
-    - 
-      x: 0.041087616235
-      y: 0.0210876148194
-      z: 0.0179335344583
-    - 
-      x: 0.0420710705221
-      y: 0.0220710691065
-      z: 0.0170710682869
-    - 
-      x: -0.0429335348308
-      y: -0.0229335334152
-      z: 0.0160876139998
-    - 
-      x: 0.0388268381357
-      y: 0.0188268348575
-      z: 0.0192387960851
-    - 
-      x: 0.0388268381357
-      y: -0.015000000596
-      z: 0.0192387960851
-    - 
-      x: -0.0375881902874
-      y: -0.0175881888717
-      z: 0.0196592584252
-    - 
-      x: -0.0388268381357
-      y: 0.0188268348575
-      z: 0.0192387960851
-    - 
-      x: -0.0429335348308
-      y: 0.0229335334152
-      z: 0.0160876139998
-    - 
-      x: 0.0429335348308
-      y: 0.0229335334152
-      z: 0.0160876139998
-    - 
-      x: 0.0429335348308
-      y: -0.0229335334152
-      z: 0.0160876139998
-    - 
-      x: 0.0375881902874
-      y: -0.0175881888717
-      z: 0.0196592584252
-    - 
-      x: 0.0420710705221
-      y: -0.015000000596
-      z: 0.0170710682869
-    - 
-      x: -0.0436602570117
-      y: -0.0236602574587
-      z: 0.015000000596
-    - 
-      x: 0.0429335348308
-      y: -0.015000000596
-      z: 0.0160876139998
-    - 
-      x: -0.0436602570117
-      y: 0.0236602537334
-      z: 0.015000000596
-    - 
-      x: -0.0375881902874
-      y: 0.0175881907344
-      z: 0.0196592584252
-    - 
-      x: 0.0375881902874
-      y: 0.0175881907344
-      z: 0.0196592584252
-    - 
-      x: 0.0375881902874
-      y: -0.015000000596
-      z: 0.0196592584252
-    - 
-      x: -0.0363052599132
-      y: -0.0163052640855
-      z: 0.0199144501239
-    - 
-      x: 0.0436602570117
-      y: 0.0236602537334
-      z: 0.015000000596
-    - 
-      x: 0.0436602570117
-      y: -0.0236602574587
-      z: 0.015000000596
-    - 
-      x: 0.0436602570117
-      y: -0.015000000596
-      z: 0.015000000596
-    - 
-      x: 0.0363052599132
-      y: -0.0163052640855
-      z: 0.0199144501239
-    - 
-      x: -0.0442387983203
-      y: -0.0242387969047
-      z: 0.0138268340379
-    - 
-      x: -0.0442387983203
-      y: 0.024238795042
-      z: 0.0138268340379
-    - 
-      x: 0.044238794595
-      y: 0.024238795042
-      z: 0.0138268340379
-    - 
-      x: -0.0363052599132
-      y: 0.0163052622229
-      z: 0.0199144501239
-    - 
-      x: 0.0363052599132
-      y: 0.0163052622229
-      z: 0.0199144501239
-    - 
-      x: 0.0363052599132
-      y: -0.015000000596
-      z: 0.0199144501239
-    - 
-      x: -0.035000000149
-      y: -0.015000000596
-      z: 0.0200000014156
-    - 
-      x: 0.044238794595
-      y: -0.0242387969047
-      z: 0.0138268340379
-    - 
-      x: 0.044238794595
-      y: -0.015000000596
-      z: 0.0138268340379
-    - 
-      x: 0.035000000149
-      y: -0.015000000596
-      z: 0.0200000014156
-    - 
-      x: -0.0446592606604
-      y: -0.0246592611074
-      z: 0.0125881908461
-    - 
-      x: -0.0446592606604
-      y: 0.0246592592448
-      z: 0.0125881908461
-    - 
-      x: 0.0446592569351
-      y: 0.0246592592448
-      z: 0.0125881908461
-    - 
-      x: -0.035000000149
-      y: 0.015000000596
-      z: 0.0200000014156
-    - 
-      x: 0.035000000149
-      y: 0.015000000596
-      z: 0.0200000014156
-    - 
-      x: -0.0333571694791
-      y: -0.0133571671322
-      z: 0.0200000014156
-    - 
-      x: 0.0446592569351
-      y: -0.0246592611074
-      z: 0.0125881908461
-    - 
-      x: 0.0446592569351
-      y: -0.015000000596
-      z: 0.0125881908461
-    - 
-      x: 0.0333571732044
-      y: 0.0133571680635
-      z: 0.0200000014156
-    - 
-      x: 0.0333571732044
-      y: -0.0133571671322
-      z: 0.0200000014156
-    - 
-      x: -0.0449144504964
-      y: -0.0249144490808
-      z: 0.0113052623346
-    - 
-      x: -0.0449144504964
-      y: 0.0249144509435
-      z: 0.0113052623346
-    - 
-      x: 0.0449144542217
-      y: 0.0249144509435
-      z: 0.0113052623346
-    - 
-      x: -0.0333571694791
-      y: 0.0133571680635
-      z: 0.0200000014156
-    - 
-      x: -0.0290207378566
-      y: -0.0112200211734
-      z: 0.0184000004083
-    - 
-      x: 0.0449144542217
-      y: -0.0249144490808
-      z: 0.0113052623346
-    - 
-      x: 0.0449144542217
-      y: -0.015000000596
-      z: 0.0113052623346
-    - 
-      x: -0.0290207378566
-      y: 0.0112200221047
-      z: 0.0184000004083
-    - 
-      x: 0.0290207378566
-      y: 0.0112200221047
-      z: 0.0184000004083
-    - 
-      x: 0.0290207378566
-      y: -0.0112200211734
-      z: 0.0184000004083
-    - 
-      x: -0.0450000017881
-      y: -0.0250000003725
-      z: 0.0100000007078
-    - 
-      x: -0.0450000017881
-      y: 0.0250000003725
-      z: 0.0100000007078
-    - 
-      x: 0.0450000017881
-      y: 0.0250000003725
-      z: 0.0100000007078
-    - 
-      x: 0.0450000017881
-      y: -0.0250000003725
-      z: 0.0100000007078
-    - 
-      x: 0.0450000017881
-      y: -0.015000000596
-      z: 0.0100000007078
-    - 
-      x: -0.0449144504964
-      y: -0.0249144490808
-      z: 0.00869473908097
-    - 
-      x: 0.0449144542217
-      y: 0.0249144509435
-      z: 0.00869473908097
-    - 
-      x: 0.0449144542217
-      y: -0.0249144490808
-      z: 0.00869473908097
-    - 
-      x: -0.0449144504964
-      y: 0.0249144509435
-      z: 0.00869473908097
-    - 
-      x: -0.0446592606604
-      y: -0.0246592611074
-      z: 0.0074118101038
-    - 
-      x: 0.0449144542217
-      y: -0.015000000596
-      z: 0.00869473908097
-    - 
-      x: 0.0446592569351
-      y: 0.0246592592448
-      z: 0.0074118101038
-    - 
-      x: 0.0446592569351
-      y: -0.0246592611074
-      z: 0.0074118101038
-    - 
-      x: -0.0446592606604
-      y: 0.0246592592448
-      z: 0.0074118101038
-    - 
-      x: -0.0442387983203
-      y: -0.0242387969047
-      z: 0.00617316598073
-    - 
-      x: 0.0446592569351
-      y: -0.015000000596
-      z: 0.0074118101038
-    - 
-      x: 0.044238794595
-      y: 0.024238795042
-      z: 0.00617316598073
-    - 
-      x: 0.044238794595
-      y: -0.0242387969047
-      z: 0.00617316598073
-    - 
-      x: -0.0442387983203
-      y: 0.024238795042
-      z: 0.00617316598073
-    - 
-      x: -0.0436602570117
-      y: -0.0236602574587
-      z: 0.0050000003539
-    - 
-      x: 0.044238794595
-      y: -0.015000000596
-      z: 0.00617316598073
-    - 
-      x: 0.0436602570117
-      y: 0.0236602537334
-      z: 0.0050000003539
-    - 
-      x: 0.0436602570117
-      y: -0.0236602574587
-      z: 0.0050000003539
-    - 
-      x: -0.0436602570117
-      y: 0.0236602537334
-      z: 0.0050000003539
-    - 
-      x: -0.0429335348308
-      y: -0.0229335334152
-      z: 0.00391238601878
-    - 
-      x: 0.0436602570117
-      y: -0.015000000596
-      z: 0.0050000003539
-    - 
-      x: 0.0429335348308
-      y: 0.0229335334152
-      z: 0.00391238601878
-    - 
-      x: 0.0429335348308
-      y: -0.0229335334152
-      z: 0.00391238601878
-    - 
-      x: -0.0429335348308
-      y: 0.0229335334152
-      z: 0.00391238601878
-    - 
-      x: -0.0420710705221
-      y: -0.0220710691065
-      z: 0.00292893243022
-    - 
-      x: 0.0429335348308
-      y: -0.015000000596
-      z: 0.00391238601878
-    - 
-      x: 0.0420710705221
-      y: 0.0220710691065
-      z: 0.00292893243022
-    - 
-      x: 0.0420710705221
-      y: -0.0220710691065
-      z: 0.00292893243022
-    - 
-      x: -0.0420710705221
-      y: 0.0220710691065
-      z: 0.00292893243022
-    - 
-      x: -0.041087616235
-      y: -0.0210876129568
-      z: 0.00206646742299
-    - 
-      x: 0.0420710705221
-      y: -0.015000000596
-      z: 0.00292893243022
-    - 
-      x: -0.041087616235
-      y: 0.0210876148194
-      z: 0.00206646742299
-    - 
-      x: 0.041087616235
-      y: -0.0210876129568
-      z: 0.00206646742299
-    - 
-      x: 0.041087616235
-      y: 0.0210876148194
-      z: 0.00206646742299
-    - 
-      x: -0.0400000028312
-      y: -0.0200000014156
-      z: 0.00133974652272
-    - 
-      x: 0.041087616235
-      y: -0.015000000596
-      z: 0.00206646742299
-    - 
-      x: -0.0400000028312
-      y: 0.0200000014156
-      z: 0.00133974652272
-    - 
-      x: 0.0400000028312
-      y: -0.0200000014156
-      z: 0.00133974652272
-    - 
-      x: 0.0400000028312
-      y: 0.0200000014156
-      z: 0.00133974652272
-    - 
-      x: -0.0388268381357
-      y: -0.0188268367201
-      z: 0.000761204748414
-    - 
-      x: 0.0400000028312
-      y: -0.015000000596
-      z: 0.00133974652272
-    - 
-      x: -0.0388268381357
-      y: 0.0188268348575
-      z: 0.000761204748414
-    - 
-      x: 0.0388268381357
-      y: -0.0188268367201
-      z: 0.000761204748414
-    - 
-      x: 0.0388268381357
-      y: 0.0188268348575
-      z: 0.000761204748414
-    - 
-      x: -0.0375881902874
-      y: -0.0175881888717
-      z: 0.00034074211726
-    - 
-      x: 0.0388268381357
-      y: -0.015000000596
-      z: 0.000761204748414
-    - 
-      x: -0.0375881902874
-      y: 0.0175881907344
-      z: 0.00034074211726
-    - 
-      x: 0.0375881902874
-      y: -0.0175881888717
-      z: 0.00034074211726
-    - 
-      x: 0.0375881902874
-      y: 0.0175881907344
-      z: 0.00034074211726
-    - 
-      x: -0.0363052599132
-      y: -0.0163052640855
-      z: 8.55512626003e-05
-    - 
-      x: 0.0375881902874
-      y: -0.015000000596
-      z: 0.00034074211726
-    - 
-      x: -0.0363052599132
-      y: 0.0163052622229
-      z: 8.55512626003e-05
-    - 
-      x: 0.0363052599132
-      y: -0.0163052640855
-      z: 8.55512626003e-05
-    - 
-      x: 0.0363052599132
-      y: 0.0163052622229
-      z: 8.55512626003e-05
-    - 
-      x: -0.035000000149
-      y: -0.015000000596
-      z: 0.0
-    - 
-      x: 0.0363052599132
-      y: -0.015000000596
-      z: 8.55512626003e-05
-    - 
-      x: -0.035000000149
-      y: 0.015000000596
-      z: 0.0
-    - 
-      x: 0.035000000149
-      y: -0.015000000596
-      z: 0.0
-    - 
-      x: 0.035000000149
-      y: 0.015000000596
-      z: 0.0
+
+  
+ 
+   
+    
+      0, 1, 2
+    
+      1, 0, 3
+    
+      1, 4, 2
+    
+      2, 5, 0
+    
+      3, 0, 6
+    
+      3, 7, 1
+    
+      4, 1, 7
+    
+      5, 2, 4
+    
+      8, 0, 5
+    
+      0, 8, 6
+    
+      3, 6, 9
+    
+      7, 3, 10
+    
+      7, 5, 4
+    
+      5, 10, 8
+    
+      11, 6, 8
+    
+      9, 6, 12
+    
+      9, 10, 3
+    
+      5, 7, 10
+    
+      8, 10, 13
+    
+      6, 11, 12
+    
+      8, 13, 11
+    
+      9, 12, 14
+    
+      10, 9, 13
+    
+      15, 12, 11
+    
+      11, 13, 16
+    
+      14, 12, 17
+    
+      14, 13, 9
+    
+      12, 15, 17
+    
+      11, 16, 15
+    
+      13, 14, 16
+    
+      14, 17, 18
+    
+      15, 19, 17
+    
+      15, 16, 20
+    
+      14, 20, 16
+    
+      18, 17, 19
+    
+      20, 14, 18
+    
+      19, 15, 21
+    
+      15, 20, 21
+    
+      18, 19, 22
+    
+      18, 23, 20
+    
+      21, 24, 19
+    
+      21, 20, 25
+    
+      22, 19, 26
+    
+      18, 22, 27
+    
+      23, 18, 27
+    
+      25, 20, 23
+    
+      24, 21, 28
+    
+      26, 19, 24
+    
+      21, 25, 29
+    
+      26, 25, 22
+    
+      30, 27, 22
+    
+      27, 31, 23
+    
+      23, 32, 25
+    
+      21, 29, 28
+    
+      28, 33, 24
+    
+      26, 24, 34
+    
+      25, 26, 29
+    
+      32, 22, 25
+    
+      27, 30, 35
+    
+      22, 32, 30
+    
+      31, 27, 35
+    
+      32, 23, 31
+    
+      28, 29, 36
+    
+      33, 28, 37
+    
+      38, 24, 33
+    
+      34, 24, 38
+    
+      34, 29, 26
+    
+      35, 30, 39
+    
+      40, 30, 32
+    
+      35, 41, 31
+    
+      32, 31, 40
+    
+      29, 34, 36
+    
+      28, 36, 42
+    
+      28, 42, 37
+    
+      37, 43, 33
+    
+      38, 33, 44
+    
+      42, 34, 38
+    
+      30, 40, 39
+    
+      35, 39, 45
+    
+      41, 35, 46
+    
+      47, 31, 41
+    
+      40, 31, 48
+    
+      34, 42, 36
+    
+      37, 42, 49
+    
+      43, 37, 50
+    
+      44, 33, 43
+    
+      49, 38, 44
+    
+      38, 49, 42
+    
+      40, 45, 39
+    
+      35, 45, 51
+    
+      35, 51, 46
+    
+      46, 52, 41
+    
+      48, 31, 47
+    
+      47, 41, 53
+    
+      45, 40, 48
+    
+      37, 49, 50
+    
+      50, 54, 43
+    
+      44, 43, 54
+    
+      44, 55, 49
+    
+      48, 51, 45
+    
+      46, 51, 56
+    
+      52, 46, 57
+    
+      53, 41, 52
+    
+      51, 48, 47
+    
+      56, 47, 53
+    
+      50, 49, 58
+    
+      54, 50, 58
+    
+      44, 54, 59
+    
+      55, 44, 59
+    
+      58, 49, 55
+    
+      47, 56, 51
+    
+      46, 56, 57
+    
+      57, 60, 52
+    
+      53, 52, 61
+    
+      53, 62, 56
+    
+      58, 63, 54
+    
+      59, 54, 63
+    
+      59, 64, 55
+    
+      58, 55, 65
+    
+      57, 56, 62
+    
+      60, 57, 66
+    
+      61, 52, 60
+    
+      62, 53, 61
+    
+      63, 58, 65
+    
+      59, 63, 67
+    
+      64, 59, 67
+    
+      65, 55, 64
+    
+      57, 62, 66
+    
+      66, 68, 60
+    
+      61, 60, 68
+    
+      61, 69, 62
+    
+      65, 70, 63
+    
+      67, 63, 70
+    
+      67, 71, 64
+    
+      65, 64, 72
+    
+      66, 62, 73
+    
+      68, 66, 73
+    
+      61, 68, 74
+    
+      69, 61, 74
+    
+      73, 62, 69
+    
+      70, 65, 72
+    
+      67, 70, 75
+    
+      71, 67, 75
+    
+      72, 64, 71
+    
+      76, 68, 73
+    
+      74, 68, 77
+    
+      74, 78, 69
+    
+      73, 69, 76
+    
+      72, 79, 70
+    
+      75, 70, 79
+    
+      75, 80, 71
+    
+      72, 71, 81
+    
+      68, 76, 77
+    
+      74, 77, 82
+    
+      78, 74, 83
+    
+      84, 69, 78
+    
+      76, 69, 85
+    
+      79, 72, 81
+    
+      75, 79, 86
+    
+      80, 75, 86
+    
+      81, 71, 80
+    
+      85, 77, 76
+    
+      77, 85, 82
+    
+      82, 87, 74
+    
+      74, 87, 83
+    
+      88, 78, 83
+    
+      84, 85, 69
+    
+      84, 78, 89
+    
+      90, 79, 81
+    
+      86, 79, 91
+    
+      86, 90, 80
+    
+      81, 80, 90
+    
+      92, 82, 85
+    
+      82, 93, 87
+    
+      83, 87, 94
+    
+      78, 88, 95
+    
+      83, 96, 88
+    
+      97, 85, 84
+    
+      89, 78, 98
+    
+      89, 87, 84
+    
+      79, 90, 91
+    
+      90, 86, 91
+    
+      82, 92, 99
+    
+      97, 92, 85
+    
+      99, 93, 82
+    
+      97, 87, 93
+    
+      87, 89, 94
+    
+      83, 94, 96
+    
+      100, 95, 88
+    
+      98, 78, 95
+    
+      88, 96, 101
+    
+      87, 97, 84
+    
+      98, 94, 89
+    
+      102, 99, 92
+    
+      97, 102, 92
+    
+      103, 93, 99
+    
+      93, 104, 97
+    
+      94, 98, 96
+    
+      95, 100, 105
+    
+      88, 101, 100
+    
+      98, 95, 106
+    
+      96, 106, 101
+    
+      99, 102, 103
+    
+      104, 102, 97
+    
+      103, 107, 93
+    
+      104, 93, 107
+    
+      106, 96, 98
+    
+      101, 105, 100
+    
+      106, 95, 105
+    
+      105, 101, 106
+    
+      102, 108, 103
+    
+      104, 109, 102
+    
+      108, 107, 103
+    
+      107, 110, 104
+    
+      108, 102, 109
+    
+      104, 111, 109
+    
+      112, 107, 108
+    
+      110, 107, 113
+    
+      110, 111, 104
+    
+      109, 112, 108
+    
+      112, 109, 111
+    
+      112, 113, 107
+    
+      113, 114, 110
+    
+      114, 111, 110
+    
+      111, 115, 112
+    
+      112, 116, 113
+    
+      114, 113, 116
+    
+      114, 117, 111
+    
+      115, 111, 117
+    
+      115, 116, 112
+    
+      116, 118, 114
+    
+      114, 119, 117
+    
+      117, 120, 115
+    
+      120, 116, 115
+    
+      118, 116, 121
+    
+      118, 119, 114
+    
+      120, 117, 119
+    
+      120, 121, 116
+    
+      121, 122, 118
+    
+      118, 123, 119
+    
+      119, 124, 120
+    
+      124, 121, 120
+    
+      122, 121, 125
+    
+      122, 123, 118
+    
+      124, 119, 123
+    
+      124, 125, 121
+    
+      125, 126, 122
+    
+      122, 127, 123
+    
+      123, 128, 124
+    
+      128, 125, 124
+    
+      126, 125, 129
+    
+      126, 130, 122
+    
+      122, 130, 127
+    
+      128, 123, 127
+    
+      131, 125, 128
+    
+      125, 132, 129
+    
+      132, 126, 129
+    
+      130, 126, 133
+    
+      131, 127, 130
+    
+      127, 131, 128
+    
+      132, 125, 131
+    
+      126, 132, 133
+    
+      132, 130, 133
+    
+      130, 132, 131
+    
+      134, 135, 136
+    
+      135, 134, 137
+    
+      135, 138, 136
+    
+      139, 134, 136
+    
+      140, 137, 134
+    
+      135, 137, 141
+    
+      138, 135, 142
+    
+      143, 136, 138
+    
+      139, 144, 134
+    
+      139, 136, 145
+    
+      137, 140, 146
+    
+      144, 140, 134
+    
+      141, 137, 147
+    
+      141, 142, 135
+    
+      142, 140, 138
+    
+      136, 143, 145
+    
+      138, 148, 143
+    
+      149, 144, 139
+    
+      139, 145, 150
+    
+      140, 142, 146
+    
+      146, 151, 137
+    
+      140, 144, 152
+    
+      147, 137, 151
+    
+      147, 153, 141
+    
+      142, 141, 153
+    
+      140, 148, 138
+    
+      154, 145, 143
+    
+      143, 148, 155
+    
+      149, 156, 144
+    
+      139, 157, 149
+    
+      150, 145, 158
+    
+      155, 139, 150
+    
+      146, 142, 153
+    
+      151, 146, 159
+    
+      156, 152, 144
+    
+      152, 148, 140
+    
+      147, 151, 160
+    
+      153, 147, 161
+    
+      145, 154, 158
+    
+      143, 155, 154
+    
+      139, 155, 148
+    
+      162, 156, 149
+    
+      157, 139, 148
+    
+      163, 149, 157
+    
+      150, 158, 164
+    
+      150, 165, 155
+    
+      146, 153, 161
+    
+      146, 161, 159
+    
+      159, 166, 151
+    
+      152, 156, 167
+    
+      152, 157, 148
+    
+      160, 151, 168
+    
+      160, 161, 147
+    
+      169, 158, 154
+    
+      154, 155, 169
+    
+      162, 170, 156
+    
+      149, 163, 162
+    
+      167, 163, 157
+    
+      158, 169, 164
+    
+      150, 164, 171
+    
+      165, 150, 171
+    
+      169, 155, 165
+    
+      159, 161, 172
+    
+      166, 159, 173
+    
+      168, 151, 166
+    
+      170, 167, 156
+    
+      167, 157, 152
+    
+      168, 172, 160
+    
+      161, 160, 172
+    
+      174, 170, 162
+    
+      175, 162, 163
+    
+      176, 163, 167
+    
+      177, 164, 169
+    
+      171, 164, 178
+    
+      171, 179, 165
+    
+      169, 165, 177
+    
+      159, 172, 180
+    
+      159, 180, 173
+    
+      173, 181, 166
+    
+      168, 166, 182
+    
+      167, 170, 176
+    
+      172, 168, 180
+    
+      170, 174, 183
+    
+      162, 175, 174
+    
+      176, 175, 163
+    
+      164, 177, 178
+    
+      171, 178, 184
+    
+      179, 171, 185
+    
+      186, 165, 179
+    
+      177, 165, 186
+    
+      173, 180, 187
+    
+      181, 173, 188
+    
+      189, 166, 181
+    
+      182, 166, 189
+    
+      187, 168, 182
+    
+      183, 176, 170
+    
+      168, 187, 180
+    
+      174, 190, 183
+    
+      190, 174, 175
+    
+      175, 176, 190
+    
+      186, 178, 177
+    
+      178, 186, 184
+    
+      171, 184, 185
+    
+      185, 191, 179
+    
+      186, 179, 192
+    
+      173, 187, 193
+    
+      173, 193, 188
+    
+      188, 194, 181
+    
+      189, 181, 195
+    
+      193, 182, 189
+    
+      182, 193, 187
+    
+      176, 183, 190
+    
+      186, 196, 184
+    
+      185, 184, 196
+    
+      191, 185, 197
+    
+      198, 179, 191
+    
+      192, 179, 198
+    
+      196, 186, 192
+    
+      188, 193, 199
+    
+      194, 188, 200
+    
+      195, 181, 194
+    
+      199, 189, 195
+    
+      189, 199, 193
+    
+      185, 196, 201
+    
+      185, 201, 197
+    
+      197, 202, 191
+    
+      198, 191, 203
+    
+      201, 192, 198
+    
+      192, 201, 196
+    
+      188, 199, 200
+    
+      200, 204, 194
+    
+      195, 194, 205
+    
+      195, 206, 199
+    
+      197, 201, 207
+    
+      202, 197, 208
+    
+      203, 191, 202
+    
+      207, 198, 203
+    
+      198, 207, 201
+    
+      200, 199, 206
+    
+      204, 200, 209
+    
+      210, 194, 204
+    
+      205, 194, 210
+    
+      206, 195, 205
+    
+      197, 207, 208
+    
+      208, 211, 202
+    
+      203, 202, 212
+    
+      203, 213, 207
+    
+      200, 206, 214
+    
+      200, 214, 209
+    
+      209, 215, 204
+    
+      210, 204, 216
+    
+      214, 205, 210
+    
+      205, 214, 206
+    
+      208, 207, 213
+    
+      211, 208, 217
+    
+      218, 202, 211
+    
+      212, 202, 218
+    
+      213, 203, 212
+    
+      209, 214, 219
+    
+      215, 209, 220
+    
+      221, 204, 215
+    
+      216, 204, 221
+    
+      219, 210, 216
+    
+      210, 219, 214
+    
+      208, 213, 222
+    
+      208, 222, 217
+    
+      217, 223, 211
+    
+      218, 211, 224
+    
+      222, 212, 218
+    
+      212, 222, 213
+    
+      209, 219, 225
+    
+      209, 225, 220
+    
+      220, 226, 215
+    
+      221, 215, 227
+    
+      221, 219, 216
+    
+      217, 222, 228
+    
+      223, 217, 229
+    
+      230, 211, 223
+    
+      224, 211, 230
+    
+      228, 218, 224
+    
+      218, 228, 222
+    
+      219, 221, 225
+    
+      220, 225, 231
+    
+      226, 220, 232
+    
+      233, 215, 226
+    
+      227, 215, 233
+    
+      227, 225, 221
+    
+      217, 228, 234
+    
+      217, 234, 229
+    
+      229, 235, 223
+    
+      230, 223, 236
+    
+      230, 228, 224
+    
+      225, 227, 231
+    
+      220, 231, 237
+    
+      220, 237, 232
+    
+      238, 226, 232
+    
+      233, 226, 239
+    
+      233, 231, 227
+    
+      228, 230, 234
+    
+      229, 234, 240
+    
+      235, 229, 241
+    
+      236, 223, 235
+    
+      236, 234, 230
+    
+      231, 233, 237
+    
+      232, 237, 242
+    
+      226, 238, 243
+    
+      232, 244, 238
+    
+      239, 226, 245
+    
+      239, 237, 233
+    
+      234, 236, 240
+    
+      229, 240, 241
+    
+      246, 235, 241
+    
+      236, 235, 247
+    
+      237, 239, 242
+    
+      232, 242, 248
+    
+      249, 243, 238
+    
+      241, 226, 243
+    
+      232, 235, 244
+    
+      238, 244, 249
+    
+      241, 245, 226
+    
+      245, 242, 239
+    
+      247, 240, 236
+    
+      241, 240, 250
+    
+      235, 246, 244
+    
+      241, 243, 246
+    
+      247, 235, 251
+    
+      242, 245, 248
+    
+      232, 248, 235
+    
+      243, 249, 252
+    
+      249, 244, 253
+    
+      241, 254, 245
+    
+      240, 247, 250
+    
+      241, 250, 254
+    
+      255, 244, 246
+    
+      246, 243, 252
+    
+      251, 235, 248
+    
+      251, 250, 247
+    
+      254, 248, 245
+    
+      256, 252, 249
+    
+      244, 255, 253
+    
+      249, 253, 256
+    
+      250, 251, 254
+    
+      246, 252, 255
+    
+      248, 254, 251
+    
+      252, 256, 257
+    
+      258, 253, 255
+    
+      256, 253, 259
+    
+      255, 252, 257
+    
+      260, 257, 256
+    
+      253, 258, 259
+    
+      255, 257, 258
+    
+      256, 259, 260
+    
+      257, 260, 261
+    
+      261, 259, 258
+    
+      258, 257, 261
+    
+      259, 261, 260
+    
+      262, 263, 264
+    
+      263, 262, 265
+    
+      266, 264, 263
+    
+      264, 267, 262
+    
+      265, 262, 268
+    
+      265, 266, 263
+    
+      264, 266, 269
+    
+      267, 264, 269
+    
+      267, 270, 262
+    
+      268, 262, 271
+    
+      268, 272, 265
+    
+      266, 265, 273
+    
+      266, 267, 269
+    
+      270, 267, 274
+    
+      271, 262, 270
+    
+      271, 275, 268
+    
+      272, 268, 276
+    
+      277, 265, 272
+    
+      265, 277, 273
+    
+      267, 266, 273
+    
+      267, 278, 274
+    
+      279, 270, 274
+    
+      271, 270, 276
+    
+      275, 271, 278
+    
+      275, 276, 268
+    
+      276, 280, 272
+    
+      281, 277, 272
+    
+      277, 275, 273
+    
+      267, 273, 275
+    
+      267, 275, 278
+    
+      274, 278, 282
+    
+      270, 279, 280
+    
+      274, 282, 279
+    
+      276, 270, 280
+    
+      276, 278, 271
+    
+      276, 275, 282
+    
+      272, 280, 281
+    
+      277, 281, 283
+    
+      275, 277, 282
+    
+      278, 276, 282
+    
+      279, 281, 280
+    
+      279, 282, 277
+    
+      281, 279, 283
+    
+      279, 277, 283
+    
+      284, 285, 286
+    
+      285, 284, 287
+    
+      285, 288, 286
+    
+      286, 289, 284
+    
+      289, 287, 284
+    
+      285, 287, 290
+    
+      288, 285, 291
+    
+      292, 286, 288
+    
+      289, 286, 293
+    
+      287, 289, 294
+    
+      290, 287, 295
+    
+      296, 285, 290
+    
+      285, 297, 291
+    
+      288, 291, 298
+    
+      286, 292, 293
+    
+      298, 292, 288
+    
+      292, 289, 293
+    
+      289, 299, 294
+    
+      294, 300, 287
+    
+      295, 287, 300
+    
+      301, 290, 295
+    
+      285, 296, 299
+    
+      290, 301, 296
+    
+      297, 285, 299
+    
+      297, 302, 291
+    
+      302, 298, 291
+    
+      292, 298, 303
+    
+      289, 292, 299
+    
+      294, 299, 296
+    
+      300, 294, 304
+    
+      295, 300, 305
+    
+      295, 306, 301
+    
+      294, 296, 301
+    
+      299, 303, 297
+    
+      302, 297, 307
+    
+      298, 302, 308
+    
+      298, 309, 303
+    
+      299, 292, 303
+    
+      294, 301, 304
+    
+      304, 305, 300
+    
+      295, 305, 310
+    
+      306, 295, 310
+    
+      311, 301, 306
+    
+      309, 297, 303
+    
+      297, 309, 307
+    
+      307, 312, 302
+    
+      308, 302, 312
+    
+      309, 298, 308
+    
+      304, 301, 311
+    
+      305, 304, 311
+    
+      310, 305, 313
+    
+      310, 314, 306
+    
+      311, 306, 315
+    
+      307, 309, 316
+    
+      312, 307, 316
+    
+      308, 312, 317
+    
+      308, 318, 309
+    
+      311, 313, 305
+    
+      310, 313, 319
+    
+      314, 310, 319
+    
+      315, 306, 314
+    
+      313, 311, 315
+    
+      316, 309, 318
+    
+      316, 320, 312
+    
+      317, 312, 320
+    
+      318, 308, 317
+    
+      319, 313, 321
+    
+      321, 314, 319
+    
+      315, 314, 322
+    
+      315, 323, 313
+    
+      316, 318, 324
+    
+      320, 316, 324
+    
+      317, 320, 325
+    
+      317, 326, 318
+    
+      321, 313, 323
+    
+      314, 321, 322
+    
+      315, 322, 327
+    
+      323, 315, 327
+    
+      324, 318, 326
+    
+      324, 328, 320
+    
+      325, 320, 328
+    
+      326, 317, 325
+    
+      321, 323, 329
+    
+      329, 322, 321
+    
+      327, 322, 330
+    
+      327, 331, 323
+    
+      324, 326, 332
+    
+      328, 324, 332
+    
+      325, 328, 333
+    
+      325, 334, 326
+    
+      329, 323, 335
+    
+      322, 329, 330
+    
+      327, 330, 336
+    
+      331, 327, 337
+    
+      338, 323, 331
+    
+      332, 326, 339
+    
+      332, 333, 328
+    
+      325, 333, 340
+    
+      334, 325, 340
+    
+      339, 326, 334
+    
+      338, 335, 323
+    
+      335, 330, 329
+    
+      330, 335, 336
+    
+      336, 341, 327
+    
+      327, 341, 337
+    
+      342, 331, 337
+    
+      338, 331, 343
+    
+      333, 332, 339
+    
+      340, 333, 344
+    
+      340, 341, 334
+    
+      339, 334, 345
+    
+      340, 335, 338
+    
+      346, 336, 335
+    
+      336, 334, 341
+    
+      337, 341, 347
+    
+      331, 342, 348
+    
+      337, 347, 342
+    
+      343, 331, 348
+    
+      343, 341, 338
+    
+      345, 333, 339
+    
+      333, 345, 344
+    
+      340, 344, 346
+    
+      341, 340, 338
+    
+      345, 334, 349
+    
+      340, 346, 335
+    
+      336, 346, 349
+    
+      349, 334, 336
+    
+      341, 343, 347
+    
+      350, 348, 342
+    
+      342, 347, 351
+    
+      343, 348, 352
+    
+      349, 344, 345
+    
+      344, 349, 346
+    
+      352, 347, 343
+    
+      348, 350, 353
+    
+      342, 351, 350
+    
+      347, 352, 351
+    
+      352, 348, 353
+    
+      354, 353, 350
+    
+      350, 351, 355
+    
+      356, 351, 352
+    
+      352, 353, 356
+    
+      353, 354, 357
+    
+      350, 355, 354
+    
+      351, 356, 355
+    
+      356, 353, 357
+    
+      355, 357, 354
+    
+      357, 355, 356
+    
+      358, 359, 360
+    
+      359, 358, 361
+    
+      359, 362, 360
+    
+      360, 363, 358
+    
+      358, 364, 361
+    
+      361, 365, 359
+    
+      362, 359, 366
+    
+      367, 360, 362
+    
+      363, 360, 368
+    
+      363, 369, 358
+    
+      364, 358, 370
+    
+      370, 361, 364
+    
+      365, 361, 371
+    
+      365, 366, 359
+    
+      366, 372, 362
+    
+      360, 367, 368
+    
+      362, 373, 367
+    
+      374, 363, 368
+    
+      369, 363, 372
+    
+      372, 358, 369
+    
+      370, 358, 372
+    
+      375, 361, 370
+    
+      361, 376, 371
+    
+      371, 377, 365
+    
+      366, 365, 378
+    
+      372, 366, 370
+    
+      373, 362, 372
+    
+      379, 368, 367
+    
+      380, 367, 373
+    
+      363, 374, 381
+    
+      368, 379, 374
+    
+      372, 363, 373
+    
+      376, 361, 375
+    
+      370, 378, 375
+    
+      375, 371, 376
+    
+      377, 371, 382
+    
+      377, 378, 365
+    
+      378, 370, 366
+    
+      367, 380, 379
+    
+      383, 380, 373
+    
+      384, 381, 374
+    
+      385, 363, 381
+    
+      386, 374, 379
+    
+      373, 363, 383
+    
+      387, 375, 378
+    
+      388, 371, 375
+    
+      371, 389, 382
+    
+      382, 390, 377
+    
+      378, 377, 387
+    
+      391, 379, 380
+    
+      383, 385, 380
+    
+      381, 384, 392
+    
+      374, 386, 384
+    
+      363, 385, 383
+    
+      381, 393, 385
+    
+      379, 391, 386
+    
+      375, 387, 388
+    
+      389, 371, 388
+    
+      388, 382, 389
+    
+      390, 382, 394
+    
+      390, 387, 377
+    
+      385, 391, 380
+    
+      395, 392, 384
+    
+      393, 381, 392
+    
+      396, 384, 386
+    
+      385, 393, 391
+    
+      397, 386, 391
+    
+      398, 388, 387
+    
+      399, 382, 388
+    
+      382, 400, 394
+    
+      394, 401, 390
+    
+      387, 390, 398
+    
+      392, 395, 402
+    
+      384, 396, 395
+    
+      392, 403, 393
+    
+      386, 397, 396
+    
+      393, 397, 391
+    
+      388, 398, 399
+    
+      400, 382, 399
+    
+      399, 394, 400
+    
+      401, 394, 404
+    
+      401, 398, 390
+    
+      405, 402, 395
+    
+      403, 392, 402
+    
+      406, 395, 396
+    
+      393, 403, 397
+    
+      407, 396, 397
+    
+      408, 399, 398
+    
+      409, 394, 399
+    
+      394, 409, 404
+    
+      410, 401, 404
+    
+      398, 401, 408
+    
+      402, 405, 411
+    
+      395, 406, 405
+    
+      402, 412, 403
+    
+      396, 407, 406
+    
+      403, 407, 397
+    
+      399, 408, 409
+    
+      409, 413, 404
+    
+      401, 410, 408
+    
+      410, 404, 414
+    
+      415, 411, 405
+    
+      412, 402, 411
+    
+      416, 405, 406
+    
+      403, 412, 407
+    
+      417, 406, 407
+    
+      408, 418, 409
+    
+      409, 418, 413
+    
+      414, 404, 413
+    
+      418, 408, 410
+    
+      414, 419, 410
+    
+      411, 415, 420
+    
+      405, 416, 415
+    
+      411, 421, 412
+    
+      406, 417, 416
+    
+      412, 417, 407
+    
+      422, 413, 418
+    
+      423, 414, 413
+    
+      419, 418, 410
+    
+      419, 414, 424
+    
+      425, 420, 415
+    
+      421, 411, 420
+    
+      426, 415, 416
+    
+      412, 421, 417
+    
+      427, 416, 417
+    
+      413, 422, 423
+    
+      418, 419, 422
+    
+      414, 423, 424
+    
+      424, 422, 419
+    
+      420, 425, 428
+    
+      415, 426, 425
+    
+      420, 429, 421
+    
+      416, 427, 426
+    
+      421, 427, 417
+    
+      422, 424, 423
+    
+      430, 428, 425
+    
+      429, 420, 428
+    
+      426, 430, 425
+    
+      421, 429, 427
+    
+      431, 426, 427
+    
+      428, 430, 432
+    
+      432, 429, 428
+    
+      430, 426, 433
+    
+      429, 431, 427
+    
+      426, 431, 433
+    
+      434, 432, 430
+    
+      429, 432, 435
+    
+      433, 434, 430
+    
+      429, 435, 431
+    
+      436, 433, 431
+    
+      432, 434, 437
+    
+      437, 435, 432
+    
+      434, 433, 438
+    
+      435, 436, 431
+    
+      433, 436, 438
+    
+      439, 437, 434
+    
+      435, 437, 440
+    
+      438, 439, 434
+    
+      435, 440, 436
+    
+      441, 438, 436
+    
+      437, 439, 442
+    
+      442, 440, 437
+    
+      439, 438, 443
+    
+      440, 441, 436
+    
+      438, 441, 443
+    
+      444, 442, 439
+    
+      440, 442, 445
+    
+      443, 444, 439
+    
+      440, 445, 441
+    
+      446, 443, 441
+    
+      442, 444, 447
+    
+      447, 445, 442
+    
+      444, 443, 448
+    
+      445, 446, 441
+    
+      443, 446, 448
+    
+      449, 447, 444
+    
+      445, 447, 450
+    
+      448, 449, 444
+    
+      445, 450, 446
+    
+      451, 448, 446
+    
+      447, 449, 452
+    
+      452, 450, 447
+    
+      449, 448, 453
+    
+      450, 451, 446
+    
+      448, 451, 453
+    
+      454, 452, 449
+    
+      450, 452, 455
+    
+      453, 454, 449
+    
+      450, 455, 451
+    
+      456, 453, 451
+    
+      452, 454, 457
+    
+      457, 455, 452
+    
+      454, 453, 458
+    
+      455, 456, 451
+    
+      453, 456, 458
+    
+      459, 457, 454
+    
+      455, 457, 460
+    
+      461, 454, 458
+    
+      455, 460, 456
+    
+      456, 461, 458
+    
+      457, 459, 462
+    
+      454, 461, 459
+    
+      457, 456, 460
+    
+      461, 456, 463
+    
+      464, 462, 459
+    
+      465, 457, 462
+    
+      466, 459, 461
+    
+      457, 465, 456
+    
+      456, 465, 463
+    
+      463, 466, 461
+    
+      462, 464, 467
+    
+      459, 466, 464
+    
+      462, 463, 465
+    
+      466, 463, 468
+    
+      469, 467, 464
+    
+      462, 467, 470
+    
+      471, 464, 466
+    
+      470, 463, 462
+    
+      463, 470, 468
+    
+      468, 471, 466
+    
+      467, 469, 472
+    
+      464, 471, 469
+    
+      467, 468, 470
+    
+      471, 468, 473
+    
+      474, 472, 469
+    
+      467, 472, 475
+    
+      476, 469, 471
+    
+      475, 468, 467
+    
+      468, 475, 473
+    
+      473, 476, 471
+    
+      472, 474, 477
+    
+      469, 476, 474
+    
+      472, 473, 475
+    
+      476, 473, 478
+    
+      479, 477, 474
+    
+      472, 477, 480
+    
+      481, 474, 476
+    
+      480, 473, 472
+    
+      473, 480, 478
+    
+      478, 481, 476
+    
+      477, 479, 482
+    
+      474, 481, 479
+    
+      477, 478, 480
+    
+      481, 478, 483
+    
+      484, 482, 479
+    
+      477, 482, 485
+    
+      486, 479, 481
+    
+      485, 478, 477
+    
+      478, 485, 483
+    
+      483, 486, 481
+    
+      482, 484, 487
+    
+      479, 486, 484
+    
+      482, 483, 485
+    
+      486, 483, 488
+    
+      484, 488, 487
+    
+      488, 482, 487
+    
+      488, 484, 486
+    
+      482, 488, 483
+   
+    
+      -0.0259323194623
+      0.00453250715509
+      0.0184000004083
+    
+      -0.0259590111673
+      0.00268491753377
+      0.0184000004083
+    
+      -0.0260288212448
+      0.00358150689863
+      0.0184000004083
+    
+      -0.0257495772094
+      0.00190057384316
+      0.0184000004083
+    
+      -0.0260288212448
+      0.00358150689863
+      0.0197970662266
+    
+      -0.0259323194623
+      0.00453250715509
+      0.0197970662266
+    
+      -0.0256428103894
+      0.00540343113244
+      0.0184000004083
+    
+      -0.0259590111673
+      0.00268491753377
+      0.0197970662266
+    
+      -0.0256428103894
+      0.00540343113244
+      0.0197970662266
+    
+      -0.0254142116755
+      0.00122026063036
+      0.0184000004083
+    
+      -0.0257495772094
+      0.00190057384316
+      0.0197970662266
+    
+      -0.0251602940261
+      0.00619427720085
+      0.0197970662266
+    
+      -0.0251602940261
+      0.00619427720085
+      0.0184000004083
+    
+      -0.0254142116755
+      0.00122026063036
+      0.0197970662266
+    
+      -0.024966603145
+      0.000635767006315
+      0.0184000004083
+    
+      -0.0244847722352
+      0.00690504675731
+      0.0197970662266
+    
+      -0.024966603145
+      0.000635767006315
+      0.0197970662266
+    
+      -0.0244847722352
+      0.00690504675731
+      0.0184000004083
+    
+      -0.0244135931134
+      0.000140247357194
+      0.0184000004083
+    
+      -0.0236593615264
+      0.00749193597585
+      0.0184000004083
+    
+      -0.0244135931134
+      0.000140247357194
+      0.0197970662266
+    
+      -0.0236593615264
+      0.00749193597585
+      0.0197970662266
+    
+      -0.0237729772925
+      0.00381147209555
+      0.0184000004083
+    
+      -0.0237839277834
+      -0.000251239776844
+      0.0197970662266
+    
+      -0.0227271839976
+      0.00791114289314
+      0.0184000004083
+    
+      -0.0237729772925
+      0.00381147209555
+      0.0197970662266
+    
+      -0.0235402751714
+      0.00485042016953
+      0.0184000004083
+    
+      -0.0237839277834
+      -0.000251239776844
+      0.0184000004083
+    
+      -0.0227271839976
+      0.00791114289314
+      0.0197970662266
+    
+      -0.0235402751714
+      0.00485042016953
+      0.0197970662266
+    
+      -0.0236360915005
+      0.00287792412564
+      0.0184000004083
+    
+      -0.0222727283835
+      -0.000809726770967
+      0.0197970662266
+    
+      -0.0236360915005
+      0.00287792412564
+      0.0197970662266
+    
+      -0.0216882359236
+      0.00816266704351
+      0.0184000004083
+    
+      -0.0228421669453
+      0.00566761614755
+      0.0184000004083
+    
+      -0.0222727283835
+      -0.000809726770967
+      0.0184000004083
+    
+      -0.0228421669453
+      0.00566761614755
+      0.0197970662266
+    
+      -0.0216882359236
+      0.00816266704351
+      0.0197970662266
+    
+      -0.0217662584037
+      0.00619735755026
+      0.0184000004083
+    
+      -0.0232254397124
+      0.00215791515075
+      0.0184000004083
+    
+      -0.0232254397124
+      0.00215791515075
+      0.0197970662266
+    
+      -0.0207067783922
+      -0.0011930008186
+      0.0197970662266
+    
+      -0.0217662584037
+      0.00619735755026
+      0.0197970662266
+    
+      -0.0205425173044
+      0.00824650842696
+      0.0184000004083
+    
+      -0.020400159061
+      0.00637393770739
+      0.0184000004083
+    
+      -0.0225547086447
+      0.00162680633366
+      0.0184000004083
+    
+      -0.0207067783922
+      -0.0011930008186
+      0.0184000004083
+    
+      -0.0216375868767
+      0.00125995639246
+      0.0197970662266
+    
+      -0.0225547086447
+      0.00162680633366
+      0.0197970662266
+    
+      -0.020400159061
+      0.00637393770739
+      0.0197970662266
+    
+      -0.0205425173044
+      0.00824650842696
+      0.0197970662266
+    
+      -0.0216375868767
+      0.00125995639246
+      0.0184000004083
+    
+      -0.0193269886076
+      -0.0015543748159
+      0.0197970662266
+    
+      -0.0199511796236
+      0.000838354171719
+      0.0197970662266
+    
+      -0.0192106366158
+      0.00817806646228
+      0.0184000004083
+    
+      -0.0190942864865
+      0.00624115951359
+      0.0197970662266
+    
+      -0.0199511796236
+      0.000838354171719
+      0.0184000004083
+    
+      -0.0193269886076
+      -0.0015543748159
+      0.0184000004083
+    
+      -0.0192106366158
+      0.00817806646228
+      0.0197970662266
+    
+      -0.0190942864865
+      0.00624115951359
+      0.0184000004083
+    
+      -0.0184180811048
+      -0.00192943587899
+      0.0197970662266
+    
+      -0.018297623843
+      0.000405801780289
+      0.0197970662266
+    
+      -0.018297623843
+      0.000405801780289
+      0.0184000004083
+    
+      -0.0179526749998
+      0.00797274056822
+      0.0184000004083
+    
+      -0.017848642543
+      0.00584282912314
+      0.0197970662266
+    
+      -0.0179526749998
+      0.00797274056822
+      0.0197970662266
+    
+      -0.0184180811048
+      -0.00192943587899
+      0.0184000004083
+    
+      -0.017848642543
+      0.00584282912314
+      0.0184000004083
+    
+      -0.0177938900888
+      -0.00246328185312
+      0.0197970662266
+    
+      -0.0168384425342
+      -0.000240289693465
+      0.0184000004083
+    
+      -0.0167768429965
+      0.00764148170128
+      0.0184000004083
+    
+      -0.0167426224798
+      0.00526654627174
+      0.0197970662266
+    
+      -0.0167768429965
+      0.00764148170128
+      0.0197970662266
+    
+      -0.0177938900888
+      -0.00246328185312
+      0.0184000004083
+    
+      -0.0168384425342
+      -0.000240289693465
+      0.0197970662266
+    
+      -0.0167426224798
+      0.00526654627174
+      0.0184000004083
+    
+      -0.0174325164407
+      -0.00316686462611
+      0.0184000004083
+    
+      -0.0174325164407
+      -0.00316686462611
+      0.0197970662266
+    
+      -0.0158337149769
+      -0.00114919862244
+      0.0184000004083
+    
+      -0.0156913548708
+      0.0071952403523
+      0.0184000004083
+    
+      -0.0158556159586
+      0.00459992233664
+      0.0197970662266
+    
+      -0.0156913548708
+      0.0071952403523
+      0.0197970662266
+    
+      -0.0173120610416
+      -0.00405113445595
+      0.0197970662266
+    
+      -0.0158337149769
+      -0.00114919862244
+      0.0197970662266
+    
+      -0.0165345594287
+      -0.00717208534479
+      0.0184000004083
+    
+      -0.0173120610416
+      -0.00405113445595
+      0.0184000004083
+    
+      -0.0158556159586
+      0.00459992233664
+      0.0184000004083
+    
+      -0.0165345594287
+      -0.00717208534479
+      0.0197970662266
+    
+      -0.0152505878359
+      -0.002309972886
+      0.0197970662266
+    
+      -0.0159117374569
+      -0.00645481515676
+      0.0184000004083
+    
+      -0.0156913548708
+      0.00459992233664
+      0.0197970662266
+    
+      -0.0156913548708
+      0.00459992233664
+      0.0184000004083
+    
+      -0.0175420250744
+      -0.0051585258916
+      0.0184000004083
+    
+      -0.017373656854
+      -0.00780175067484
+      0.0197970662266
+    
+      -0.0159117374569
+      -0.00645481515676
+      0.0197970662266
+    
+      -0.0152505878359
+      -0.002309972886
+      0.0184000004083
+    
+      -0.0154449641705
+      -0.00559518439695
+      0.0197970662266
+    
+      -0.017373656854
+      -0.00780175067484
+      0.0184000004083
+    
+      -0.0154449641705
+      -0.00559518439695
+      0.0184000004083
+    
+      -0.0175420250744
+      -0.0051585258916
+      0.0197970662266
+    
+      -0.0150562142953
+      -0.00371166248806
+      0.0197970662266
+    
+      -0.0151534015313
+      -0.00465889973566
+      0.0197970662266
+    
+      -0.0182319190353
+      -0.00602773716673
+      0.0184000004083
+    
+      -0.0182319190353
+      -0.00602773716673
+      0.0197970662266
+    
+      -0.0183140505105
+      -0.00826715491712
+      0.0184000004083
+    
+      -0.0150562142953
+      -0.00371166248806
+      0.0184000004083
+    
+      -0.0151534015313
+      -0.00465889973566
+      0.0184000004083
+    
+      -0.0183140505105
+      -0.00826715491712
+      0.0197970662266
+    
+      -0.0187466014177
+      -0.00635591521859
+      0.0197970662266
+    
+      -0.0187466014177
+      -0.00635591521859
+      0.0184000004083
+    
+      -0.0194296520203
+      -0.00855461135507
+      0.0184000004083
+    
+      -0.019370790571
+      -0.00659033050761
+      0.0184000004083
+    
+      -0.019370790571
+      -0.00659033050761
+      0.0197970662266
+    
+      -0.0194296520203
+      -0.00855461135507
+      0.0197970662266
+    
+      -0.0207943823189
+      -0.00865043327212
+      0.0184000004083
+    
+      -0.0209476947784
+      -0.00677786115557
+      0.0197970662266
+    
+      -0.0207943823189
+      -0.00865043327212
+      0.0197970662266
+    
+      -0.0209476947784
+      -0.00677786115557
+      0.0184000004083
+    
+      -0.0224356204271
+      -0.00855872035027
+      0.0184000004083
+    
+      -0.0222316645086
+      -0.00663960864767
+      0.0184000004083
+    
+      -0.0222316645086
+      -0.00663960864767
+      0.0197970662266
+    
+      -0.0224356204271
+      -0.00855872035027
+      0.0197970662266
+    
+      -0.0238113030791
+      -0.00828358158469
+      0.0184000004083
+    
+      -0.0235649142414
+      -0.00622485019267
+      0.0184000004083
+    
+      -0.0235649142414
+      -0.00622485019267
+      0.0197970662266
+    
+      -0.0238113030791
+      -0.00828358158469
+      0.0197970662266
+    
+      -0.0261492803693
+      -0.00738015025854
+      0.0184000004083
+    
+      -0.0248516201973
+      -0.0055582257919
+      0.0184000004083
+    
+      -0.0248516201973
+      -0.0055582257919
+      0.0197970662266
+    
+      -0.0261492803693
+      -0.00738015025854
+      0.0197970662266
+    
+      -0.0259959697723
+      -0.00466437358409
+      0.0184000004083
+    
+      -0.0259959697723
+      -0.00466437358409
+      0.0197970662266
+    
+      -0.0261492803693
+      -0.00466437358409
+      0.0197970662266
+    
+      -0.0261492803693
+      -0.00466437358409
+      0.0184000004083
+    
+      -0.0118148047477
+      0.00607826840132
+      0.0184000004083
+    
+      -0.0114329000935
+      0.00129828462377
+      0.0184000004083
+    
+      -0.011519134976
+      -0.000207437522477
+      0.0184000004083
+    
+      -0.0107758566737
+      0.00703234877437
+      0.0184000004083
+    
+      -0.011519134976
+      -0.000207437522477
+      0.0197970662266
+    
+      -0.0118257561699
+      -0.00647124135867
+      0.0184000004083
+    
+      -0.0118148047477
+      0.00607826840132
+      0.0197970662266
+    
+      -0.0111741870642
+      0.00263974582776
+      0.0184000004083
+    
+      -0.0114329000935
+      0.00129828462377
+      0.0197970662266
+    
+      -0.0114349527285
+      -0.00171760760713
+      0.0197970662266
+    
+      -0.0126484269276
+      0.00485178967938
+      0.0184000004083
+    
+      -0.0114349527285
+      -0.00171760760713
+      0.0184000004083
+    
+      -0.0107758566737
+      0.00703234877437
+      0.0197970662266
+    
+      -0.0107539566234
+      0.00379230896942
+      0.0184000004083
+    
+      -0.0118257561699
+      -0.00647124135867
+      0.0197970662266
+    
+      -0.0126580093056
+      -0.00526118883863
+      0.0184000004083
+    
+      -0.0107799647376
+      -0.00744037656114
+      0.0184000004083
+    
+      -0.00954253412783
+      0.00772634940222
+      0.0184000004083
+    
+      -0.0126484269276
+      0.00485178967938
+      0.0197970662266
+    
+      -0.0111741870642
+      0.00263974582776
+      0.0197970662266
+    
+      -0.011182400398
+      -0.00303956237622
+      0.0197970662266
+    
+      -0.0107799647376
+      -0.00744037656114
+      0.0197970662266
+    
+      -0.0132657745853
+      0.00340629601851
+      0.0184000004083
+    
+      -0.0126580093056
+      -0.00526118883863
+      0.0197970662266
+    
+      -0.011182400398
+      -0.00303956237622
+      0.0184000004083
+    
+      -0.00954253412783
+      0.00772634940222
+      0.0197970662266
+    
+      -0.0101831480861
+      0.00473133102059
+      0.0184000004083
+    
+      -0.0107539566234
+      0.00379230896942
+      0.0197970662266
+    
+      -0.0132712488994
+      -0.00379926897585
+      0.0184000004083
+    
+      -0.0132712488994
+      -0.00379926897585
+      0.0197970662266
+    
+      -0.0107614826411
+      -0.0041733039543
+      0.0184000004083
+    
+      -0.00954800844193
+      -0.00813574995846
+      0.0197970662266
+    
+      -0.00813399907202
+      0.00814932119101
+      0.0184000004083
+    
+      -0.0132657745853
+      0.00340629601851
+      0.0197970662266
+    
+      -0.00945356022567
+      0.00548282265663
+      0.0184000004083
+    
+      -0.0107614826411
+      -0.0041733039543
+      0.0197970662266
+    
+      -0.0136476792395
+      0.00172536284663
+      0.0184000004083
+    
+      -0.00954800844193
+      -0.00813574995846
+      0.0184000004083
+    
+      -0.0101831480861
+      0.00473133102059
+      0.0197970662266
+    
+      -0.00813399907202
+      0.00814932119101
+      0.0197970662266
+    
+      -0.0136490482837
+      -0.0021073857788
+      0.0184000004083
+    
+      -0.0136490482837
+      -0.0021073857788
+      0.0197970662266
+    
+      -0.0136476792395
+      0.00172536284663
+      0.0197970662266
+    
+      -0.0101721994579
+      -0.0051188301295
+      0.0197970662266
+    
+      -0.0101721994579
+      -0.0051188301295
+      0.0184000004083
+    
+      -0.00814084243029
+      -0.00855461135507
+      0.0197970662266
+    
+      -0.00945356022567
+      0.00548282265663
+      0.0197970662266
+    
+      -0.00656941626221
+      0.00829031039029
+      0.0184000004083
+    
+      -0.00862267334014
+      0.00600708788261
+      0.0184000004083
+    
+      -0.0137749807909
+      -0.000207437522477
+      0.0184000004083
+    
+      -0.009441238828
+      -0.00586381927133
+      0.0184000004083
+    
+      -0.00814084243029
+      -0.00855461135507
+      0.0184000004083
+    
+      -0.009441238828
+      -0.00586381927133
+      0.0197970662266
+    
+      -0.00862267334014
+      0.00600708788261
+      0.0197970662266
+    
+      -0.00656941626221
+      0.00829031039029
+      0.0197970662266
+    
+      -0.00766585581005
+      0.00631507718936
+      0.0184000004083
+    
+      -0.0137749807909
+      -0.000207437522477
+      0.0197970662266
+    
+      -0.00656941626221
+      -0.00869423337281
+      0.0197970662266
+    
+      -0.00859529897571
+      -0.00639595463872
+      0.0197970662266
+    
+      -0.00766585581005
+      0.00631507718936
+      0.0197970662266
+    
+      -0.0049870419316
+      0.00814521405846
+      0.0184000004083
+    
+      -0.00655846809968
+      0.00641774013638
+      0.0184000004083
+    
+      -0.00859529897571
+      -0.00639595463872
+      0.0184000004083
+    
+      -0.00656941626221
+      -0.00869423337281
+      0.0184000004083
+    
+      -0.00763437291607
+      -0.00671523716301
+      0.0197970662266
+    
+      -0.00655846809968
+      0.00641774013638
+      0.0197970662266
+    
+      -0.0049870419316
+      0.00814521405846
+      0.0197970662266
+    
+      -0.00763437291607
+      -0.00671523716301
+      0.0184000004083
+    
+      -0.00503768585622
+      -0.00855872035027
+      0.0197970662266
+    
+      -0.00655846809968
+      -0.0068216631189
+      0.0197970662266
+    
+      -0.00356892403215
+      0.00770992320031
+      0.0184000004083
+    
+      -0.00547571573406
+      0.00631234003231
+      0.0184000004083
+    
+      -0.00547571573406
+      0.00631234003231
+      0.0197970662266
+    
+      -0.00655846809968
+      -0.0068216631189
+      0.0184000004083
+    
+      -0.00503768585622
+      -0.00855872035027
+      0.0184000004083
+    
+      -0.00356892403215
+      0.00770992320031
+      0.0197970662266
+    
+      -0.00450521102175
+      0.00599613785744
+      0.0184000004083
+    
+      -0.00364010245539
+      -0.00815217662603
+      0.0197970662266
+    
+      -0.00548290275037
+      -0.00671523716301
+      0.0197970662266
+    
+      -0.00548290275037
+      -0.00671523716301
+      0.0184000004083
+    
+      -0.00450521102175
+      0.00599613785744
+      0.0197970662266
+    
+      -0.00233696750365
+      0.00701181637123
+      0.0184000004083
+    
+      -0.00365789816715
+      0.00546913547441
+      0.0184000004083
+    
+      -0.00364010245539
+      -0.00815217662603
+      0.0184000004083
+    
+      -0.00452300300822
+      -0.00639595463872
+      0.0197970662266
+    
+      -0.00365789816715
+      0.00546913547441
+      0.0197970662266
+    
+      -0.00233696750365
+      0.00701181637123
+      0.0197970662266
+    
+      -0.00294473278336
+      0.00473133102059
+      0.0184000004083
+    
+      -0.00452300300822
+      -0.00639595463872
+      0.0184000004083
+    
+      -0.00239308946766
+      -0.00746091129258
+      0.0197970662266
+    
+      -0.00367877213284
+      -0.00586381927133
+      0.0197970662266
+    
+      -0.00294473278336
+      0.00473133102059
+      0.0197970662266
+    
+      -0.00131307984702
+      0.00607826840132
+      0.0184000004083
+    
+      -0.00238077179529
+      0.00380325899459
+      0.0184000004083
+    
+      -0.00367877213284
+      -0.00586381927133
+      0.0184000004083
+    
+      -0.00239308946766
+      -0.00746091129258
+      0.0184000004083
+    
+      -0.00295020686463
+      -0.0051188301295
+      0.0197970662266
+    
+      -0.00238077179529
+      0.00380325899459
+      0.0197970662266
+    
+      -0.00131307984702
+      0.00607826840132
+      0.0197970662266
+    
+      -0.00195917137899
+      0.00266164797358
+      0.0184000004083
+    
+      -0.00295020686463
+      -0.0051188301295
+      0.0184000004083
+    
+      -0.00131307984702
+      -0.00647124135867
+      0.0197970662266
+    
+      -0.00236331950873
+      -0.0041733039543
+      0.0197970662266
+    
+      -0.00195917137899
+      0.00266164797358
+      0.0197970662266
+    
+      -0.000486301432829
+      0.00487642874941
+      0.0197970662266
+    
+      -0.00169635401107
+      0.00132018665317
+      0.0184000004083
+    
+      -0.00236331950873
+      -0.0041733039543
+      0.0184000004083
+    
+      -0.00131307984702
+      -0.00647124135867
+      0.0184000004083
+    
+      -0.00169635401107
+      0.00132018665317
+      0.0197970662266
+    
+      -0.000486301432829
+      0.00487642874941
+      0.0184000004083
+    
+      -0.000472610496217
+      -0.00525844981894
+      0.0197970662266
+    
+      -0.00160874566063
+      -0.000207437522477
+      0.0184000004083
+    
+      -0.000472610496217
+      -0.00525844981894
+      0.0184000004083
+    
+      -0.00194411096163
+      -0.00303956237622
+      0.0197970662266
+    
+      -0.00160874566063
+      -0.000207437522477
+      0.0197970662266
+    
+      0.000132415778353
+      0.00341724604368
+      0.0197970662266
+    
+      -0.00194411096163
+      -0.00303956237622
+      0.0184000004083
+    
+      -0.00169258890674
+      -0.00171760760713
+      0.0197970662266
+    
+      0.000132415778353
+      0.00341724604368
+      0.0184000004083
+    
+      0.000143367768032
+      -0.00378831871785
+      0.0197970662266
+    
+      -0.00169258890674
+      -0.00171760760713
+      0.0184000004083
+    
+      0.000143367768032
+      -0.00378831871785
+      0.0184000004083
+    
+      0.000518428802025
+      0.00171714986209
+      0.0197970662266
+    
+      0.000518428802025
+      0.00171714986209
+      0.0184000004083
+    
+      0.000521163980011
+      -0.00209369673394
+      0.0184000004083
+    
+      0.000521163980011
+      -0.00209369673394
+      0.0197970662266
+    
+      0.000647098582704
+      -0.000207437522477
+      0.0197970662266
+    
+      0.000647098582704
+      -0.000207437522477
+      0.0184000004083
+    
+      0.00675759138539
+      0.00795083865523
+      0.0184000004083
+    
+      0.00345047772862
+      -0.00835476350039
+      0.0184000004083
+    
+      0.00126033788547
+      -0.00835476350039
+      0.0184000004083
+    
+      0.00492882542312
+      -0.00379926897585
+      0.0184000004083
+    
+      0.00345047772862
+      -0.00835476350039
+      0.0197970662266
+    
+      0.00675759138539
+      0.00795083865523
+      0.0197970662266
+    
+      0.00553111312911
+      -0.00194859900512
+      0.0184000004083
+    
+      0.00126033788547
+      -0.00835476350039
+      0.0197970662266
+    
+      0.00942956563085
+      0.00795083865523
+      0.0184000004083
+    
+      0.00803882628679
+      0.00573879666626
+      0.0184000004083
+    
+      0.0111597748473
+      -0.00379926897585
+      0.0184000004083
+    
+      0.00492882542312
+      -0.00379926897585
+      0.0197970662266
+    
+      0.00942956563085
+      0.00795083865523
+      0.0197970662266
+    
+      0.00553111312911
+      -0.00194859900512
+      0.0197970662266
+    
+      0.010557487607
+      -0.00194859900512
+      0.0184000004083
+    
+      0.0111597748473
+      -0.00379926897585
+      0.0197970662266
+    
+      0.00803882628679
+      0.00573879666626
+      0.0197970662266
+    
+      0.0149268191308
+      -0.00835476350039
+      0.0197970662266
+    
+      0.0149268191308
+      -0.00835476350039
+      0.0184000004083
+    
+      0.0126381227747
+      -0.00835476350039
+      0.0184000004083
+    
+      0.010557487607
+      -0.00194859900512
+      0.0197970662266
+    
+      0.0126381227747
+      -0.00835476350039
+      0.0197970662266
+    
+      0.0164708681405
+      0.00795083865523
+      0.0184000004083
+    
+      0.0186391081661
+      0.0060892184265
+      0.0184000004083
+    
+      0.0164708681405
+      -0.00835476350039
+      0.0184000004083
+    
+      0.0205664299428
+      0.00795083865523
+      0.0184000004083
+    
+      0.0186391081661
+      -0.00835476350039
+      0.0184000004083
+    
+      0.0164708681405
+      0.00795083865523
+      0.0197970662266
+    
+      0.0204350221902
+      0.0060892184265
+      0.0184000004083
+    
+      0.0186391081661
+      -0.000426450744271
+      0.0184000004083
+    
+      0.0186391081661
+      -0.00835476350039
+      0.0197970662266
+    
+      0.0164708681405
+      -0.00835476350039
+      0.0197970662266
+    
+      0.0205664299428
+      0.00795083865523
+      0.0197970662266
+    
+      0.0221378561109
+      0.00594685971737
+      0.0184000004083
+    
+      0.0204350221902
+      0.0060892184265
+      0.0197970662266
+    
+      0.0186391081661
+      -0.000426450744271
+      0.0197970662266
+    
+      0.0186391081661
+      -0.00227712071501
+      0.0184000004083
+    
+      0.0186391081661
+      0.0060892184265
+      0.0197970662266
+    
+      0.0219051595777
+      0.00789061002433
+      0.0184000004083
+    
+      0.0221378561109
+      0.00594685971737
+      0.0197970662266
+    
+      0.0201174560934
+      -0.000426450744271
+      0.0184000004083
+    
+      0.0186391081661
+      -0.00227712071501
+      0.0197970662266
+    
+      0.0219051595777
+      0.00789061002433
+      0.0197970662266
+    
+      0.0230303425342
+      0.00770992320031
+      0.0184000004083
+    
+      0.0233369618654
+      0.00546502880752
+      0.0197970662266
+    
+      0.0201174560934
+      -0.000426450744271
+      0.0197970662266
+    
+      0.0204788297415
+      -0.00227712071501
+      0.0184000004083
+    
+      0.0204788297415
+      -0.00227712071501
+      0.0197970662266
+    
+      0.0233369618654
+      0.00546502880752
+      0.0184000004083
+    
+      0.0230303425342
+      0.00770992320031
+      0.0197970662266
+    
+      0.0213056039065
+      -0.000373067887267
+      0.0184000004083
+    
+      0.0239885263145
+      0.00739509053528
+      0.0184000004083
+    
+      0.023853013292
+      0.00501331174746
+      0.0197970662266
+    
+      0.0239885263145
+      0.00739509053528
+      0.0197970662266
+    
+      0.0213056039065
+      -0.000373067887267
+      0.0197970662266
+    
+      0.0220694132149
+      -0.00217035110109
+      0.0184000004083
+    
+      0.0220694132149
+      -0.00217035110109
+      0.0197970662266
+    
+      0.023853013292
+      0.00501331174746
+      0.0184000004083
+    
+      0.0222418904305
+      -0.000212911618291
+      0.0184000004083
+    
+      0.0242184922099
+      0.00444661360234
+      0.0184000004083
+    
+      0.0242184922099
+      0.00444661360234
+      0.0197970662266
+    
+      0.0248262565583
+      0.00693242298439
+      0.0184000004083
+    
+      0.0222418904305
+      -0.000212911618291
+      0.0197970662266
+    
+      0.0233588647097
+      -0.00185004237574
+      0.0184000004083
+    
+      0.0233588647097
+      -0.00185004237574
+      0.0197970662266
+    
+      0.0248262565583
+      0.00693242298439
+      0.0197970662266
+    
+      0.0229838043451
+      8.41255241539e-05
+      0.0184000004083
+    
+      0.024436134845
+      0.00376766989939
+      0.0184000004083
+    
+      0.024436134845
+      0.00376766989939
+      0.0197970662266
+    
+      0.025636613369
+      0.00622473377734
+      0.0184000004083
+    
+      0.0229838043451
+      8.41255241539e-05
+      0.0197970662266
+    
+      0.0235888306051
+      0.00054816249758
+      0.0184000004083
+    
+      0.0244238208979
+      -0.00132167059928
+      0.0197970662266
+    
+      0.0245086830109
+      0.00297921756282
+      0.0184000004083
+    
+      0.0245086830109
+      0.00297921756282
+      0.0197970662266
+    
+      0.025636613369
+      0.00622473377734
+      0.0197970662266
+    
+      0.0253409426659
+      -0.000590711599216
+      0.0184000004083
+    
+      0.0235888306051
+      0.00054816249758
+      0.0197970662266
+    
+      0.0244238208979
+      -0.00132167059928
+      0.0184000004083
+    
+      0.0253409426659
+      -0.000590711599216
+      0.0197970662266
+    
+      0.0262498483062
+      0.00535004632547
+      0.0197970662266
+    
+      0.0259363874793
+      0.0001470928255
+      0.0184000004083
+    
+      0.0240049529821
+      0.00106284522917
+      0.0184000004083
+    
+      0.0240049529821
+      0.00106284522917
+      0.0197970662266
+    
+      0.0242896731943
+      0.00162133038975
+      0.0184000004083
+    
+      0.0259363874793
+      0.0001470928255
+      0.0197970662266
+    
+      0.0262498483062
+      0.00535004632547
+      0.0184000004083
+    
+      0.0242896731943
+      0.00162133038975
+      0.0197970662266
+    
+      0.026635857299
+      0.00429193349555
+      0.0197970662266
+    
+      0.0263867359608
+      0.00102451711427
+      0.0197970662266
+    
+      0.0263867359608
+      0.00102451711427
+      0.0184000004083
+    
+      0.026635857299
+      0.00429193349555
+      0.0184000004083
+    
+      0.0267645344138
+      0.00303397187963
+      0.0197970662266
+    
+      0.0266700834036
+      0.00200049974956
+      0.0197970662266
+    
+      0.0266700834036
+      0.00200049974956
+      0.0184000004083
+    
+      0.0267645344138
+      0.00303397187963
+      0.0184000004083
+    
+      0.041087616235
+      -0.0210876129568
+      0.0179335344583
+    
+      -0.0400000028312
+      -0.0200000014156
+      0.0186602547765
+    
+      -0.041087616235
+      -0.0210876129568
+      0.0179335344583
+    
+      0.0400000028312
+      -0.0200000014156
+      0.0186602547765
+    
+      -0.041087616235
+      0.0210876148194
+      0.0179335344583
+    
+      0.0420710705221
+      -0.0220710691065
+      0.0170710682869
+    
+      0.0400000028312
+      -0.015000000596
+      0.0186602547765
+    
+      -0.0388268381357
+      -0.0188268367201
+      0.0192387960851
+    
+      -0.0400000028312
+      0.0200000014156
+      0.0186602547765
+    
+      -0.0420710705221
+      0.0220710691065
+      0.0170710682869
+    
+      -0.0420710705221
+      -0.0220710691065
+      0.0170710682869
+    
+      0.041087616235
+      -0.015000000596
+      0.0179335344583
+    
+      0.0400000028312
+      0.0200000014156
+      0.0186602547765
+    
+      0.0388268381357
+      -0.0188268367201
+      0.0192387960851
+    
+      0.041087616235
+      0.0210876148194
+      0.0179335344583
+    
+      0.0420710705221
+      0.0220710691065
+      0.0170710682869
+    
+      -0.0429335348308
+      -0.0229335334152
+      0.0160876139998
+    
+      0.0388268381357
+      0.0188268348575
+      0.0192387960851
+    
+      0.0388268381357
+      -0.015000000596
+      0.0192387960851
+    
+      -0.0375881902874
+      -0.0175881888717
+      0.0196592584252
+    
+      -0.0388268381357
+      0.0188268348575
+      0.0192387960851
+    
+      -0.0429335348308
+      0.0229335334152
+      0.0160876139998
+    
+      0.0429335348308
+      0.0229335334152
+      0.0160876139998
+    
+      0.0429335348308
+      -0.0229335334152
+      0.0160876139998
+    
+      0.0375881902874
+      -0.0175881888717
+      0.0196592584252
+    
+      0.0420710705221
+      -0.015000000596
+      0.0170710682869
+    
+      -0.0436602570117
+      -0.0236602574587
+      0.015000000596
+    
+      0.0429335348308
+      -0.015000000596
+      0.0160876139998
+    
+      -0.0436602570117
+      0.0236602537334
+      0.015000000596
+    
+      -0.0375881902874
+      0.0175881907344
+      0.0196592584252
+    
+      0.0375881902874
+      0.0175881907344
+      0.0196592584252
+    
+      0.0375881902874
+      -0.015000000596
+      0.0196592584252
+    
+      -0.0363052599132
+      -0.0163052640855
+      0.0199144501239
+    
+      0.0436602570117
+      0.0236602537334
+      0.015000000596
+    
+      0.0436602570117
+      -0.0236602574587
+      0.015000000596
+    
+      0.0436602570117
+      -0.015000000596
+      0.015000000596
+    
+      0.0363052599132
+      -0.0163052640855
+      0.0199144501239
+    
+      -0.0442387983203
+      -0.0242387969047
+      0.0138268340379
+    
+      -0.0442387983203
+      0.024238795042
+      0.0138268340379
+    
+      0.044238794595
+      0.024238795042
+      0.0138268340379
+    
+      -0.0363052599132
+      0.0163052622229
+      0.0199144501239
+    
+      0.0363052599132
+      0.0163052622229
+      0.0199144501239
+    
+      0.0363052599132
+      -0.015000000596
+      0.0199144501239
+    
+      -0.035000000149
+      -0.015000000596
+      0.0200000014156
+    
+      0.044238794595
+      -0.0242387969047
+      0.0138268340379
+    
+      0.044238794595
+      -0.015000000596
+      0.0138268340379
+    
+      0.035000000149
+      -0.015000000596
+      0.0200000014156
+    
+      -0.0446592606604
+      -0.0246592611074
+      0.0125881908461
+    
+      -0.0446592606604
+      0.0246592592448
+      0.0125881908461
+    
+      0.0446592569351
+      0.0246592592448
+      0.0125881908461
+    
+      -0.035000000149
+      0.015000000596
+      0.0200000014156
+    
+      0.035000000149
+      0.015000000596
+      0.0200000014156
+    
+      -0.0333571694791
+      -0.0133571671322
+      0.0200000014156
+    
+      0.0446592569351
+      -0.0246592611074
+      0.0125881908461
+    
+      0.0446592569351
+      -0.015000000596
+      0.0125881908461
+    
+      0.0333571732044
+      0.0133571680635
+      0.0200000014156
+    
+      0.0333571732044
+      -0.0133571671322
+      0.0200000014156
+    
+      -0.0449144504964
+      -0.0249144490808
+      0.0113052623346
+    
+      -0.0449144504964
+      0.0249144509435
+      0.0113052623346
+    
+      0.0449144542217
+      0.0249144509435
+      0.0113052623346
+    
+      -0.0333571694791
+      0.0133571680635
+      0.0200000014156
+    
+      -0.0290207378566
+      -0.0112200211734
+      0.0184000004083
+    
+      0.0449144542217
+      -0.0249144490808
+      0.0113052623346
+    
+      0.0449144542217
+      -0.015000000596
+      0.0113052623346
+    
+      -0.0290207378566
+      0.0112200221047
+      0.0184000004083
+    
+      0.0290207378566
+      0.0112200221047
+      0.0184000004083
+    
+      0.0290207378566
+      -0.0112200211734
+      0.0184000004083
+    
+      -0.0450000017881
+      -0.0250000003725
+      0.0100000007078
+    
+      -0.0450000017881
+      0.0250000003725
+      0.0100000007078
+    
+      0.0450000017881
+      0.0250000003725
+      0.0100000007078
+    
+      0.0450000017881
+      -0.0250000003725
+      0.0100000007078
+    
+      0.0450000017881
+      -0.015000000596
+      0.0100000007078
+    
+      -0.0449144504964
+      -0.0249144490808
+      0.00869473908097
+    
+      0.0449144542217
+      0.0249144509435
+      0.00869473908097
+    
+      0.0449144542217
+      -0.0249144490808
+      0.00869473908097
+    
+      -0.0449144504964
+      0.0249144509435
+      0.00869473908097
+    
+      -0.0446592606604
+      -0.0246592611074
+      0.0074118101038
+    
+      0.0449144542217
+      -0.015000000596
+      0.00869473908097
+    
+      0.0446592569351
+      0.0246592592448
+      0.0074118101038
+    
+      0.0446592569351
+      -0.0246592611074
+      0.0074118101038
+    
+      -0.0446592606604
+      0.0246592592448
+      0.0074118101038
+    
+      -0.0442387983203
+      -0.0242387969047
+      0.00617316598073
+    
+      0.0446592569351
+      -0.015000000596
+      0.0074118101038
+    
+      0.044238794595
+      0.024238795042
+      0.00617316598073
+    
+      0.044238794595
+      -0.0242387969047
+      0.00617316598073
+    
+      -0.0442387983203
+      0.024238795042
+      0.00617316598073
+    
+      -0.0436602570117
+      -0.0236602574587
+      0.0050000003539
+    
+      0.044238794595
+      -0.015000000596
+      0.00617316598073
+    
+      0.0436602570117
+      0.0236602537334
+      0.0050000003539
+    
+      0.0436602570117
+      -0.0236602574587
+      0.0050000003539
+    
+      -0.0436602570117
+      0.0236602537334
+      0.0050000003539
+    
+      -0.0429335348308
+      -0.0229335334152
+      0.00391238601878
+    
+      0.0436602570117
+      -0.015000000596
+      0.0050000003539
+    
+      0.0429335348308
+      0.0229335334152
+      0.00391238601878
+    
+      0.0429335348308
+      -0.0229335334152
+      0.00391238601878
+    
+      -0.0429335348308
+      0.0229335334152
+      0.00391238601878
+    
+      -0.0420710705221
+      -0.0220710691065
+      0.00292893243022
+    
+      0.0429335348308
+      -0.015000000596
+      0.00391238601878
+    
+      0.0420710705221
+      0.0220710691065
+      0.00292893243022
+    
+      0.0420710705221
+      -0.0220710691065
+      0.00292893243022
+    
+      -0.0420710705221
+      0.0220710691065
+      0.00292893243022
+    
+      -0.041087616235
+      -0.0210876129568
+      0.00206646742299
+    
+      0.0420710705221
+      -0.015000000596
+      0.00292893243022
+    
+      -0.041087616235
+      0.0210876148194
+      0.00206646742299
+    
+      0.041087616235
+      -0.0210876129568
+      0.00206646742299
+    
+      0.041087616235
+      0.0210876148194
+      0.00206646742299
+    
+      -0.0400000028312
+      -0.0200000014156
+      0.00133974652272
+    
+      0.041087616235
+      -0.015000000596
+      0.00206646742299
+    
+      -0.0400000028312
+      0.0200000014156
+      0.00133974652272
+    
+      0.0400000028312
+      -0.0200000014156
+      0.00133974652272
+    
+      0.0400000028312
+      0.0200000014156
+      0.00133974652272
+    
+      -0.0388268381357
+      -0.0188268367201
+      0.000761204748414
+    
+      0.0400000028312
+      -0.015000000596
+      0.00133974652272
+    
+      -0.0388268381357
+      0.0188268348575
+      0.000761204748414
+    
+      0.0388268381357
+      -0.0188268367201
+      0.000761204748414
+    
+      0.0388268381357
+      0.0188268348575
+      0.000761204748414
+    
+      -0.0375881902874
+      -0.0175881888717
+      0.00034074211726
+    
+      0.0388268381357
+      -0.015000000596
+      0.000761204748414
+    
+      -0.0375881902874
+      0.0175881907344
+      0.00034074211726
+    
+      0.0375881902874
+      -0.0175881888717
+      0.00034074211726
+    
+      0.0375881902874
+      0.0175881907344
+      0.00034074211726
+    
+      -0.0363052599132
+      -0.0163052640855
+      8.55512626003e-05
+    
+      0.0375881902874
+      -0.015000000596
+      0.00034074211726
+    
+      -0.0363052599132
+      0.0163052622229
+      8.55512626003e-05
+    
+      0.0363052599132
+      -0.0163052640855
+      8.55512626003e-05
+    
+      0.0363052599132
+      0.0163052622229
+      8.55512626003e-05
+    
+      -0.035000000149
+      -0.015000000596
+      0.0
+    
+      0.0363052599132
+      -0.015000000596
+      8.55512626003e-05
+    
+      -0.035000000149
+      0.015000000596
+      0.0
+    
+      0.035000000149
+      -0.015000000596
+      0.0
+    
+      0.035000000149
+      0.015000000596
+      0.0
